@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "_comment": "Action/direction sprite contract with QA thresholds. Tune thresholds to the project's frame size.",
+  "art_id": "example_frontier_wolf",
+  "source_identity_asset": "source/identity.png",
+  "frame": {
+    "width": 128,
+    "height": 128,
+    "color_mode": "RGBA",
+    "anchor": "foot_center",
+    "anchor_pixel": [64, 112]
+  },
+  "actions": {
+    "idle": {"directions": ["down", "left", "right", "up"], "frames": 4, "fps": 6, "loop": true},
+    "walk": {"directions": ["down", "left", "right", "up"], "frames": 4, "fps": 9, "loop": true},
+    "attack": {"directions": ["down", "left", "right", "up"], "frames": 6, "fps": 12, "loop": false, "event_frame": 3, "event_frame_index_base": 0},
+    "hit": {"directions": ["down", "left", "right", "up"], "frames": 3, "fps": 12, "loop": false},
+    "death": {"directions": ["down", "left", "right", "up"], "frames": 6, "fps": 8, "loop": false}
+  },
+  "action_aliases": {
+    "attack_light": "attack",
+    "attack_heavy": "attack",
+    "cast_quick": "attack",
+    "cast_channel": "idle"
+  },
+  "mirroring": {
+    "source_direction": "right",
+    "generated_direction": "left",
+    "allowed": true,
+    "review_asymmetry": true
+  },
+  "rank_presentation": {
+    "rank": "normal",
+    "power_tier": 1,
+    "visual_scale": 1.0,
+    "selection_radius_world": 44
+  },
+  "qa": {
+    "transparent_corner_alpha_max": 8,
+    "visible_alpha_threshold": 16,
+    "minimum_body_coverage_ratio": 0.06,
+    "maximum_body_coverage_ratio": 0.72,
+    "maximum_baseline_spread_pixels": 4,
+    "maximum_height_spread_ratio": 0.12,
+    "minimum_changed_pixel_ratio_between_frames": 0.015,
+    "maximum_large_alpha_components": 1
+  },
+  "fallback": {
+    "missing_action": "idle",
+    "missing_direction": "down",
+    "warn_once": true
+  }
+}

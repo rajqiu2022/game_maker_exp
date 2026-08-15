@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "_comment": "Semantic control IDs are shared; geometry and input behavior vary by platform profile.",
+  "semantic_controls": {
+    "movement": "movement.primary",
+    "context_interaction": "interaction.context",
+    "primary_skill_1": "skill_slot.primary_1",
+    "primary_skill_2": "skill_slot.primary_2",
+    "ultimate_skill": "skill_slot.ultimate",
+    "health_consumable": "consumable.health",
+    "mana_consumable": "consumable.mana"
+  },
+  "profiles": {
+    "pc_16_9": {
+      "reference_resolution": [1920, 1080],
+      "safe_area_mode": "window",
+      "ui_scale": 1.0,
+      "input_adapter": "keyboard_mouse",
+      "minimum_pointer_target_pixels": [40, 40],
+      "combat_cluster_anchor": "bottom_right",
+      "movement_control_visible": false,
+      "layout_unit": "reference_pixels",
+      "controls": {
+        "movement.primary": {"visible": false},
+        "interaction.context": {"anchor": "bottom_center", "offset": [0, -84], "visual_size": [72, 72], "hit_size": [88, 88], "z_order": 20},
+        "skill_slot.primary_1": {"anchor": "bottom_right", "offset": [-286, -98], "visual_size": [76, 76], "hit_size": [80, 80], "z_order": 20},
+        "skill_slot.primary_2": {"anchor": "bottom_right", "offset": [-198, -132], "visual_size": [76, 76], "hit_size": [80, 80], "z_order": 20},
+        "skill_slot.ultimate": {"anchor": "bottom_right", "offset": [-104, -178], "visual_size": [92, 92], "hit_size": [96, 96], "z_order": 20},
+        "consumable.health": {"anchor": "bottom_right", "offset": [-286, -18], "visual_size": [58, 58], "hit_size": [64, 64], "z_order": 20},
+        "consumable.mana": {"anchor": "bottom_right", "offset": [-216, -18], "visual_size": [58, 58], "hit_size": [64, 64], "z_order": 20}
+      }
+    },
+    "mobile_landscape": {
+      "reference_resolution": [1920, 1080],
+      "safe_area_mode": "device",
+      "ui_scale": 1.15,
+      "input_adapter": "touch",
+      "minimum_touch_target_dp": [48, 48],
+      "combat_cluster_anchor": "bottom_right_safe",
+      "movement_control_visible": true,
+      "layout_unit": "dp",
+      "controls": {
+        "movement.primary": {"visible": true, "anchor": "bottom_left_safe", "offset": [118, -118], "visual_size": [154, 154], "hit_size": [190, 190], "z_order": 20},
+        "interaction.context": {"anchor": "bottom_center_safe", "offset": [0, -92], "visual_size": [72, 72], "hit_size": [88, 88], "z_order": 22},
+        "skill_slot.primary_1": {"anchor": "bottom_right_safe", "offset": [-292, -88], "visual_size": [82, 82], "hit_size": [96, 96], "z_order": 20},
+        "skill_slot.primary_2": {"anchor": "bottom_right_safe", "offset": [-206, -142], "visual_size": [82, 82], "hit_size": [96, 96], "z_order": 20},
+        "skill_slot.ultimate": {"anchor": "bottom_right_safe", "offset": [-104, -194], "visual_size": [102, 102], "hit_size": [118, 118], "z_order": 20},
+        "consumable.health": {"anchor": "bottom_right_safe", "offset": [-314, -8], "visual_size": [64, 64], "hit_size": [78, 78], "z_order": 20},
+        "consumable.mana": {"anchor": "bottom_right_safe", "offset": [-238, -8], "visual_size": [64, 64], "hit_size": [78, 78], "z_order": 20}
+      },
+      "skill_aiming": {
+        "mode": "drag_release",
+        "show_range_preview": true,
+        "cancel_zone": "above_combat_cluster",
+        "clamp_target_to_range": true,
+        "capture_touch_id": true
+      }
+    }
+  },
+  "panel_rules": {
+    "single_primary_panel": true,
+    "block_world_input_while_open": true,
+    "close_button_above_content": true,
+    "panel_open_state_is_local": true,
+    "world_results_are_authoritative": true
+  }
+}

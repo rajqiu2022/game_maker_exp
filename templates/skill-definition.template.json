@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "_comment": "Gameplay-only skill data. Do not place concrete VFX, SFX or texture paths here.",
+  "skills": {
+    "example.shadow_fan": {
+      "name_key": "skill.example.shadow_fan.name",
+      "description_key": "skill.example.shadow_fan.description",
+      "category": "active",
+      "tags": ["melee", "physical", "area"],
+      "learn_level": 2,
+      "max_level": 3,
+      "presentation_id": "presentation.shadow_fan",
+      "targeting": {
+        "shape": "fan",
+        "range": 260,
+        "angle_degrees": 80,
+        "max_targets": 8,
+        "faction_filter": "enemy",
+        "requires_line_of_sight": true
+      },
+      "levels": [
+        {
+          "cooldown_seconds": 5.0,
+          "resource": {"type": "mana", "cost": 12},
+          "effects": [
+            {"type": "damage", "scaling": "attack_power", "coefficient": 1.25},
+            {"type": "armor_reduction", "value": 4, "duration_seconds": 3.0}
+          ]
+        },
+        {
+          "cooldown_seconds": 4.6,
+          "resource": {"type": "mana", "cost": 15},
+          "effects": [
+            {"type": "damage", "scaling": "attack_power", "coefficient": 1.55},
+            {"type": "armor_reduction", "value": 6, "duration_seconds": 3.5}
+          ]
+        },
+        {
+          "cooldown_seconds": 4.2,
+          "resource": {"type": "mana", "cost": 18},
+          "effects": [
+            {"type": "damage", "scaling": "attack_power", "coefficient": 1.9},
+            {"type": "armor_reduction", "value": 8, "duration_seconds": 4.0}
+          ]
+        }
+      ]
+    },
+    "example.combat_instinct": {
+      "name_key": "skill.example.combat_instinct.name",
+      "description_key": "skill.example.combat_instinct.description",
+      "category": "passive",
+      "tags": ["physical", "buff"],
+      "learn_level": 1,
+      "max_level": 3,
+      "presentation_id": "presentation.combat_instinct",
+      "levels": [
+        {"effects": [{"type": "attack_speed_percent", "value": 12}]},
+        {"effects": [{"type": "attack_speed_percent", "value": 24}]},
+        {"effects": [{"type": "attack_speed_percent", "value": 40}]}
+      ]
+    }
+  }
+}

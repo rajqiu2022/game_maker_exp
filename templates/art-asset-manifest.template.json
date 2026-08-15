@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "_comment": "Track generation provenance, processing and acceptance without embedding secrets or machine-specific paths.",
+  "asset_id": "example.enemy.frontier_wolf.v2",
+  "category": "character_sprite",
+  "status": "published",
+  "version": "2.0.0",
+  "source": {
+    "kind": "ai_generated",
+    "provider": "replace_with_provider",
+    "model": "replace_with_model",
+    "generated_at": "2026-08-15T00:00:00Z",
+    "prompt_revision": "prompt-v3",
+    "reference_policy": "style_and_composition_only",
+    "license_review": "approved_for_project_use"
+  },
+  "files": {
+    "identity_source": "source/identity.png",
+    "published_root": "published/v2",
+    "qa_report": "qa/report.json",
+    "preview": "qa/preview.webp"
+  },
+  "processing": {
+    "pipeline": "sprite-strip-v2",
+    "pipeline_version": "2.1.0",
+    "operations": ["chroma_remove", "alpha_cleanup", "slice", "normalize_foot_anchor"],
+    "output_color_mode": "RGBA",
+    "output_size": [128, 128]
+  },
+  "integrity": {
+    "source_sha256": "replace_with_sha256",
+    "published_files_manifest_sha256": "replace_with_sha256_of_the_file_list_and_hash_manifest"
+  },
+  "acceptance": {
+    "structural_qa": "passed",
+    "visual_review": "passed",
+    "target_device_review": "passed",
+    "reviewer": "replace_with_reviewer_or_team",
+    "notes": "Replace with project-specific acceptance notes."
+  }
+}

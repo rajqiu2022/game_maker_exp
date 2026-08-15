@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "_comment": "Editable source specification. Runtime map files and previews should be generated from this file.",
+  "metadata": {
+    "map_id": "example_frontier",
+    "display_name": "示例边境",
+    "game_mode": "rpg_defense",
+    "recommended_players": [1, 4],
+    "estimated_minutes": 30,
+    "content_version": "1.0.0",
+    "random_seed": 20260815
+  },
+  "coordinate_system": {
+    "grid_size": [64, 48],
+    "tile_world_size": 96,
+    "origin": [0, 0],
+    "bounds_grid_format": ["x", "y", "width", "height"],
+    "terrain_chunk_size_unit": "pixels"
+  },
+  "regions": [
+    {
+      "id": "base_region",
+      "display_name": "基地",
+      "bounds_grid": [2, 30, 18, 15],
+      "theme": "grassland_base",
+      "combat_scope": "world"
+    },
+    {
+      "id": "forest_region",
+      "display_name": "密林",
+      "bounds_grid": [16, 18, 38, 20],
+      "theme": "mist_forest",
+      "combat_scope": "world"
+    }
+  ],
+  "spawn_points": [
+    {
+      "id": "player_spawn_1",
+      "region": "base_region",
+      "grid": [10, 38],
+      "clearance_radius": 2.5
+    }
+  ],
+  "route": [
+    {
+      "id": "base_gate",
+      "region": "base_region",
+      "grid": [15, 34],
+      "required": true
+    },
+    {
+      "id": "forest_crossing",
+      "region": "forest_region",
+      "grid": [26, 28],
+      "required": true
+    }
+  ],
+  "scenery_landmarks": [
+    {
+      "id": "base_crystal",
+      "region": "base_region",
+      "asset_id": "landmark.base_core",
+      "foot_grid": [9, 34],
+      "visual_scale": 1.0,
+      "layer": "tall_landmarks"
+    }
+  ],
+  "scenery_clusters": [
+    {
+      "id": "forest_edge_trees",
+      "region": "forest_region",
+      "asset_pool": ["tree.a", "tree.b", "shrub.a"],
+      "density": 0.35,
+      "avoid_route_radius": 2.0,
+      "avoid_landmark_radius": 3.0,
+      "seed_offset": 17
+    }
+  ],
+  "buildings": [
+    {
+      "id": "service_shop_1",
+      "building_profile": "shop.tier_1",
+      "region": "base_region",
+      "foot_grid": [6, 36],
+      "interaction_id": "shop.basic"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "forest_camp_1",
+      "region": "forest_region",
+      "spawn_grid": [30, 26],
+      "enemy_pool": ["enemy.basic_melee", "enemy.basic_ranged"],
+      "max_alive": 10,
+      "activation_radius_world": 720,
+      "spawn_batch_size": 3,
+      "spawn_interval_seconds": 0.35
+    }
+  ],
+  "atmosphere_zones": [
+    {
+      "id": "forest_mist",
+      "region": "forest_region",
+      "profile": "atmosphere.light_mist",
+      "intensity": 0.4
+    }
+  ],
+  "visual_profiles": {
+    "pc_high": {
+      "terrain_chunk_size": 1024,
+      "decoration_density_scale": 1.0,
+      "particle_density_scale": 1.0
+    },
+    "mobile": {
+      "terrain_chunk_size": 768,
+      "decoration_density_scale": 0.7,
+      "particle_density_scale": 0.55
+    },
+    "low_memory": {
+      "terrain_chunk_size": 512,
+      "decoration_density_scale": 0.45,
+      "particle_density_scale": 0.25
+    }
+  },
+  "validation": {
+    "required_route_ids": ["base_gate", "forest_crossing"],
+    "minimum_spawn_clearance": 2.0,
+    "require_current_map_dependency_hash": true
+  }
+}

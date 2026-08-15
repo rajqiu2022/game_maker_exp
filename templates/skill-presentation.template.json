@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "_comment": "Presentation-only profiles. Runtime presentation must never apply gameplay damage or resource costs.",
+  "profiles": {
+    "presentation.shadow_fan": {
+      "icon_asset_id": "icon.skill.shadow_fan",
+      "action": "attack_heavy",
+      "cast": {
+        "vfx_id": "vfx.shadow_fan.cast",
+        "sfx_id": "sfx.shadow_blade.cast",
+        "duration_seconds": 0.32,
+        "size_world": [220, 220],
+        "rotation_rule": "face_aim_direction",
+        "z_layer": "skill_foreground"
+      },
+      "hit": {
+        "vfx_id": "vfx.shadow_fan.hit",
+        "sfx_id": "sfx.shadow_blade.hit",
+        "duration_seconds": 0.2,
+        "size_world": [96, 96],
+        "audio_rate_limit_ms": 100
+      },
+      "feedback": {
+        "hit_stop_ms": 35,
+        "camera_shake": 0.12,
+        "damage_text_style": "physical_critical_capable"
+      },
+      "fallback_profile": "fallback.melee_area"
+    },
+    "presentation.combat_instinct": {
+      "icon_asset_id": "icon.skill.combat_instinct",
+      "ui_mode": "passive_buff",
+      "buff_marker": "被",
+      "fallback_profile": "fallback.passive"
+    },
+    "fallback.default": {
+      "icon_asset_id": "icon.skill.fallback",
+      "action": "attack",
+      "cast": {
+        "vfx_id": "vfx.fallback.cast",
+        "sfx_id": "sfx.fallback.cast",
+        "duration_seconds": 0.2,
+        "size_world": [96, 96]
+      }
+    },
+    "fallback.melee_area": {
+      "icon_asset_id": "icon.skill.fallback_melee",
+      "action": "attack",
+      "cast": {
+        "vfx_id": "vfx.fallback.melee_arc",
+        "sfx_id": "sfx.fallback.melee_swing",
+        "duration_seconds": 0.24,
+        "size_world": [140, 140]
+      },
+      "fallback_profile": "fallback.default"
+    },
+    "fallback.passive": {
+      "icon_asset_id": "icon.skill.fallback_passive",
+      "ui_mode": "passive_buff",
+      "buff_marker": "被",
+      "fallback_profile": "fallback.default"
+    }
+  },
+  "event_contract": {
+    "required_fields": [
+      "event_id",
+      "event_seq",
+      "cast_instance_id",
+      "caster_id",
+      "skill_id",
+      "presentation_id",
+      "phase",
+      "origin",
+      "facing",
+      "timestamp"
+    ],
+    "optional_fields": ["target_position", "target_ids", "seed", "intensity"],
+    "deduplicate_by": "event_id",
+    "ordered_sequence_scope": "session",
+    "related_phase_key": "cast_instance_id"
+  }
+}

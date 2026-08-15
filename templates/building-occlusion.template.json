@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "_comment": "Visual, collision, interaction and fade bounds are intentionally separate.",
+  "profiles": {
+    "shop.tier_1": {
+      "visual": {
+        "base_asset_id": "building.shop_t1_base",
+        "occluding_asset_id": "building.shop_t1_roof",
+        "visual_scale": 1.0,
+        "foot_anchor_pixels": [256, 420],
+        "layer": "tall_landmarks"
+      },
+      "footprint": {
+        "shape": "rectangle",
+        "offset_world": [0, -24],
+        "size_world": [220, 112],
+        "collision_layer": "world_solid"
+      },
+      "interaction": {
+        "shape": "circle",
+        "offset_world": [0, 24],
+        "radius_world": 180,
+        "action_id": "open_shop",
+        "local_panel_id": "shop_panel"
+      },
+      "occlusion": {
+        "shape": "rectangle",
+        "offset_world": [0, -112],
+        "size_world": [300, 260],
+        "detect_group": "local_view_actors",
+        "fade_target_alpha": 0.45,
+        "fade_seconds": 0.14,
+        "track_overlapping_actor_ids": true
+      }
+    }
+  }
+}

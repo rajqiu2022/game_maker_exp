@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+build/
+
+# Local execution memory; not part of the published knowledge base.
+task_plan.md
+findings.md
+progress.md
