@@ -14,6 +14,7 @@
 | 制作角色或怪物动画 | [角色与怪物精灵管线](docs/character-monster-sprites.md) | [动画清单模板](templates/sprite-animation-manifest.template.json)、[精灵发布检查表](checklists/sprite-release.md) |
 | 同时支持 PC 和手机 | [跨平台 UI 与触控](docs/ui-cross-platform.md) | [UI 布局模板](templates/ui-layout-profile.template.json)、[手机 UI 检查表](checklists/ui-mobile-release.md) |
 | 使用 AI 生成美术资源 | [AI 美术生产管线](docs/art-production.md) | [美术资产清单模板](templates/art-asset-manifest.template.json)、[美术发布检查表](checklists/art-release.md) |
+| 复用已整理的图标与招式特效 | [可复用美术资源包](resource-packs/README.md) | [水墨武侠图标与招式特效 v1](resource-packs/ink-wuxia-icons-vfx-v1/README.md) |
 | 建立自动化验收 | [质量门禁](docs/quality-gates.md) | `python tools/validate_repository.py` |
 | 把经验接入新项目 | [采用指南](docs/adoption-guide.md) | [贡献规范](CONTRIBUTING.md) |
 
@@ -56,6 +57,7 @@ checklists/    制作和发布检查表
 case-studies/  项目问题、决策、结果与迁移结论
 examples/      小型、项目无关的引擎参考实现
 tools/         本仓库内容校验工具
+resource-packs/ 经所有者批准、独立声明授权的跨项目运行时美术包
 ```
 
 ## 当前案例
@@ -66,4 +68,4 @@ tools/         本仓库内容校验工具
 
 其他项目可以直接提交专题补充、模板演进或新案例。修改公共规则时，请同时写清适用边界和迁移影响；完整要求见[贡献规范](CONTRIBUTING.md)。
 
-仓库中的文档、模板、工具和示例代码统一采用 [MIT License](LICENSE)，便于不同项目复制、修改和回馈改进。
+仓库中的文档、模板、工具和示例代码统一采用 [MIT License](LICENSE)，便于不同项目复制、修改和回馈改进。`resource-packs/` 下的 PNG/WebP 使用各资源包自己的 `LICENSE-ASSETS.md`，不自动继承根 MIT。

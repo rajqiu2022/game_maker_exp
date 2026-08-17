@@ -1,0 +1,3805 @@
+{
+  "schema_version": 1,
+  "pack_id": "ink_wuxia_icons_vfx_v1",
+  "version": "1.0.0",
+  "generated_at": "2026-08-18",
+  "sharing_scope": "repository_owner_projects; third-party use requires permission",
+  "entries": [
+    {
+      "asset_id": "item_broken_mask",
+      "title_zh": "破损面具",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_broken_mask.png",
+      "description_zh": "表达“破损面具”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "71134152e3b3beb68dd5c31dbf5232338e854ec7c3b7536843019df1813f929f",
+      "pixel_sha256_rgba": "6055c5924320f22337052e925f8bc4941c52902f380500d61f70b477ea000dc6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "broken",
+        "mask"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_confession_scroll",
+      "title_zh": "供词卷轴",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_confession_scroll.png",
+      "description_zh": "表达“供词卷轴”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "8cb1257267d98a4c707951c833508fae0fffd83bceb71b0e41dbd5648bd6ca27",
+      "pixel_sha256_rgba": "3dae5de68a421802ca7be1336ab5bda727aebb9ee526ab7408bd3086c8f0274c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "confession",
+        "scroll"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_evidence_statement",
+      "title_zh": "证物陈词",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_evidence_statement.png",
+      "description_zh": "表达“证物陈词”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "021372236673e4c0877305340552575623b4b33e753e1e384aab80b47cca6441",
+      "pixel_sha256_rgba": "0ffafe465e69c5abd7dc2e6576d8fe420c275f90cf06e275a022b64ac64dd324",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "evidence",
+        "statement"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_false_note",
+      "title_zh": "可疑字条",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_false_note.png",
+      "description_zh": "表达“可疑字条”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0fd6bafe68ba1650871aee605d08c859c37026bab99d0f556cd65a2c22cf4904",
+      "pixel_sha256_rgba": "5f97450861927b5113db3c42c1f765de968199da61798f5eeef80f478695b5a1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "false",
+        "note"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_herbal_ledger",
+      "title_zh": "药材账册",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_herbal_ledger.png",
+      "description_zh": "表达“药材账册”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "20dc959f380b73fb552670cf66719b5bc4f1c31338894e46f5d01b122ad3fee9",
+      "pixel_sha256_rgba": "b430975c4fec7fdaed9dee13f8139e025b516a6f4b009684f2824593eb338fa7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "herbal",
+        "ledger"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_sealed_letter",
+      "title_zh": "封缄书信",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_sealed_letter.png",
+      "description_zh": "表达“封缄书信”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "79fc26267e8b51bc643f032e6e8b4733b34e6e8c269953306535b9bec5a6b230",
+      "pixel_sha256_rgba": "99fbc3814f42861b3008a3a25c5df4337c84f482d4d822f53f98e7a902397879",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "sealed",
+        "letter"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_testimony",
+      "title_zh": "证言文书",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_testimony.png",
+      "description_zh": "表达“证言文书”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0c72b387c7e085db42c75f7502a93354d33395e6a78cf9e69a45165f624b6dbc",
+      "pixel_sha256_rgba": "954dd0b0a9ddecd349f07d6b25b51027e04fe228607776501ccb3ef3882f6c0a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "testimony"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_village_map",
+      "title_zh": "村落地图",
+      "kind": "item_icon",
+      "category": "icons/items/clues",
+      "category_zh": "图标 · 线索与文书",
+      "path": "icons/items/clues/item_village_map.png",
+      "description_zh": "表达“村落地图”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "4c92dd922b7667722e3aad1e2f19687dd44f66ea187f4a6a5c9b9220cdab3cf8",
+      "pixel_sha256_rgba": "f15b421a3e7943d0605976354d08af931eefe60d1a7e8f7064e8db57662a42b4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "clues",
+        "village",
+        "map"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_herb_bundle",
+      "title_zh": "药草束",
+      "kind": "item_icon",
+      "category": "icons/items/materials",
+      "category_zh": "图标 · 材料",
+      "path": "icons/items/materials/item_herb_bundle.png",
+      "description_zh": "表达“药草束”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "807061f9b0aaad2739653be2b5e249035bceaf673ca4a2d2ddd54d1708b1a8f9",
+      "pixel_sha256_rgba": "6c8ec2534195683fa4f902cccc13f956e90b79abbf2ec7d72ad9a42f0091d35a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "materials",
+        "herb",
+        "bundle"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_iron_ore",
+      "title_zh": "铁矿石",
+      "kind": "item_icon",
+      "category": "icons/items/materials",
+      "category_zh": "图标 · 材料",
+      "path": "icons/items/materials/item_iron_ore.png",
+      "description_zh": "表达“铁矿石”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6309d766560fb782fd2d5d8f7b36cb3c352b9f5c9aef81ffb3475bcce3983016",
+      "pixel_sha256_rgba": "11976fe2e5f31fcf4f9ebfa1d6ec03347c40633b7f2b3b1f125a019f9cffe023",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "materials",
+        "iron",
+        "ore"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_jade_fragment",
+      "title_zh": "玉石碎片",
+      "kind": "item_icon",
+      "category": "icons/items/materials",
+      "category_zh": "图标 · 材料",
+      "path": "icons/items/materials/item_jade_fragment.png",
+      "description_zh": "表达“玉石碎片”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ae73b6f3c7dfe83d3b4a769214263c169fde93f9aaacc1f0a92cb08d40238bfb",
+      "pixel_sha256_rgba": "fa92a0a926f1bc2a6ce477a1d1498b7622332c01c0a1e325592cfe92098b922d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "materials",
+        "jade",
+        "fragment"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_luminous_silk",
+      "title_zh": "流光丝料",
+      "kind": "item_icon",
+      "category": "icons/items/materials",
+      "category_zh": "图标 · 材料",
+      "path": "icons/items/materials/item_luminous_silk.png",
+      "description_zh": "表达“流光丝料”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "83b52c5123dfad20b8caa6bf574182a04687ca468aa6e741e073d56f2f230e40",
+      "pixel_sha256_rgba": "7f014d7743d011679741cdc60a461bb75aeed39c5184a84006ca0b81aab73903",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "materials",
+        "luminous",
+        "silk"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_spirit_stone",
+      "title_zh": "灵性矿石",
+      "kind": "item_icon",
+      "category": "icons/items/materials",
+      "category_zh": "图标 · 材料",
+      "path": "icons/items/materials/item_spirit_stone.png",
+      "description_zh": "表达“灵性矿石”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "52e1e3faa037b8d2095b7d7bc4854b1c01ff2de4a65fb532f4211b5353eebd04",
+      "pixel_sha256_rgba": "b1b9e05e00fe4922092336cd05b25e81fcb7c4c01772a02d7a0f6cdc47c75233",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "materials",
+        "spirit",
+        "stone"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_cold_incense_pouch",
+      "title_zh": "冷香囊",
+      "kind": "item_icon",
+      "category": "icons/items/tokens",
+      "category_zh": "图标 · 信物",
+      "path": "icons/items/tokens/item_cold_incense_pouch.png",
+      "description_zh": "表达“冷香囊”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "06dd1dda33c92bc44568a84010934d9dc1cc11d3f7c5a7e6c8cd7ecf900e0b82",
+      "pixel_sha256_rgba": "8dd2e07197a39631253499db49d9206bff4e7fc1ece623937fb3ac710a2b491f",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "tokens",
+        "cold",
+        "incense",
+        "pouch"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_faction_token",
+      "title_zh": "门派令牌",
+      "kind": "item_icon",
+      "category": "icons/items/tokens",
+      "category_zh": "图标 · 信物",
+      "path": "icons/items/tokens/item_faction_token.png",
+      "description_zh": "表达“门派令牌”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "cced36ec31f493a0c4e6555c91fa8c09f1ae857ba77d101cd20ec1dfd1fa9e6b",
+      "pixel_sha256_rgba": "4742155ad853b17682b56cbffe9f8de638ba7f8b94e142a7954b453a879765ce",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "tokens",
+        "faction",
+        "token"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "item_white_jade_pendant",
+      "title_zh": "白玉佩",
+      "kind": "item_icon",
+      "category": "icons/items/tokens",
+      "category_zh": "图标 · 信物",
+      "path": "icons/items/tokens/item_white_jade_pendant.png",
+      "description_zh": "表达“白玉佩”物件语义的无字透明图标，适合背包、掉落、线索和任务界面。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2bd27e3d75e04e486f46e42d6054c7aadc31abd17ab46bcda86b52a0142163f6",
+      "pixel_sha256_rgba": "1f080ca279c2b549bd54908ad255e1f41afcf31cab02787fee508c7d7a13bfd2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "items",
+        "tokens",
+        "white",
+        "jade",
+        "pendant"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_basic_blade_v1",
+      "title_zh": "基础刀击",
+      "kind": "skill_icon",
+      "category": "icons/skills/basic",
+      "category_zh": "图标 · 基础攻击",
+      "path": "icons/skills/basic/icon_skill_basic_blade_v1.png",
+      "description_zh": "表达“基础刀击”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "864282dfc6111e7d2418498f52ae157984156c5a3808f94a5c2df6997c0ad881",
+      "pixel_sha256_rgba": "944a76ae1d0f3a2845d3a9537a1c82971a7c129a98e409d1010340aec9288daa",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "basic",
+        "basic",
+        "blade"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_basic_staff_v1",
+      "title_zh": "基础棍击",
+      "kind": "skill_icon",
+      "category": "icons/skills/basic",
+      "category_zh": "图标 · 基础攻击",
+      "path": "icons/skills/basic/icon_skill_basic_staff_v1.png",
+      "description_zh": "表达“基础棍击”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "75ec0737a077c5aa59e2ac7a439463eda27167c133ee7dde0859ed05cc9e9029",
+      "pixel_sha256_rgba": "9fcc45688f27355af20ccb8877b826fc2b114ba93049835e6fbf9268d6bd1a95",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "basic",
+        "basic",
+        "staff"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_basic_sword_v1",
+      "title_zh": "基础剑击",
+      "kind": "skill_icon",
+      "category": "icons/skills/basic",
+      "category_zh": "图标 · 基础攻击",
+      "path": "icons/skills/basic/icon_skill_basic_sword_v1.png",
+      "description_zh": "表达“基础剑击”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3f349afba6dc9794e1f0918c6c04d66b011d1b48ece7bebfa0440ab98c2641c1",
+      "pixel_sha256_rgba": "e223c6bae9b02e70984f232c05097ba65cf2ee43bcb919a51af4f0c193556beb",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "basic",
+        "basic",
+        "sword"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_basic_unarmed_v1",
+      "title_zh": "基础拳击",
+      "kind": "skill_icon",
+      "category": "icons/skills/basic",
+      "category_zh": "图标 · 基础攻击",
+      "path": "icons/skills/basic/icon_skill_basic_unarmed_v1.png",
+      "description_zh": "表达“基础拳击”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "df5d95b7082625447b45c09e084b13c0ff5bb5226768e788eb0141f4ec2f7217",
+      "pixel_sha256_rgba": "90fe70f52e39d3ab95f61e9e3ce126e26383d95dd1da2e10b6db6eca35d06382",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "basic",
+        "basic",
+        "unarmed"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_blade_crescent_v1",
+      "title_zh": "弧月刀势",
+      "kind": "skill_icon",
+      "category": "icons/skills/blade",
+      "category_zh": "图标 · 刀法",
+      "path": "icons/skills/blade/icon_skill_blade_crescent_v1.png",
+      "description_zh": "表达“弧月刀势”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a9e580f4fc4d17c13028d560e77f3505c3e944381577b504019c341444e842ff",
+      "pixel_sha256_rgba": "8fdcf35fafffe6be6c9afd367e6b7501a31abdd8b8acd0652e6ca1da9aba4763",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "blade",
+        "blade",
+        "crescent"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_blade_heavy_v1",
+      "title_zh": "重刀劈斩",
+      "kind": "skill_icon",
+      "category": "icons/skills/blade",
+      "category_zh": "图标 · 刀法",
+      "path": "icons/skills/blade/icon_skill_blade_heavy_v1.png",
+      "description_zh": "表达“重刀劈斩”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "998c839e73b8c232c27b48d7eed499e082b1a33e2fd2337417a1b43735889d35",
+      "pixel_sha256_rgba": "bb4d76d9cfda4263a289535a3e47f9062649f0239784701d65fea771aa1701a9",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "blade",
+        "blade",
+        "heavy"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_shadow_dagger_v1",
+      "title_zh": "暗影短刃",
+      "kind": "skill_icon",
+      "category": "icons/skills/dagger",
+      "category_zh": "图标 · 短刃",
+      "path": "icons/skills/dagger/icon_skill_shadow_dagger_v1.png",
+      "description_zh": "表达“暗影短刃”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "76775ea01c49450374b356eadb7336e81bdcad63685f88620617ab13d00c2f2f",
+      "pixel_sha256_rgba": "e0a05010f8dbb84257861e7b6715061f33aaef6ced8ce58f4b7e939423c2b867",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "dagger",
+        "shadow",
+        "dagger"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_footwork_v1",
+      "title_zh": "轻功步法",
+      "kind": "skill_icon",
+      "category": "icons/skills/movement",
+      "category_zh": "图标 · 身法",
+      "path": "icons/skills/movement/icon_skill_footwork_v1.png",
+      "description_zh": "表达“轻功步法”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fcf8e856ce24a31a4c30835309f5a6ef6eee65cd9e0f2b27077d9bcb5ca3e43c",
+      "pixel_sha256_rgba": "3367cc40f2fec2a67d3cc2598a155e852a1ebb558d88f2a518da8a9213062cb6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "movement",
+        "footwork"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_frost_needles_v1",
+      "title_zh": "寒霜针雨",
+      "kind": "skill_icon",
+      "category": "icons/skills/needle",
+      "category_zh": "图标 · 飞针",
+      "path": "icons/skills/needle/icon_skill_frost_needles_v1.png",
+      "description_zh": "表达“寒霜针雨”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "35f56cd805a07d63a97e778883422990b201fe1525da304c2b5b47102674157d",
+      "pixel_sha256_rgba": "c4c6619027c46698589023e08cedbe5871a36089cfb197cc5692681796a84de9",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "needle",
+        "frost",
+        "needles"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_poison_needles_v1",
+      "title_zh": "淬毒飞针",
+      "kind": "skill_icon",
+      "category": "icons/skills/needle",
+      "category_zh": "图标 · 飞针",
+      "path": "icons/skills/needle/icon_skill_poison_needles_v1.png",
+      "description_zh": "表达“淬毒飞针”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "aa17f31483136e7a949f97530d1def53d24181a2cf41ee57d1c7eb3da5e95d4d",
+      "pixel_sha256_rgba": "198a70d9ef43cf0d5e0a15f21f04328629c942b1fe1204f19e96b6a16e13edba",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "needle",
+        "poison",
+        "needles"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_palm_wave_v1",
+      "title_zh": "掌劲气浪",
+      "kind": "skill_icon",
+      "category": "icons/skills/palm",
+      "category_zh": "图标 · 掌法",
+      "path": "icons/skills/palm/icon_skill_palm_wave_v1.png",
+      "description_zh": "表达“掌劲气浪”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f62739511cdc5e233e360aff241a19c0f3b00286308de8ea5b927f781ec7542f",
+      "pixel_sha256_rgba": "b3033cabfb78e85d364b19938e6a15cdeb1fb5361dfb400398a40a4a0bde0fa4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "palm",
+        "palm",
+        "wave"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_staff_sweep_v1",
+      "title_zh": "长棍横扫",
+      "kind": "skill_icon",
+      "category": "icons/skills/staff",
+      "category_zh": "图标 · 棍法",
+      "path": "icons/skills/staff/icon_skill_staff_sweep_v1.png",
+      "description_zh": "表达“长棍横扫”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7b0a7b5d5eed501746bbe2128dc5571163a43994e16bd2e2bd497a49b7a2f91e",
+      "pixel_sha256_rgba": "fa8813126abd5bd70c325e7f38c00e310c794127ff6e6e794d82c20fa26402fe",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "staff",
+        "staff",
+        "sweep"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_guard_v1",
+      "title_zh": "护体守御",
+      "kind": "skill_icon",
+      "category": "icons/skills/support",
+      "category_zh": "图标 · 辅助与内功",
+      "path": "icons/skills/support/icon_skill_guard_v1.png",
+      "description_zh": "表达“护体守御”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "739cd878663005f05cb0524c5108b269dce74a90e38760184d45a7f8671c9afa",
+      "pixel_sha256_rgba": "4bf6c18b9e606f52c2eac603d17f07f1fe0cfb77b1eeb16d6ac501a74f732c98",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "support",
+        "guard"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_healing_v1",
+      "title_zh": "回生治疗",
+      "kind": "skill_icon",
+      "category": "icons/skills/support",
+      "category_zh": "图标 · 辅助与内功",
+      "path": "icons/skills/support/icon_skill_healing_v1.png",
+      "description_zh": "表达“回生治疗”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9bd4dc60bdef5aaa362d2c54effc30ca08ca7fda31388427426d3ebbf648ec31",
+      "pixel_sha256_rgba": "211e5a4c3a9e46bc9f3c6a50a781902c1d1a8308218a5e96ab85d9ae9ab220d6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "support",
+        "healing"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_inner_breath_v1",
+      "title_zh": "吐纳内功",
+      "kind": "skill_icon",
+      "category": "icons/skills/support",
+      "category_zh": "图标 · 辅助与内功",
+      "path": "icons/skills/support/icon_skill_inner_breath_v1.png",
+      "description_zh": "表达“吐纳内功”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1e323782b8c60c2d4ac57fd4d8731d95687bdb9b0d9839d6313f545a62715b45",
+      "pixel_sha256_rgba": "3c90dd2b6a8f1e4463a8a5a18affeed374d5f4a38a9d3cb2f8e99715855b0619",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "support",
+        "inner",
+        "breath"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_redirect_v1",
+      "title_zh": "移劲卸力",
+      "kind": "skill_icon",
+      "category": "icons/skills/support",
+      "category_zh": "图标 · 辅助与内功",
+      "path": "icons/skills/support/icon_skill_redirect_v1.png",
+      "description_zh": "表达“移劲卸力”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1be81946982ecdfba484d4afdf4e983fdbf049a298c682da96fe3fd1b22ec5cc",
+      "pixel_sha256_rgba": "c61cbd6532983c769bbc047613122d871865cc7863bd546d026127fdca10bf5e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "support",
+        "redirect"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_sword_cross_v1",
+      "title_zh": "交错剑光",
+      "kind": "skill_icon",
+      "category": "icons/skills/sword",
+      "category_zh": "图标 · 剑法",
+      "path": "icons/skills/sword/icon_skill_sword_cross_v1.png",
+      "description_zh": "表达“交错剑光”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1ca52b1325f12f1fcefbdbeb3b1be749b749b2f5a6d3d96c7a087de5c5d386cf",
+      "pixel_sha256_rgba": "6fa19af444db04754b612bc7c44987c5ab93e946192b1f478a9555529c5b97a7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "sword",
+        "sword",
+        "cross"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_sword_slash_v1",
+      "title_zh": "剑气斩击",
+      "kind": "skill_icon",
+      "category": "icons/skills/sword",
+      "category_zh": "图标 · 剑法",
+      "path": "icons/skills/sword/icon_skill_sword_slash_v1.png",
+      "description_zh": "表达“剑气斩击”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "afbeef6a8603a072b159b8fefdbd6ae55180b2a1c7d3eca14301e904f3f4f266",
+      "pixel_sha256_rgba": "a1fa253a4e5489ae7604375e25f26e85cf48ebe12d6efcdd7a02c6b219359269",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "sword",
+        "sword",
+        "slash"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_sword_star_v1",
+      "title_zh": "星落剑芒",
+      "kind": "skill_icon",
+      "category": "icons/skills/sword",
+      "category_zh": "图标 · 剑法",
+      "path": "icons/skills/sword/icon_skill_sword_star_v1.png",
+      "description_zh": "表达“星落剑芒”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "493ce92ebdf2151ef0e174ddb17d4b3093ad69ddb1cf184cd203ac25b83aa4b0",
+      "pixel_sha256_rgba": "a70258de6bb0ddb79110b9467e9f78b78d258880190780a0359dc7a1abf94ef9",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "sword",
+        "sword",
+        "star"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "icon_skill_sword_yinyang_v1",
+      "title_zh": "阴阳剑势",
+      "kind": "skill_icon",
+      "category": "icons/skills/sword",
+      "category_zh": "图标 · 剑法",
+      "path": "icons/skills/sword/icon_skill_sword_yinyang_v1.png",
+      "description_zh": "表达“阴阳剑势”语义的无字透明技能图标，适合技能列表、快捷栏和战斗 HUD。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c7c86bb5f2fa39351d0c28c566b60f8755016a03b7a5fa22651bc6e8c4823ab6",
+      "pixel_sha256_rgba": "8dc24eb3d9dd04f0a6f2c87ee934bcde626d773c3dc6d209df1fd6b55607925e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skills",
+        "sword",
+        "sword",
+        "yinyang"
+      ],
+      "layout": "single",
+      "recommended_display_size": [
+        64,
+        128
+      ],
+      "transparent_background": true,
+      "textless": true,
+      "framed": false,
+      "provenance": {
+        "kind": "ai_generated_and_locally_processed",
+        "backend": "codex_builtin",
+        "model": "codex-imagegen-built-in"
+      }
+    },
+    {
+      "asset_id": "vfx_blade_black_wind_01",
+      "title_zh": "黑风刀卷",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_black_wind_01_4frame_v1.png",
+      "description_zh": "“黑风刀卷”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "69cdce10ba90456516b1dfd8f6e83059df8f041ab2b24fc2d4d2f7ab4f49eaaa",
+      "pixel_sha256_rgba": "7d514410194513f98cb8061861af2dee8b79a3c4b15ad5ca721c4456b129fb1a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "black",
+        "wind"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_black_wind_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_blade_earth_split_01",
+      "title_zh": "裂地刀势",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_earth_split_01_4frame_v1.png",
+      "description_zh": "“裂地刀势”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "4d617507e4a20d7159492cf1597ece4ce1fe5ba8e3bc43de15eb911c5be7bddd",
+      "pixel_sha256_rgba": "22c70d71295d4c3a817bd6c986a81ed1f5e7d25cfe121b097fb5ae27aef6b5e6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "earth",
+        "split"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_earth_split_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_blade_gate_break_01",
+      "title_zh": "破门刀击",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_gate_break_01_4frame_v1.png",
+      "description_zh": "“破门刀击”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7edba7ffb245dd7cafee65e29643a8102893a4ebb75e734bd1e25c45288b2cff",
+      "pixel_sha256_rgba": "57c24fdf4ea3adfe824a4ea6372c168a0b4f1a76fdaba572cf84179afb9fb15a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "gate",
+        "break"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_gate_break_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_blade_heavy_cleave_01",
+      "title_zh": "厚重刀光",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_heavy_cleave_01_4frame_v1.png",
+      "description_zh": "“厚重刀光”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "422b845cc2f3751b60746a6ffaeb2ba2f689b1434381c562f0bac6b12798f934",
+      "pixel_sha256_rgba": "946bd9640056ea9eb1ba5d3a41d6735aa84a2ae67ddbae27f710c153c394d1e3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "heavy",
+        "cleave"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_heavy_cleave_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_blade_tiger_impact_01",
+      "title_zh": "虎形刀势冲击",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_tiger_impact_01_4frame_v1.png",
+      "description_zh": "“虎形刀势冲击”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fe1321ac3f4bba3122b7053051b5e0da9678470f9bdb42d0d8efc7378db47356",
+      "pixel_sha256_rgba": "190a2cfbf580705597c01d4939837021e32ec6712093dd29d7d48cbe7295a726",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "tiger",
+        "impact"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_tiger_impact_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_blade_vertical_cleave_01",
+      "title_zh": "纵向重刀劈斩",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/blade",
+      "category_zh": "特效 · 刀法攻击",
+      "path": "vfx/attack/blade/vfx_blade_vertical_cleave_01_4frame_v1.png",
+      "description_zh": "“纵向重刀劈斩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "8d5a29ef185bc08ad63784ecfd33102e76ad1dba081375181d68bd24818251e4",
+      "pixel_sha256_rgba": "e2d34e39de21a40ce6fe84678d3706e0b4d5ee42820a14a259e1bae017182a6e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "blade",
+        "blade",
+        "vertical",
+        "cleave"
+      ],
+      "preview_path": "previews/vfx/attack/blade/vfx_blade_vertical_cleave_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_dagger_mist_combo_01",
+      "title_zh": "雾影连斩",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/dagger",
+      "category_zh": "特效 · 短刃攻击",
+      "path": "vfx/attack/dagger/vfx_dagger_mist_combo_01_4frame_v1.png",
+      "description_zh": "“雾影连斩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "950ebf24c2ec8500e64a9bafa6d718a828821c82a89a4b25fad96dad369d34a4",
+      "pixel_sha256_rgba": "cf7d5acffa6826af0d2fc97173e577975ea505db1f280fee53216cb1c6669de6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "dagger",
+        "dagger",
+        "mist",
+        "combo"
+      ],
+      "preview_path": "previews/vfx/attack/dagger/vfx_dagger_mist_combo_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_dagger_shadow_execution_01",
+      "title_zh": "暗影绝杀",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/dagger",
+      "category_zh": "特效 · 短刃攻击",
+      "path": "vfx/attack/dagger/vfx_dagger_shadow_execution_01_4frame_v1.png",
+      "description_zh": "“暗影绝杀”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d5ddf22b7878165190a36c0a4e57cf197f0521f1900f4ee2b8ebe682f4d9918d",
+      "pixel_sha256_rgba": "118815bb59e7df3764e74dcd29b26f07841593455562b0ff6c747c0edb388d77",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "dagger",
+        "dagger",
+        "shadow",
+        "execution"
+      ],
+      "preview_path": "previews/vfx/attack/dagger/vfx_dagger_shadow_execution_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_dagger_wind_slash_01",
+      "title_zh": "短刃风切",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/dagger",
+      "category_zh": "特效 · 短刃攻击",
+      "path": "vfx/attack/dagger/vfx_dagger_wind_slash_01_4frame_v1.png",
+      "description_zh": "“短刃风切”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2e73c4b210e93c072b7eab9ae904b02f62ab7af132e858b8edb41814754d777c",
+      "pixel_sha256_rgba": "9fa59e96f4eee02cfe704a02cea58ce6d12b2f08a0bac190f8ef8539961999a4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "dagger",
+        "dagger",
+        "wind",
+        "slash"
+      ],
+      "preview_path": "previews/vfx/attack/dagger/vfx_dagger_wind_slash_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_melee_basic_impact_01",
+      "title_zh": "基础近战命中",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/misc",
+      "category_zh": "特效 · 通用命中",
+      "path": "vfx/attack/misc/vfx_melee_basic_impact_01_4frame_v1.png",
+      "description_zh": "“基础近战命中”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "14f3656369c245e30fcf6455b238b7d169b276ae08f70e6211d49cc19efac435",
+      "pixel_sha256_rgba": "f24b77f577dd4210434bfc44a55ec8141e487f61360afd6e87213d9a34fdf70c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "misc",
+        "melee",
+        "basic",
+        "impact"
+      ],
+      "preview_path": "previews/vfx/attack/misc/vfx_melee_basic_impact_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_needle_frost_burst_01",
+      "title_zh": "寒针冰爆",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/needle",
+      "category_zh": "特效 · 飞针攻击",
+      "path": "vfx/attack/needle/vfx_needle_frost_burst_01_4frame_v1.png",
+      "description_zh": "“寒针冰爆”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e4bd4416b55281bcc849e569cfcdb5fa802ed412f4b9c1d448ace88dcfdebb89",
+      "pixel_sha256_rgba": "54d4d0790ca44ebf4d08c6a3fe873676c08230dca35cb64d957bc017ed943364",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "needle",
+        "needle",
+        "frost",
+        "burst"
+      ],
+      "preview_path": "previews/vfx/attack/needle/vfx_needle_frost_burst_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_needle_frost_storm_01",
+      "title_zh": "寒霜针暴",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/needle",
+      "category_zh": "特效 · 飞针攻击",
+      "path": "vfx/attack/needle/vfx_needle_frost_storm_01_4frame_v1.png",
+      "description_zh": "“寒霜针暴”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c551e2700ad2beabaa6a615cdf7674f63652e832d54514234b1631d352455c2f",
+      "pixel_sha256_rgba": "cddbe787fc4635126a697ef3f2453dc0cc6687c91fb244aea2b66173d196715d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "needle",
+        "needle",
+        "frost",
+        "storm"
+      ],
+      "preview_path": "previews/vfx/attack/needle/vfx_needle_frost_storm_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_needle_poison_volley_01",
+      "title_zh": "毒针齐射",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/needle",
+      "category_zh": "特效 · 飞针攻击",
+      "path": "vfx/attack/needle/vfx_needle_poison_volley_01_4frame_v1.png",
+      "description_zh": "“毒针齐射”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0f5c2b8b42af515cd46a525847607977bdb024d2d217bcdd2de667575bfa3be0",
+      "pixel_sha256_rgba": "2989d19192ead4e54910c45c02da00b9a1284f1e25f1efcc880d329453067567",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "needle",
+        "needle",
+        "poison",
+        "volley"
+      ],
+      "preview_path": "previews/vfx/attack/needle/vfx_needle_poison_volley_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_needle_silver_point_01",
+      "title_zh": "银针点刺",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/needle",
+      "category_zh": "特效 · 飞针攻击",
+      "path": "vfx/attack/needle/vfx_needle_silver_point_01_4frame_v1.png",
+      "description_zh": "“银针点刺”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "09a9750aa9ad266aec9789a06c8637a0d7d757ac8ee8445c32e99b04f7066109",
+      "pixel_sha256_rgba": "e616bb243ab7a0986d2c13329b04cc9f5320eb36b5aba6adc9f21839e56780d1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "needle",
+        "needle",
+        "silver",
+        "point"
+      ],
+      "preview_path": "previews/vfx/attack/needle/vfx_needle_silver_point_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_palm_crimson_impact_01",
+      "title_zh": "赤色掌劲冲击",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/palm",
+      "category_zh": "特效 · 掌法攻击",
+      "path": "vfx/attack/palm/vfx_palm_crimson_impact_01_4frame_v1.png",
+      "description_zh": "“赤色掌劲冲击”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ad25073808c6a85e0398e4358a7d3537dbd5f29acd4df362780507786530a01f",
+      "pixel_sha256_rgba": "0ffdabd1ea281cf195e60108665147e826bb340ead4a643bb064822d0b49e3fb",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "palm",
+        "palm",
+        "crimson",
+        "impact"
+      ],
+      "preview_path": "previews/vfx/attack/palm/vfx_palm_crimson_impact_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_palm_ocean_shockwave_01",
+      "title_zh": "沧浪掌劲冲击",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/palm",
+      "category_zh": "特效 · 掌法攻击",
+      "path": "vfx/attack/palm/vfx_palm_ocean_shockwave_01_4frame_v1.png",
+      "description_zh": "“沧浪掌劲冲击”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "09f5499c637d8840fbe336e3ab6c03c6da289b2ff32a1b924cb66a7827a2e409",
+      "pixel_sha256_rgba": "cf83bab4585a4bc55183d339898166df4ab57dbbf6f3d3ebc210719ab9b787e7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "palm",
+        "palm",
+        "ocean",
+        "shockwave"
+      ],
+      "preview_path": "previews/vfx/attack/palm/vfx_palm_ocean_shockwave_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_staff_breaker_impact_01",
+      "title_zh": "破阵棍击",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/staff",
+      "category_zh": "特效 · 棍法攻击",
+      "path": "vfx/attack/staff/vfx_staff_breaker_impact_01_4frame_v1.png",
+      "description_zh": "“破阵棍击”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "38f7842e5b5123806056713c9a754005ef4be7e6afc5991f6a1041b32bd73ed0",
+      "pixel_sha256_rgba": "0537fcc9f256d3adb82488e1c2915f3c55c3b0a5c312ecaece74936d8b695f5d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "staff",
+        "staff",
+        "breaker",
+        "impact"
+      ],
+      "preview_path": "previews/vfx/attack/staff/vfx_staff_breaker_impact_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_staff_leaf_sweep_01",
+      "title_zh": "扫叶棍风",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/staff",
+      "category_zh": "特效 · 棍法攻击",
+      "path": "vfx/attack/staff/vfx_staff_leaf_sweep_01_4frame_v1.png",
+      "description_zh": "“扫叶棍风”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "042874739bbca4019736b05d82a9be0f7379508cd91b5e349267574eb8ca99fc",
+      "pixel_sha256_rgba": "b1c30b84be3e75be44bc1127f259d65f8b265c43a14bfdc1c2f72e37573a6b1d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "staff",
+        "staff",
+        "leaf",
+        "sweep"
+      ],
+      "preview_path": "previews/vfx/attack/staff/vfx_staff_leaf_sweep_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_staff_wind_sweep_01",
+      "title_zh": "棍风横扫",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/staff",
+      "category_zh": "特效 · 棍法攻击",
+      "path": "vfx/attack/staff/vfx_staff_wind_sweep_01_4frame_v1.png",
+      "description_zh": "“棍风横扫”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b27fb291c7b7e47b9908912fcba562773bcbee8e30633cce5a8aac2ef6ba1a5e",
+      "pixel_sha256_rgba": "48f7a060ea082c605dc17dfcf305624ea46e99f2e5545c4a8e73fca397c114d5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "staff",
+        "staff",
+        "wind",
+        "sweep"
+      ],
+      "preview_path": "previews/vfx/attack/staff/vfx_staff_wind_sweep_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_blue_arc_01",
+      "title_zh": "青蓝剑弧一",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_blue_arc_01_4frame_v1.png",
+      "description_zh": "“青蓝剑弧一”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7791ab5119de3b25cd4bb5cd90dfafbe24a05b752534cd7e52453167b27a7587",
+      "pixel_sha256_rgba": "16d298b61b90e7c6e4d1029934fe3f11814b6e1d9ec3165699ad73aae3de9238",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "blue",
+        "arc"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_blue_arc_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_blue_arc_02",
+      "title_zh": "青蓝剑弧二",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_blue_arc_02_4frame_v1.png",
+      "description_zh": "“青蓝剑弧二”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1b2996db0c3767c94e7ee4ca79e18a77e86e39c85afc67b1ed69eb2ae46c6be4",
+      "pixel_sha256_rgba": "2bbab1e4dab0242b2dbf1bed679a7be868062023e7907133361576a0e6129c6b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "blue",
+        "arc",
+        "02"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_blue_arc_02.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_cloud_pierce_01",
+      "title_zh": "破云穿刺剑光",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_cloud_pierce_01_4frame_v1.png",
+      "description_zh": "“破云穿刺剑光”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d4e23adb03fd0ed9c979642e75defed1050700bf29201e5e6121bdedd6c79910",
+      "pixel_sha256_rgba": "f0fb82a606e21e472d5e764ac34d7cde3f2346aec46ec2e3f6d9979bfc1f2fe7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "cloud",
+        "pierce"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_cloud_pierce_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_counter_lines_01",
+      "title_zh": "破招剑线",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_counter_lines_01_4frame_v1.png",
+      "description_zh": "“破招剑线”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fcb9abeb78943a4e4d576965f7720a32bbe4134070d1bb7383c1c8fd9b7f924a",
+      "pixel_sha256_rgba": "32023ef99cdf8fd95fc3eb10830950e99d4e4b476014fdffab67b9e176c6f49b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "counter",
+        "lines"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_counter_lines_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_falling_star_01",
+      "title_zh": "流星剑芒",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_falling_star_01_4frame_v1.png",
+      "description_zh": "“流星剑芒”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "733a093ef4dcbdbb4fd7246ff89c6bfdefdf97b380f4bec9f702df028ba201fa",
+      "pixel_sha256_rgba": "6b7adbf2aadfdf2c9745a981e934d98c1924172f37a8c90d2dec1c3fa324f95d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "falling",
+        "star"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_falling_star_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_mountain_arc_01",
+      "title_zh": "千山剑弧",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_mountain_arc_01_4frame_v1.png",
+      "description_zh": "“千山剑弧”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2bfc27c6312736ecc10b8cc49a600c11c0b1e33deaef96fe17b4ad09485ea52f",
+      "pixel_sha256_rgba": "22c507b33a860362d26e5c54273e1cd1b60736e7850caeaffafe1248d79300c0",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "mountain",
+        "arc"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_mountain_arc_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_straight_slash_01",
+      "title_zh": "直线剑斩",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_straight_slash_01_4frame_v1.png",
+      "description_zh": "“直线剑斩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ed96ed8b91929313b0cacd3ca413e078b9030952b2ba610b0575352bcea720a7",
+      "pixel_sha256_rgba": "a4ee7683fee70c0c2775f70a7ce2330c7472821bb3ecdba71fe0f950578c980c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "straight",
+        "slash"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_straight_slash_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 512,
+      "frame_height": 512,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_sword_swallow_arc_01",
+      "title_zh": "燕返剑弧",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/sword",
+      "category_zh": "特效 · 剑法攻击",
+      "path": "vfx/attack/sword/vfx_sword_swallow_arc_01_4frame_v1.png",
+      "description_zh": "“燕返剑弧”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eb48618b848451c06bf621f6fdbabf27c7ab9492e3100126a16ea30d57e4ee12",
+      "pixel_sha256_rgba": "ff48187521b11ed8526108af8b4f3200b7599571da41be3211c68d25beca8ef5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "sword",
+        "sword",
+        "swallow",
+        "arc"
+      ],
+      "preview_path": "previews/vfx/attack/sword/vfx_sword_swallow_arc_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_taiji_dual_orbit_01",
+      "title_zh": "两仪环流",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/taiji",
+      "category_zh": "特效 · 太极气劲",
+      "path": "vfx/attack/taiji/vfx_taiji_dual_orbit_01_4frame_v1.png",
+      "description_zh": "“两仪环流”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "acb58fd4c711d80881d63925b3d3c98c77933c0dcd88a63c4f3bd1293096f5e3",
+      "pixel_sha256_rgba": "d3cd3b52319a02aa16953a9b2a8c36df7014ad5ea765cdee903a4c3266a11ee5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "taiji",
+        "taiji",
+        "dual",
+        "orbit"
+      ],
+      "preview_path": "previews/vfx/attack/taiji/vfx_taiji_dual_orbit_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_taiji_four_symbol_01",
+      "title_zh": "四象气旋",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/taiji",
+      "category_zh": "特效 · 太极气劲",
+      "path": "vfx/attack/taiji/vfx_taiji_four_symbol_01_4frame_v1.png",
+      "description_zh": "“四象气旋”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "8ce22beb6bc3b1b92db6c2f44357f9ed374024e4ec9f979c62c7e4fa9404c2a0",
+      "pixel_sha256_rgba": "ea9aa76a1037fead825805a6bdb00afbbbd97913d759d87d9feaed1a59fb89ab",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "taiji",
+        "taiji",
+        "four",
+        "symbol"
+      ],
+      "preview_path": "previews/vfx/attack/taiji/vfx_taiji_four_symbol_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_taiji_opening_01",
+      "title_zh": "太极起势",
+      "kind": "vfx_sheet",
+      "category": "vfx/attack/taiji",
+      "category_zh": "特效 · 太极气劲",
+      "path": "vfx/attack/taiji/vfx_taiji_opening_01_4frame_v1.png",
+      "description_zh": "“太极起势”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "62e50cc5e7dfbb1589942078a8b69eff90771492e87fe3ac59f94f4757c30c76",
+      "pixel_sha256_rgba": "48f952b59ad334137d70bf9fd15d097ea5977117323ef90be8488b21ce20c747",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "attack",
+        "taiji",
+        "taiji",
+        "opening"
+      ],
+      "preview_path": "previews/vfx/attack/taiji/vfx_taiji_opening_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_movement_dragon_turn_01",
+      "title_zh": "游龙折转轨迹",
+      "kind": "vfx_sheet",
+      "category": "vfx/movement",
+      "category_zh": "特效 · 身法轨迹",
+      "path": "vfx/movement/vfx_movement_dragon_turn_01_4frame_v1.png",
+      "description_zh": "“游龙折转轨迹”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f00d0a4a0f5d60d84e84f5f63df627f5b6014210134eee6d15eba0036e0f5e4d",
+      "pixel_sha256_rgba": "af6c115192b731938ce4f8e3ab796dab219b0bdec62f607750093d1823e007a3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "movement",
+        "movement",
+        "dragon",
+        "turn"
+      ],
+      "preview_path": "previews/vfx/movement/vfx_movement_dragon_turn_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_movement_moon_water_step_01",
+      "title_zh": "月下踏水步",
+      "kind": "vfx_sheet",
+      "category": "vfx/movement",
+      "category_zh": "特效 · 身法轨迹",
+      "path": "vfx/movement/vfx_movement_moon_water_step_01_4frame_v1.png",
+      "description_zh": "“月下踏水步”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c7d2840c70358bae0fa7bfaf2c09ca241671bf6530bbdba48e235107dcb284b3",
+      "pixel_sha256_rgba": "289ccff5c5b0333fec7e987c70d8e958a589289838968ac5d5d791419d16f7ed",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "movement",
+        "movement",
+        "moon",
+        "water",
+        "step"
+      ],
+      "preview_path": "previews/vfx/movement/vfx_movement_moon_water_step_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_movement_shadow_step_01",
+      "title_zh": "暗影疾步",
+      "kind": "vfx_sheet",
+      "category": "vfx/movement",
+      "category_zh": "特效 · 身法轨迹",
+      "path": "vfx/movement/vfx_movement_shadow_step_01_4frame_v1.png",
+      "description_zh": "“暗影疾步”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5d38a74fcb270f83cdb1b1f88f03902cb7aa2a79586eb16329d2520b8cd2ca6a",
+      "pixel_sha256_rgba": "16f0ddaf9e661600e5f4c451f92cb34149034c50d7609ee624b11292d5fc045d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "movement",
+        "movement",
+        "shadow",
+        "step"
+      ],
+      "preview_path": "previews/vfx/movement/vfx_movement_shadow_step_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_guard_blue_shield_01",
+      "title_zh": "青蓝护体屏障",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/guard",
+      "category_zh": "特效 · 护体",
+      "path": "vfx/support/guard/vfx_guard_blue_shield_01_4frame_v1.png",
+      "description_zh": "“青蓝护体屏障”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2c1cff19dd370437e9ab19436fbca1a70f438280e55a5ea7c5c1027a3eec0a5d",
+      "pixel_sha256_rgba": "b92f0a4dab1658aeb1cee873f6cbbd3119a7c84f91337996ec0855c7dae2c950",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "guard",
+        "guard",
+        "blue",
+        "shield"
+      ],
+      "preview_path": "previews/vfx/support/guard/vfx_guard_blue_shield_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 627,
+      "frame_height": 627,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 460,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_guard_golden_bell_01",
+      "title_zh": "金钟护罩",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/guard",
+      "category_zh": "特效 · 护体",
+      "path": "vfx/support/guard/vfx_guard_golden_bell_01_4frame_v1.png",
+      "description_zh": "“金钟护罩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "59dcc861501c0ba1359ee92cdba5d611d59a814d6904cc652681b8b7ceef5222",
+      "pixel_sha256_rgba": "55cf3776b5568e10b0e7f06d8fc497e14a10250b3e86d8a02d96ab8266ca7c36",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "guard",
+        "guard",
+        "golden",
+        "bell"
+      ],
+      "preview_path": "previews/vfx/support/guard/vfx_guard_golden_bell_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_guard_tortoise_shell_01",
+      "title_zh": "玄甲护罩",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/guard",
+      "category_zh": "特效 · 护体",
+      "path": "vfx/support/guard/vfx_guard_tortoise_shell_01_4frame_v1.png",
+      "description_zh": "“玄甲护罩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5f1f8a291c22b0169500d44868fad8cb72494b9c2b0f0250aa7421de92363bfa",
+      "pixel_sha256_rgba": "1113932384355141462199991462d18bc4041505afcbd98c74d72547d36e0fb9",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "guard",
+        "guard",
+        "tortoise",
+        "shell"
+      ],
+      "preview_path": "previews/vfx/support/guard/vfx_guard_tortoise_shell_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_guard_violet_crystal_01",
+      "title_zh": "紫晶罡罩",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/guard",
+      "category_zh": "特效 · 护体",
+      "path": "vfx/support/guard/vfx_guard_violet_crystal_01_4frame_v1.png",
+      "description_zh": "“紫晶罡罩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "32675c18bbfebca958646b3ead6b8e677850ffa16ff0325f1bc8582cac7cc516",
+      "pixel_sha256_rgba": "dea1c8e6215dc7787d89277bfc13fff380be2e8246d1f8f866e2994c6a361dec",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "guard",
+        "guard",
+        "violet",
+        "crystal"
+      ],
+      "preview_path": "previews/vfx/support/guard/vfx_guard_violet_crystal_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_guard_wood_leaf_01",
+      "title_zh": "青木叶阵护罩",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/guard",
+      "category_zh": "特效 · 护体",
+      "path": "vfx/support/guard/vfx_guard_wood_leaf_01_4frame_v1.png",
+      "description_zh": "“青木叶阵护罩”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2d74c67e1fb98374167d6242a08e0c6bcae72c484ae21b226621e7acbb74c6a6",
+      "pixel_sha256_rgba": "dac18adf9730ac55935c20738017755e4384679c1153694494af66652ea6608e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "guard",
+        "guard",
+        "wood",
+        "leaf"
+      ],
+      "preview_path": "previews/vfx/support/guard/vfx_guard_wood_leaf_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_healing_emerald_breath_01",
+      "title_zh": "翠绿回生灵息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/healing",
+      "category_zh": "特效 · 治疗",
+      "path": "vfx/support/healing/vfx_healing_emerald_breath_01_4frame_v1.png",
+      "description_zh": "“翠绿回生灵息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "74af1f35161f928c7dc0641415224cb94fc2256787b021b3864ec65683ec06a5",
+      "pixel_sha256_rgba": "d64b994a35bc74cac94b19199851b104c213601a59b6ff4fe3750925c0c4b1ca",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "healing",
+        "healing",
+        "emerald",
+        "breath"
+      ],
+      "preview_path": "previews/vfx/support/healing/vfx_healing_emerald_breath_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_breath_green_01",
+      "title_zh": "青绿色吐纳气息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_breath_green_01_4frame_v1.png",
+      "description_zh": "“青绿色吐纳气息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0df113f18d74290071df147d622a1ef4f9d5c72d930f0f67c707a7e61423c792",
+      "pixel_sha256_rgba": "1a8c38fe46d5dab269fe58ef10444a3d44a470d17f04c28b2c74145eacece24e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "breath",
+        "green"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_breath_green_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_gold_aura_01",
+      "title_zh": "金色内劲聚气",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_gold_aura_01_4frame_v1.png",
+      "description_zh": "“金色内劲聚气”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "93d3e05cd66794eeb53229f7e71ac3b2a164827a91d0fc489a8c48f4f96e0978",
+      "pixel_sha256_rgba": "db275014690f1a4bcb49b1af131b4fd2e7426fbe00d6f64a1c761b64426371cf",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "gold",
+        "aura"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_gold_aura_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_meridian_gold_01",
+      "title_zh": "金色经脉淬炼",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_meridian_gold_01_4frame_v1.png",
+      "description_zh": "“金色经脉淬炼”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b8cdd90f363e7ce73530b06ae054108a4536481742043a35fe23e458d38cec4b",
+      "pixel_sha256_rgba": "908f73d18bcca091ef86759c0fe19065715d1c9afa1568143423f10b0d478282",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "meridian",
+        "gold"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_meridian_gold_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_moon_aura_01",
+      "title_zh": "月华内息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_moon_aura_01_4frame_v1.png",
+      "description_zh": "“月华内息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f0be130a9db00c635158f5062eb02d650544aac7c92b1532e95e91efe487b41d",
+      "pixel_sha256_rgba": "e9d4195a59b12bf24463d1b070dc259dad07d98d0f8d18966696461bf918fbca",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "moon",
+        "aura"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_moon_aura_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_shadow_aura_01",
+      "title_zh": "暗影内息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_shadow_aura_01_4frame_v1.png",
+      "description_zh": "“暗影内息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2496970ef016fdbf865891097dacfc6e37822cc990d99bfb69fae165814d038e",
+      "pixel_sha256_rgba": "de861fc2fa0095eb8e86785f2718efe666bbd31992a3e5955bc306200fb88cc0",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "shadow",
+        "aura"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_shadow_aura_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_taiji_aura_01",
+      "title_zh": "太极内息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_taiji_aura_01_4frame_v1.png",
+      "description_zh": "“太极内息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eab243471d508b6e65ace7bf083d00e66c6a924a320c4f9035de3c8624183677",
+      "pixel_sha256_rgba": "c0985a16ded47661805c9d86f9a080e7b31df2498caa5c720b4ff6601eef3fe7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "taiji",
+        "aura"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_taiji_aura_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_inner_violet_cloud_01",
+      "title_zh": "紫云内息",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/inner",
+      "category_zh": "特效 · 内功",
+      "path": "vfx/support/inner/vfx_inner_violet_cloud_01_4frame_v1.png",
+      "description_zh": "“紫云内息”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "911a940e435d0b2d7b7a2762f2e62158bddd0caa4ff18a4e8e88a5945711dcd9",
+      "pixel_sha256_rgba": "bea532f73dffdfebfa70226676d5d9472e588c00d99f247796cb5b4c2c68ca5a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "inner",
+        "inner",
+        "violet",
+        "cloud"
+      ],
+      "preview_path": "previews/vfx/support/inner/vfx_inner_violet_cloud_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    },
+    {
+      "asset_id": "vfx_redirect_water_swirl_01",
+      "title_zh": "回澜卸力水旋",
+      "kind": "vfx_sheet",
+      "category": "vfx/support/redirect",
+      "category_zh": "特效 · 卸力与转化",
+      "path": "vfx/support/redirect/vfx_redirect_water_swirl_01_4frame_v1.png",
+      "description_zh": "“回澜卸力水旋”四阶段透明特效，按起势、增强、命中峰值、消散的顺序播放。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1537fa300f69a76052539af009b574c1451871ab7a66548e7ba73228c99862ed",
+      "pixel_sha256_rgba": "d33f6e432e4c13714b1d8e629f74b031bcb6054439fb2485867580b38ea608ba",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "support",
+        "redirect",
+        "redirect",
+        "water",
+        "swirl"
+      ],
+      "preview_path": "previews/vfx/support/redirect/vfx_redirect_water_swirl_01.webp",
+      "layout": "2x2",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "recommended_frame_ms": [
+        90,
+        105
+      ],
+      "recommended_display_size": 380,
+      "anchor": "cell_center",
+      "blend_mode": "alpha",
+      "transparent_background": true,
+      "provenance": {
+        "kind": "project_generated_ai_runtime",
+        "backend": "mixed_project_pipeline",
+        "note": "Provider metadata completeness varies across the adopted source batch."
+      }
+    }
+  ]
+}

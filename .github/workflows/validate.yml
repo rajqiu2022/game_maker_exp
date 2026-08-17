@@ -12,5 +12,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install art validation dependencies
+        run: python -m pip install -r requirements-art.txt
+      - name: Rebuild and validate reusable art packs
+        run: |
+          python tools/build_art_resource_catalog.py
+          git diff --exit-code -- resource-packs/ink-wuxia-icons-vfx-v1/manifest.json resource-packs/ink-wuxia-icons-vfx-v1/CATALOG.md resource-packs/ink-wuxia-icons-vfx-v1/SHA256SUMS
+          python tools/validate_resource_pack.py
       - name: Validate documentation and templates
         run: python tools/validate_repository.py
