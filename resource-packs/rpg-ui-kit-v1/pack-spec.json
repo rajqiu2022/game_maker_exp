@@ -1,0 +1,2278 @@
+{
+  "schema_version": 1,
+  "pack_id": "rpg-ui-kit-v1",
+  "version": "1.0.0",
+  "title_zh": "跨平台 RPG UI Kit v1",
+  "generated_at": "2026-08-22",
+  "sharing_scope": "repository_owner_authorized_game_projects",
+  "categories": {
+    "ui_core_controls": "核心控件",
+    "ui_core_meters": "核心进度条",
+    "ui_core_panels": "核心面板",
+    "ui_core_slots": "核心槽位",
+    "ui_mobile_controls": "移动端控件",
+    "ui_hud_status": "HUD 状态组件"
+  },
+  "entries": [
+    {
+      "asset_id": "ui_button_compact_disabled",
+      "title_zh": "Button Compact Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_disabled"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_disabled"
+      },
+      "recommended_touch_target": [
+        112,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_compact_hover",
+      "title_zh": "Button Compact Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_hover"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_hover"
+      },
+      "recommended_touch_target": [
+        112,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_compact_normal",
+      "title_zh": "Button Compact Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_normal"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_normal"
+      },
+      "recommended_touch_target": [
+        112,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_compact_pressed",
+      "title_zh": "Button Compact Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_pressed"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_pressed"
+      },
+      "recommended_touch_target": [
+        112,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_compact_selected",
+      "title_zh": "Button Compact Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_selected"
+      },
+      "recommended_touch_target": [
+        112,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_primary_disabled",
+      "title_zh": "Button Primary Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_disabled"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_disabled"
+      },
+      "recommended_touch_target": [
+        192,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_primary_hover",
+      "title_zh": "Button Primary Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_hover"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_hover"
+      },
+      "recommended_touch_target": [
+        192,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_primary_normal",
+      "title_zh": "Button Primary Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_normal"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_normal"
+      },
+      "recommended_touch_target": [
+        192,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_primary_pressed",
+      "title_zh": "Button Primary Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_pressed"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_pressed"
+      },
+      "recommended_touch_target": [
+        192,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_primary_selected",
+      "title_zh": "Button Primary Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_selected"
+      },
+      "recommended_touch_target": [
+        192,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_secondary_disabled",
+      "title_zh": "Button Secondary Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_disabled"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_disabled"
+      },
+      "recommended_touch_target": [
+        160,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_secondary_hover",
+      "title_zh": "Button Secondary Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_hover"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_hover"
+      },
+      "recommended_touch_target": [
+        160,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_secondary_normal",
+      "title_zh": "Button Secondary Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_normal"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_normal"
+      },
+      "recommended_touch_target": [
+        160,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_secondary_pressed",
+      "title_zh": "Button Secondary Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_pressed"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_pressed"
+      },
+      "recommended_touch_target": [
+        160,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_secondary_selected",
+      "title_zh": "Button Secondary Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_selected"
+      },
+      "recommended_touch_target": [
+        160,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_button_small",
+      "title_zh": "Button Small",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_small.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "button_small"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        10,
+        3,
+        10,
+        3
+      ],
+      "recommended_visible_size": [
+        82,
+        28
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_small"
+      },
+      "recommended_touch_target": [
+        82,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_checkbox_disabled",
+      "title_zh": "Checkbox Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_disabled"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_disabled"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_checkbox_hover",
+      "title_zh": "Checkbox Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_hover"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_hover"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_checkbox_off",
+      "title_zh": "Checkbox Off",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_off.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_off"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_off"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_checkbox_on",
+      "title_zh": "Checkbox On",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_on.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_on"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_on"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_close_button",
+      "title_zh": "Close Button",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_close_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "close_button"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        30,
+        30
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "close_button"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_dialog_frame",
+      "title_zh": "Dialog Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_dialog_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "dialog_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        8,
+        16,
+        8
+      ],
+      "recommended_visible_size": [
+        320,
+        64
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "dialog_frame"
+      }
+    },
+    {
+      "asset_id": "ui_dialogue_choice",
+      "title_zh": "Dialogue Choice",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_dialogue_choice.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "controls",
+        "dialogue_choice"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        320,
+        42
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "dialogue_choice"
+      },
+      "recommended_touch_target": [
+        320,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_hero_card_frame",
+      "title_zh": "Hero Card Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_hero_card_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "hero_card_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        250,
+        246
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_card_frame"
+      },
+      "recommended_touch_target": [
+        250,
+        246
+      ]
+    },
+    {
+      "asset_id": "ui_hero_card_selected",
+      "title_zh": "Hero Card Selected",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_hero_card_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "hero_card_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        250,
+        246
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_card_selected"
+      },
+      "recommended_touch_target": [
+        250,
+        246
+      ]
+    },
+    {
+      "asset_id": "ui_hotkey_frame",
+      "title_zh": "Hotkey Frame",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_hotkey_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "slots",
+        "hotkey_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        62,
+        62
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hotkey_frame"
+      }
+    },
+    {
+      "asset_id": "ui_list_row",
+      "title_zh": "List Row",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_list_row.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "list_row"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        320,
+        42
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "list_row"
+      }
+    },
+    {
+      "asset_id": "ui_map_card_frame",
+      "title_zh": "Map Card Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_map_card_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "map_card_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        344,
+        230
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "map_card_frame"
+      },
+      "recommended_touch_target": [
+        344,
+        230
+      ]
+    },
+    {
+      "asset_id": "ui_map_card_selected",
+      "title_zh": "Map Card Selected",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_map_card_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "map_card_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        344,
+        230
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "map_card_selected"
+      },
+      "recommended_touch_target": [
+        344,
+        230
+      ]
+    },
+    {
+      "asset_id": "ui_meter_fill_health",
+      "title_zh": "Meter Fill Health",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_health.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_health"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_health"
+      }
+    },
+    {
+      "asset_id": "ui_meter_fill_mana",
+      "title_zh": "Meter Fill Mana",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_mana.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_mana"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_mana"
+      }
+    },
+    {
+      "asset_id": "ui_meter_fill_xp",
+      "title_zh": "Meter Fill Xp",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_xp.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_xp"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_xp"
+      }
+    },
+    {
+      "asset_id": "ui_meter_frame",
+      "title_zh": "Meter Frame",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "meters",
+        "meter_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_frame"
+      }
+    },
+    {
+      "asset_id": "ui_panel_frame",
+      "title_zh": "Panel Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "panel_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "recommended_visible_size": [
+        96,
+        96
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_frame"
+      }
+    },
+    {
+      "asset_id": "ui_panel_header",
+      "title_zh": "Panel Header",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_header.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "panel_header"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        12,
+        4,
+        12,
+        4
+      ],
+      "recommended_visible_size": [
+        96,
+        32
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_header"
+      }
+    },
+    {
+      "asset_id": "ui_panel_inset",
+      "title_zh": "Panel Inset",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_inset.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "panel_inset"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "recommended_visible_size": [
+        72,
+        72
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_inset"
+      }
+    },
+    {
+      "asset_id": "ui_quest_tracker",
+      "title_zh": "Quest Tracker",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_quest_tracker.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "quest_tracker"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        320,
+        112
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "quest_tracker"
+      }
+    },
+    {
+      "asset_id": "ui_reward_row",
+      "title_zh": "Reward Row",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_reward_row.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "reward_row"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        320,
+        50
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "reward_row"
+      }
+    },
+    {
+      "asset_id": "ui_select_frame",
+      "title_zh": "Select Frame",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_select_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "slots",
+        "select_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        210,
+        40
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "select_frame"
+      },
+      "recommended_touch_target": [
+        210,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_skill_slot",
+      "title_zh": "Skill Slot",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_skill_slot.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "slots",
+        "skill_slot"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        46,
+        46
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_slot"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_skill_slot_selected",
+      "title_zh": "Skill Slot Selected",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_skill_slot_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "slots",
+        "skill_slot_selected"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "recommended_visible_size": [
+        46,
+        46
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_slot_selected"
+      },
+      "recommended_touch_target": [
+        72,
+        72
+      ]
+    },
+    {
+      "asset_id": "ui_title_bar",
+      "title_zh": "Title Bar",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_title_bar.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "core",
+        "panels",
+        "title_bar"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        320,
+        40
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "title_bar"
+      }
+    },
+    {
+      "asset_id": "ui_mobile_attack_button",
+      "title_zh": "Attack Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_attack_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "attack_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "attack_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_character_button",
+      "title_zh": "Character Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_character_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "character_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "character_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_crafting_button",
+      "title_zh": "Crafting Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_crafting_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "crafting_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "crafting_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_hp_potion_button",
+      "title_zh": "Hp Potion Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_hp_potion_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "hp_potion_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_interact_button",
+      "title_zh": "Interact Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_interact_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "interact_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "interact_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_inventory_button",
+      "title_zh": "Inventory Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_inventory_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "inventory_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "inventory_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_joystick_base",
+      "title_zh": "Joystick Base",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_joystick_base.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "joystick_base"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "joystick_base"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_joystick_knob",
+      "title_zh": "Joystick Knob",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_joystick_knob.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "joystick_knob"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "joystick_knob"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_mp_potion_button",
+      "title_zh": "Mp Potion Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_mp_potion_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "mp_potion_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mp_potion_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_shop_button",
+      "title_zh": "Shop Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_shop_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "shop_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shop_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_skill_button",
+      "title_zh": "Skill Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_skill_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "skill_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_mobile_skills_button",
+      "title_zh": "Skills Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_skills_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "mobile",
+        "mobile",
+        "skills_button"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "interactive": true,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skills_button"
+      },
+      "recommended_touch_target": [
+        80,
+        80
+      ]
+    },
+    {
+      "asset_id": "ui_hud_base_status_frame",
+      "title_zh": "Base Status Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_base_status_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "base_status_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        196,
+        42
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "base_status_frame"
+      }
+    },
+    {
+      "asset_id": "ui_hud_base_status_frame_transparent",
+      "title_zh": "Base Status Frame Transparent",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_base_status_frame_transparent.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "base_status_frame_transparent"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        196,
+        42
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "base_status_frame_transparent"
+      }
+    },
+    {
+      "asset_id": "ui_hud_crystal_status_panel",
+      "title_zh": "Crystal Status Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_crystal_status_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "crystal_status_panel"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "recommended_visible_size": [
+        218,
+        54
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "crystal_status_panel"
+      }
+    },
+    {
+      "asset_id": "ui_hud_hero_status_panel",
+      "title_zh": "Hero Status Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_hero_status_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "hero_status_panel"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        248,
+        152
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_status_panel"
+      }
+    },
+    {
+      "asset_id": "ui_hud_objective_panel",
+      "title_zh": "Objective Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_objective_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "objective_panel"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "recommended_visible_size": [
+        360,
+        132
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "objective_panel"
+      }
+    },
+    {
+      "asset_id": "ui_hud_party_row_frame",
+      "title_zh": "Party Row Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_party_row_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "party_row_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "recommended_visible_size": [
+        196,
+        44
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "party_row_frame"
+      }
+    },
+    {
+      "asset_id": "ui_hud_resource_bar_frame",
+      "title_zh": "Resource Bar Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_resource_bar_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "resource_bar_frame"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        2,
+        16,
+        2
+      ],
+      "recommended_visible_size": [
+        210,
+        20
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "resource_bar_frame"
+      }
+    },
+    {
+      "asset_id": "ui_hud_resource_bar_frame_fixed",
+      "title_zh": "Resource Bar Frame Fixed",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_resource_bar_frame_fixed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "tags": [
+        "hud",
+        "hud",
+        "resource_bar_frame_fixed"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "content_safe_margin": [
+        16,
+        2,
+        16,
+        2
+      ],
+      "recommended_visible_size": [
+        210,
+        20
+      ],
+      "interactive": false,
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "resource_bar_frame_fixed"
+      }
+    }
+  ]
+}

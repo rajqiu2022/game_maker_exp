@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "pack_id": "rpg-ui-kit-v1",
+  "entries": [
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_compact_disabled.png",
+      "destination": "ui/core/controls/ui_button_compact_disabled.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_compact_hover.png",
+      "destination": "ui/core/controls/ui_button_compact_hover.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_compact_normal.png",
+      "destination": "ui/core/controls/ui_button_compact_normal.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_compact_pressed.png",
+      "destination": "ui/core/controls/ui_button_compact_pressed.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_compact_selected.png",
+      "destination": "ui/core/controls/ui_button_compact_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_primary_disabled.png",
+      "destination": "ui/core/controls/ui_button_primary_disabled.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_primary_hover.png",
+      "destination": "ui/core/controls/ui_button_primary_hover.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_primary_normal.png",
+      "destination": "ui/core/controls/ui_button_primary_normal.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_primary_pressed.png",
+      "destination": "ui/core/controls/ui_button_primary_pressed.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_primary_selected.png",
+      "destination": "ui/core/controls/ui_button_primary_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_secondary_disabled.png",
+      "destination": "ui/core/controls/ui_button_secondary_disabled.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_secondary_hover.png",
+      "destination": "ui/core/controls/ui_button_secondary_hover.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_secondary_normal.png",
+      "destination": "ui/core/controls/ui_button_secondary_normal.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_secondary_pressed.png",
+      "destination": "ui/core/controls/ui_button_secondary_pressed.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_secondary_selected.png",
+      "destination": "ui/core/controls/ui_button_secondary_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/button_small.png",
+      "destination": "ui/core/controls/ui_button_small.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/checkbox_disabled.png",
+      "destination": "ui/core/controls/ui_checkbox_disabled.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/checkbox_hover.png",
+      "destination": "ui/core/controls/ui_checkbox_hover.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/checkbox_off.png",
+      "destination": "ui/core/controls/ui_checkbox_off.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/checkbox_on.png",
+      "destination": "ui/core/controls/ui_checkbox_on.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/close_button.png",
+      "destination": "ui/core/controls/ui_close_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/dialog_frame.png",
+      "destination": "ui/core/panels/ui_dialog_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/dialogue_choice.png",
+      "destination": "ui/core/controls/ui_dialogue_choice.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/hero_card_frame.png",
+      "destination": "ui/core/panels/ui_hero_card_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/hero_card_selected.png",
+      "destination": "ui/core/panels/ui_hero_card_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/hotkey_frame.png",
+      "destination": "ui/core/slots/ui_hotkey_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/list_row.png",
+      "destination": "ui/core/panels/ui_list_row.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/map_card_frame.png",
+      "destination": "ui/core/panels/ui_map_card_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/map_card_selected.png",
+      "destination": "ui/core/panels/ui_map_card_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/meter_fill_health.png",
+      "destination": "ui/core/meters/ui_meter_fill_health.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/meter_fill_mana.png",
+      "destination": "ui/core/meters/ui_meter_fill_mana.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/meter_fill_xp.png",
+      "destination": "ui/core/meters/ui_meter_fill_xp.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/meter_frame.png",
+      "destination": "ui/core/meters/ui_meter_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/panel_frame.png",
+      "destination": "ui/core/panels/ui_panel_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/panel_header.png",
+      "destination": "ui/core/panels/ui_panel_header.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/panel_inset.png",
+      "destination": "ui/core/panels/ui_panel_inset.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/quest_tracker.png",
+      "destination": "ui/core/panels/ui_quest_tracker.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/reward_row.png",
+      "destination": "ui/core/panels/ui_reward_row.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/select_frame.png",
+      "destination": "ui/core/slots/ui_select_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/skill_slot.png",
+      "destination": "ui/core/slots/ui_skill_slot.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/skill_slot_selected.png",
+      "destination": "ui/core/slots/ui_skill_slot_selected.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/kit/title_bar.png",
+      "destination": "ui/core/panels/ui_title_bar.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/attack_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_attack_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/character_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_character_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/crafting_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_crafting_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/hp_potion_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_hp_potion_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/interact_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_interact_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/inventory_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_inventory_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/joystick_base.png",
+      "destination": "ui/mobile/controls/ui_mobile_joystick_base.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/joystick_knob.png",
+      "destination": "ui/mobile/controls/ui_mobile_joystick_knob.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/mp_potion_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_mp_potion_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/shop_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_shop_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/skill_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_skill_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/mobile/skills_button.png",
+      "destination": "ui/mobile/controls/ui_mobile_skills_button.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/base_status_frame.png",
+      "destination": "ui/hud/status/ui_hud_base_status_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/base_status_frame_transparent.png",
+      "destination": "ui/hud/status/ui_hud_base_status_frame_transparent.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/crystal_status_panel.png",
+      "destination": "ui/hud/status/ui_hud_crystal_status_panel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/hero_status_panel.png",
+      "destination": "ui/hud/status/ui_hud_hero_status_panel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/objective_panel.png",
+      "destination": "ui/hud/status/ui_hud_objective_panel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/party_row_frame.png",
+      "destination": "ui/hud/status/ui_hud_party_row_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/resource_bar_frame.png",
+      "destination": "ui/hud/status/ui_hud_resource_bar_frame.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/hud/resource_bar_frame_fixed.png",
+      "destination": "ui/hud/status/ui_hud_resource_bar_frame_fixed.png"
+    }
+  ]
+}

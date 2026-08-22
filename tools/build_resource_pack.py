@@ -20,6 +20,7 @@ KINDS = {"skill_icon", "item_icon", "vfx_single", "vfx_sheet", "ui_component"}
 STRETCH_MODES = {"none", "scale", "tile", "nine_patch"}
 FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
 PASSTHROUGH_FIELDS = {
+    "interactive",
     "recommended_display_size",
     "anchor",
     "blend_mode",
@@ -81,6 +82,15 @@ def _validate_ui_metadata(entry: dict, width: int, height: int) -> None:
         raise ValueError(f"UI platforms are required: {entry.get('asset_id')}")
     if not isinstance(visible, list) or len(visible) != 2 or min(visible) <= 0:
         raise ValueError(f"UI recommended_visible_size is required: {entry.get('asset_id')}")
+    interactive = entry.get("interactive")
+    if not isinstance(interactive, bool):
+        raise ValueError(f"UI interactive flag is required: {entry.get('asset_id')}")
+    if interactive:
+        touch = entry.get("recommended_touch_target")
+        if not isinstance(touch, list) or len(touch) != 2 or min(touch) <= 0:
+            raise ValueError(f"interactive UI touch target is required: {entry.get('asset_id')}")
+        if "mobile" in platforms and min(touch) < 72:
+            raise ValueError(f"mobile UI touch target must be at least 72x72: {entry.get('asset_id')}")
 
 
 def _preview_path(entry: dict) -> str:

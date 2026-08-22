@@ -1,0 +1,3075 @@
+{
+  "schema_version": 1,
+  "pack_id": "rpg-ui-kit-v1",
+  "version": "1.0.0",
+  "generated_at": "2026-08-22",
+  "sharing_scope": "repository_owner_authorized_game_projects",
+  "entries": [
+    {
+      "asset_id": "ui_button_compact_disabled",
+      "title_zh": "Button Compact Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 112,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "aa6bb4b03376fa52ed063dfc1d97df93449ec558cdf92e7d3c3a82f9dca27baf",
+      "pixel_sha256_rgba": "bc7b346aa523765b3fd9b0caca2e53cc10b7ba73a79e53dcb77882ba7294f2fb",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_disabled"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_disabled"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        112,
+        72
+      ],
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_compact_disabled.webp"
+    },
+    {
+      "asset_id": "ui_button_compact_hover",
+      "title_zh": "Button Compact Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 112,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3a11a5a630098fdb32b1ff461082f3d5b5e7ee61f4bcc8ddb140b068606598ea",
+      "pixel_sha256_rgba": "d8dd312fd822fe9b93cee80c228b8478d5a6ce46195aac4b62f921648d750b8e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_hover"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_hover"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        112,
+        72
+      ],
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_compact_hover.webp"
+    },
+    {
+      "asset_id": "ui_button_compact_normal",
+      "title_zh": "Button Compact Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 112,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "24b233aa90eb168073ca93816396308061b2a609b2f590b01b70f41120d97295",
+      "pixel_sha256_rgba": "b1d17535d5887bc1c3f3bc39399915476b82776f11d840a966f2abb6b0f563f2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_normal"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_normal"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        112,
+        72
+      ],
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_compact_normal.webp"
+    },
+    {
+      "asset_id": "ui_button_compact_pressed",
+      "title_zh": "Button Compact Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 112,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "64a70a30982d782d4c5bf2ead786a4c7d764eba24f9576a2d7f7e560fda24040",
+      "pixel_sha256_rgba": "3a0592183faf81f8d22c0ea7e0a2428e4c49c74b3066065bcc377c6f36d0216d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_pressed"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_pressed"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        112,
+        72
+      ],
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_compact_pressed.webp"
+    },
+    {
+      "asset_id": "ui_button_compact_selected",
+      "title_zh": "Button Compact Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_compact_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 112,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "46baf46cfa58a2139d875be80b51ae4dc71df20f724462d09e801b6591547f05",
+      "pixel_sha256_rgba": "e60f1ac9448783b2e5284d684922db68fae50e4328bdd26345132cc4edf1e559",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_compact_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_compact_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        112,
+        72
+      ],
+      "content_safe_margin": [
+        14,
+        5,
+        14,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        112,
+        40
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_compact_selected.webp"
+    },
+    {
+      "asset_id": "ui_button_primary_disabled",
+      "title_zh": "Button Primary Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 192,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eb1da2a94e183cd677582ad0b3fc79d0a3589f832d2e28a21d7f0578863d29a5",
+      "pixel_sha256_rgba": "461ce7bcf8d2675b05742cc2b4bc17adf94a7fbe6043b10d27ddb118f179dbd1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_disabled"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_disabled"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        192,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_primary_disabled.webp"
+    },
+    {
+      "asset_id": "ui_button_primary_hover",
+      "title_zh": "Button Primary Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 192,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "bf1b1247897cc505346c6ae965786a4748f0b640fd0a7d4bcda5644936c2bb82",
+      "pixel_sha256_rgba": "89632371437ae63802aa5a96a6936ee3211db577534711c3b6911cd2a8c83a3a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_hover"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_hover"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        192,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_primary_hover.webp"
+    },
+    {
+      "asset_id": "ui_button_primary_normal",
+      "title_zh": "Button Primary Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 192,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ee8a0a03f7683512736fb880c269497fb8f0403ed5ee04cf6bba0d0538ba83af",
+      "pixel_sha256_rgba": "7f20447c0b184e77be1bf5c11420402e0c6f00a0882b39df68d7af8769a4dda3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_normal"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_normal"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        192,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_primary_normal.webp"
+    },
+    {
+      "asset_id": "ui_button_primary_pressed",
+      "title_zh": "Button Primary Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 192,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5d37e646cfd167fd520ebb0c4351f8bd8f0cac5616b9beb8fe3b89afaacd9269",
+      "pixel_sha256_rgba": "7d2edf41c08e86b5565f09e1f5aa7dbc6c0988c5895a9b6bd8e86223254c3aa3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_pressed"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_pressed"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        192,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_primary_pressed.webp"
+    },
+    {
+      "asset_id": "ui_button_primary_selected",
+      "title_zh": "Button Primary Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_primary_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 192,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "45a5bb5d3c857defb45373a9ce78f69c2fbaa6055fb0ef508ff69ca191f697ed",
+      "pixel_sha256_rgba": "bcbad518307050a86dd1008642f7634a40e20fcb5ecb3766c05f07d6a9235ef3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_primary_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_primary_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        192,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        192,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_primary_selected.webp"
+    },
+    {
+      "asset_id": "ui_button_secondary_disabled",
+      "title_zh": "Button Secondary Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a1f64f855c1a7fe9c3f5977c4df0dfea0ba063cb3bf8b0fd595e7e8f4730ea57",
+      "pixel_sha256_rgba": "5a4d96cb4131c2c002e42b3024024c8269e3aa0a717903dd02ff2632cadae2c7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_disabled"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_disabled"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        160,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_secondary_disabled.webp"
+    },
+    {
+      "asset_id": "ui_button_secondary_hover",
+      "title_zh": "Button Secondary Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "99ba79b1959d2be8466c19da35b58f657aa2c3fe50f8542983f728feeba008fd",
+      "pixel_sha256_rgba": "c1d980a105b2329dc9bd3e4948068d70d68b66dc57175dd093de2fd0e266776e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_hover"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_hover"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        160,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_secondary_hover.webp"
+    },
+    {
+      "asset_id": "ui_button_secondary_normal",
+      "title_zh": "Button Secondary Normal",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_normal.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7bc6a44a036de906f4f0552908dbc000d2510aa0fce061eb78e1f9a081b87936",
+      "pixel_sha256_rgba": "09ac2d973071aea8fbb59fdd975edb52d1d5ded92e920cc48120b9428b3e8ec5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_normal"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_normal"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        160,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_secondary_normal.webp"
+    },
+    {
+      "asset_id": "ui_button_secondary_pressed",
+      "title_zh": "Button Secondary Pressed",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_pressed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f434d857c36daed5af744682da5b578f4103d06306cd076342793c4f8df42350",
+      "pixel_sha256_rgba": "6b69efe9d46f576d384c0ac1396beab2e546c42101760b508bb4a6d75d4db842",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_pressed"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_pressed"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        160,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_secondary_pressed.webp"
+    },
+    {
+      "asset_id": "ui_button_secondary_selected",
+      "title_zh": "Button Secondary Selected",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_secondary_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 48,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "068fa6f58259881a8e7cdd892a67dda87913c97d2a604793a18ba409ef3fb040",
+      "pixel_sha256_rgba": "6c18aca10763ae84a7bc2993c71c2aac129e09bbd02f9aca6eb0ad572e6910b4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_secondary_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_secondary_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        160,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        160,
+        48
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_secondary_selected.webp"
+    },
+    {
+      "asset_id": "ui_button_small",
+      "title_zh": "Button Small",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_button_small.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 82,
+      "height": 28,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0c4977de6e35eeae7ffd0f27833259bbea8d3d2952fb9ec2e265fad4b0406991",
+      "pixel_sha256_rgba": "aa28dd2819b3db669258fcf1a5ef7791ddacdfccb812dbb0bbf940df5376cbe3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "button_small"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "button_small"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        82,
+        72
+      ],
+      "content_safe_margin": [
+        10,
+        3,
+        10,
+        3
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        82,
+        28
+      ],
+      "preview_path": "previews/ui_core_controls/ui_button_small.webp"
+    },
+    {
+      "asset_id": "ui_checkbox_disabled",
+      "title_zh": "Checkbox Disabled",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_disabled.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 18,
+      "height": 18,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d6cb13c1ab2a6c1690c5e6fc72697a6d66976cdc3dca1713b56f86530d96298d",
+      "pixel_sha256_rgba": "ea4a56d67f29f2285b7c453f4ebebab930a3c511831a8116df63fa154b4b8c0e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_disabled"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_disabled"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "preview_path": "previews/ui_core_controls/ui_checkbox_disabled.webp"
+    },
+    {
+      "asset_id": "ui_checkbox_hover",
+      "title_zh": "Checkbox Hover",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_hover.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 18,
+      "height": 18,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "aa2518c3d68527c4fdbf4aae218f4088d9e3a6723d0ec58b35cdc2d901badf6f",
+      "pixel_sha256_rgba": "6d6a3d856b34bfbcc3a45bdfccaad175cdbc91aeb5244f68f1f196921788c776",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_hover"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_hover"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "preview_path": "previews/ui_core_controls/ui_checkbox_hover.webp"
+    },
+    {
+      "asset_id": "ui_checkbox_off",
+      "title_zh": "Checkbox Off",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_off.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 18,
+      "height": 18,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6ca1972b72f0750026ff526eb75a04d18d149019df3d5c7a84fe4e9d30d6c2e4",
+      "pixel_sha256_rgba": "0303a2768a8aa4ccc870a8e1ab137929cfec1eb7c4f249137d78ef07fd32c08d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_off"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_off"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "preview_path": "previews/ui_core_controls/ui_checkbox_off.webp"
+    },
+    {
+      "asset_id": "ui_checkbox_on",
+      "title_zh": "Checkbox On",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_checkbox_on.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 18,
+      "height": 18,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9d2353f02067b7932c2c6132538cc50b77e1d87ee3dc65efa672e17e690193d6",
+      "pixel_sha256_rgba": "3083f4703d241c0db173f0069ca1a1d901f3a8e3e251f24c29564aeacf2d7520",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "checkbox_on"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "checkbox_on"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        18,
+        18
+      ],
+      "preview_path": "previews/ui_core_controls/ui_checkbox_on.webp"
+    },
+    {
+      "asset_id": "ui_close_button",
+      "title_zh": "Close Button",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_close_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 30,
+      "height": 30,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "31958a244c7ee1f5f77f5fbb6433f946db599be41745ea5eb247180a896095f7",
+      "pixel_sha256_rgba": "72cedebb7a5f53e31489b0f799190f2c54d4e8baa490056fbb9b7b451fc12cbc",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "close_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "close_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        30,
+        30
+      ],
+      "preview_path": "previews/ui_core_controls/ui_close_button.webp"
+    },
+    {
+      "asset_id": "ui_dialog_frame",
+      "title_zh": "Dialog Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_dialog_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f1034b3fecd3bebba9497206cff5cd589251c0de39854670002fc89c2f46e3ae",
+      "pixel_sha256_rgba": "28f8d30b98227715da5810a04b0cca0345e355743c7516a57c11adbdbbabf55a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "dialog_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "dialog_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        8,
+        16,
+        8
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        64
+      ],
+      "preview_path": "previews/ui_core_panels/ui_dialog_frame.webp"
+    },
+    {
+      "asset_id": "ui_dialogue_choice",
+      "title_zh": "Dialogue Choice",
+      "kind": "ui_component",
+      "category": "ui_core_controls",
+      "category_zh": "核心控件",
+      "path": "ui/core/controls/ui_dialogue_choice.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 42,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b7985b2b3564d738c2a8971b22e0eb1e1d0599f79b9c334146e869c6d63de054",
+      "pixel_sha256_rgba": "8e9e70e53b5fc4738448005d2c8c141f319498a478710020af30dd80c795fd22",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "controls",
+        "dialogue_choice"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "dialogue_choice"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        320,
+        72
+      ],
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        42
+      ],
+      "preview_path": "previews/ui_core_controls/ui_dialogue_choice.webp"
+    },
+    {
+      "asset_id": "ui_hero_card_frame",
+      "title_zh": "Hero Card Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_hero_card_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 250,
+      "height": 246,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6308e2c7d56c2db32df11102a3173a5cd804a04a16ecf422b7d4a188b207bb4c",
+      "pixel_sha256_rgba": "43087919101d5b3fc058c449830426f0cd2b0d6ce1d87e2b01590cb1c7f2b85c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "hero_card_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_card_frame"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        250,
+        246
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        250,
+        246
+      ],
+      "preview_path": "previews/ui_core_panels/ui_hero_card_frame.webp"
+    },
+    {
+      "asset_id": "ui_hero_card_selected",
+      "title_zh": "Hero Card Selected",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_hero_card_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 250,
+      "height": 246,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6960a004ee1f3fd6ea30bb9a0ba5ae416a39a12092d3cb8c26bf4f2c1f06914e",
+      "pixel_sha256_rgba": "cf49d17bee1722d8e561387c5e5de43c5985b929935f90942b94e0455ae27d5a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "hero_card_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_card_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        250,
+        246
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        250,
+        246
+      ],
+      "preview_path": "previews/ui_core_panels/ui_hero_card_selected.webp"
+    },
+    {
+      "asset_id": "ui_hotkey_frame",
+      "title_zh": "Hotkey Frame",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_hotkey_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 62,
+      "height": 62,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "35a0aeafc675328c026040cf5aaac8ca5c8febb7bb70f19bce5dfd6ff033e524",
+      "pixel_sha256_rgba": "6ebebe4e3aec5adaddafcb38ddc0766573a3ba867e5eee1c9223423cd7db75cd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "slots",
+        "hotkey_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hotkey_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        62,
+        62
+      ],
+      "preview_path": "previews/ui_core_slots/ui_hotkey_frame.webp"
+    },
+    {
+      "asset_id": "ui_list_row",
+      "title_zh": "List Row",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_list_row.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 42,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fc431eab876b068f48b5b82b3fddf549b0a2723b07d51fab1c7895a6920249af",
+      "pixel_sha256_rgba": "56705a67575d2199140d279f1507f620167375bd6891ba8b0b7a6ce55b5c605e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "list_row"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "list_row"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        42
+      ],
+      "preview_path": "previews/ui_core_panels/ui_list_row.webp"
+    },
+    {
+      "asset_id": "ui_map_card_frame",
+      "title_zh": "Map Card Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_map_card_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 344,
+      "height": 230,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f1237cdf7092fff44640ed352afd494df5befad3e91db0d7aab359b723cf41be",
+      "pixel_sha256_rgba": "3f8ffe530c403ac239a1280caf57ff09d8cf5c0230b53d03e5d42a3774032956",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "map_card_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "map_card_frame"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        344,
+        230
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        344,
+        230
+      ],
+      "preview_path": "previews/ui_core_panels/ui_map_card_frame.webp"
+    },
+    {
+      "asset_id": "ui_map_card_selected",
+      "title_zh": "Map Card Selected",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_map_card_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 344,
+      "height": 230,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6f1769aafc25973a432fba8b9f6c4e842849c02de83fdc909be91e2bcdb69933",
+      "pixel_sha256_rgba": "a052a90a25b484092c37cd6e1e79d0b371d21d008543de261f497f70d84d17bd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "map_card_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "map_card_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        344,
+        230
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        344,
+        230
+      ],
+      "preview_path": "previews/ui_core_panels/ui_map_card_selected.webp"
+    },
+    {
+      "asset_id": "ui_meter_fill_health",
+      "title_zh": "Meter Fill Health",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_health.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 260,
+      "height": 12,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "11f5449b651aa1741f11cc232b30cca74ba81da36040938df38f27dee00c067c",
+      "pixel_sha256_rgba": "dc60b477eda9d6616703a6773eac16b01ce4b62b1fc563b94b8c41233685855a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_health"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_health"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "preview_path": "previews/ui_core_meters/ui_meter_fill_health.webp"
+    },
+    {
+      "asset_id": "ui_meter_fill_mana",
+      "title_zh": "Meter Fill Mana",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_mana.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 260,
+      "height": 12,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a4ffcd5d8ac370c8661800772018198d5dbab3e8d013e27c73dc29af05162aad",
+      "pixel_sha256_rgba": "43db1293ea622e93a9269644ae0c2d44d852af3d04075c1fb8db476e4e2f9c8e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_mana"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_mana"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "preview_path": "previews/ui_core_meters/ui_meter_fill_mana.webp"
+    },
+    {
+      "asset_id": "ui_meter_fill_xp",
+      "title_zh": "Meter Fill Xp",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_fill_xp.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 260,
+      "height": 12,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d003b92635c300a8cec928cd6bb6d5bd81d14b8e4c96f7c40607726070138fbe",
+      "pixel_sha256_rgba": "09fb18edf60397e7120d2361b24f00befc546e93729e8032aee34e807393d7d7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "meters",
+        "meter_fill_xp"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_fill_xp"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "preview_path": "previews/ui_core_meters/ui_meter_fill_xp.webp"
+    },
+    {
+      "asset_id": "ui_meter_frame",
+      "title_zh": "Meter Frame",
+      "kind": "ui_component",
+      "category": "ui_core_meters",
+      "category_zh": "核心进度条",
+      "path": "ui/core/meters/ui_meter_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 260,
+      "height": 12,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f91667098c5f3581e1536817e7e8edde79c5ed1490eeacf6a35c6445a97e7353",
+      "pixel_sha256_rgba": "28067178ed2f6a6de772ecb7883309f0868da81cc8954c3c880c8d30aad686b3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "meters",
+        "meter_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meter_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        260,
+        12
+      ],
+      "preview_path": "previews/ui_core_meters/ui_meter_frame.webp"
+    },
+    {
+      "asset_id": "ui_panel_frame",
+      "title_zh": "Panel Frame",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 96,
+      "height": 96,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3d832fad3f67ab63e1d96076292d16280b7f9e63eada7bd37a95b79a9a23386b",
+      "pixel_sha256_rgba": "27c9ee86efd6526da7da40c1dc61cd072f272a84f432140976a69315d3ac5540",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "panel_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        96,
+        96
+      ],
+      "preview_path": "previews/ui_core_panels/ui_panel_frame.webp"
+    },
+    {
+      "asset_id": "ui_panel_header",
+      "title_zh": "Panel Header",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_header.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 96,
+      "height": 32,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "12aaf76ffcf4153395c55f172fdc9a2af8a2884b5f08467dc38bd70f97baf05c",
+      "pixel_sha256_rgba": "cbeab2f72455c60c1c97a401380f6331d4805e22986bffb3f94502681d77ec37",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "panel_header"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_header"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        12,
+        4,
+        12,
+        4
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        96,
+        32
+      ],
+      "preview_path": "previews/ui_core_panels/ui_panel_header.webp"
+    },
+    {
+      "asset_id": "ui_panel_inset",
+      "title_zh": "Panel Inset",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_panel_inset.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 72,
+      "height": 72,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3f7ce578b8a5663d0aa9273da679dbaed6a47524673ed7fc9908f1d03cfc946f",
+      "pixel_sha256_rgba": "50638dcce051af8e8b3e713a54cc080866f4ce3f82b4b53cd7582a10ec6c447c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "panel_inset"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "panel_inset"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        9,
+        9,
+        9,
+        9
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        72,
+        72
+      ],
+      "preview_path": "previews/ui_core_panels/ui_panel_inset.webp"
+    },
+    {
+      "asset_id": "ui_quest_tracker",
+      "title_zh": "Quest Tracker",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_quest_tracker.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 112,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "11d3cc39594012f0fca9eaba03f1d319833c973d92670223a00fa852fe0bac17",
+      "pixel_sha256_rgba": "a1bf0f8c36ddb7245bc4b4288b06ba8375c50ec99900da8d202994da7edf3a53",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "quest_tracker"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "quest_tracker"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        112
+      ],
+      "preview_path": "previews/ui_core_panels/ui_quest_tracker.webp"
+    },
+    {
+      "asset_id": "ui_reward_row",
+      "title_zh": "Reward Row",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_reward_row.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 50,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "4d7ea9ef2efa62685cc8a77b128f2d73177874fdd7633f1c2dd2642ca2bd93ee",
+      "pixel_sha256_rgba": "ca1db707d316eb3964432fbb3f9f7b5c35811247f76d33e8b3f40bdd265de7d6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "reward_row"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "reward_row"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        50
+      ],
+      "preview_path": "previews/ui_core_panels/ui_reward_row.webp"
+    },
+    {
+      "asset_id": "ui_select_frame",
+      "title_zh": "Select Frame",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_select_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 210,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fe9df658589cc488fe61e20455319400e3174e9caafe1d125e4feccf65ad05a5",
+      "pixel_sha256_rgba": "71ccd34551af5d420b638185d763c076172857a71e4a1be915601fe50e513ae2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "slots",
+        "select_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "select_frame"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        210,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        210,
+        40
+      ],
+      "preview_path": "previews/ui_core_slots/ui_select_frame.webp"
+    },
+    {
+      "asset_id": "ui_skill_slot",
+      "title_zh": "Skill Slot",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_skill_slot.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 46,
+      "height": 46,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9a772511175c2f20f61dc05c1965db5cff541190f1389993fa72b67c8b7fce92",
+      "pixel_sha256_rgba": "c758cdfb4820325a68b30bb3be58587920f0ef5a213548e81188b2fae4c3c78a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "slots",
+        "skill_slot"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_slot"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        46,
+        46
+      ],
+      "preview_path": "previews/ui_core_slots/ui_skill_slot.webp"
+    },
+    {
+      "asset_id": "ui_skill_slot_selected",
+      "title_zh": "Skill Slot Selected",
+      "kind": "ui_component",
+      "category": "ui_core_slots",
+      "category_zh": "核心槽位",
+      "path": "ui/core/slots/ui_skill_slot_selected.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 46,
+      "height": 46,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "93a7bdbb17daa0b89e23b2be3ca1c29bc60ba85357759ed5277a42038c1b714f",
+      "pixel_sha256_rgba": "65cf00656b6748188329fe30743b04b771f7e0c431fdd52e2e686e9e67fa29a1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "slots",
+        "skill_slot_selected"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_slot_selected"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        72,
+        72
+      ],
+      "content_safe_margin": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
+      "recommended_visible_size": [
+        46,
+        46
+      ],
+      "preview_path": "previews/ui_core_slots/ui_skill_slot_selected.webp"
+    },
+    {
+      "asset_id": "ui_title_bar",
+      "title_zh": "Title Bar",
+      "kind": "ui_component",
+      "category": "ui_core_panels",
+      "category_zh": "核心面板",
+      "path": "ui/core/panels/ui_title_bar.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 320,
+      "height": 40,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b75a497c43ccc5361a55d5d84a032ec45a30d691052e21141a8ca78ba1fd57fb",
+      "pixel_sha256_rgba": "25d32bbed55c4ec0e09de75ce0d78ed8a8edc6513ff0741b93425c9b8a225742",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "core",
+        "panels",
+        "title_bar"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "title_bar"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        320,
+        40
+      ],
+      "preview_path": "previews/ui_core_panels/ui_title_bar.webp"
+    },
+    {
+      "asset_id": "ui_mobile_attack_button",
+      "title_zh": "Attack Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_attack_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2fce8743fb7ab01e7566a26c482e8482ccd0a48fc6bfd80622608461915dcb73",
+      "pixel_sha256_rgba": "5470294c36ff87115866e66492800a90a742b4bacd9eb18e32d9df33bc7e56a6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "attack_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "attack_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_attack_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_character_button",
+      "title_zh": "Character Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_character_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f1f93081c743e431e5e7831bafdc07ed666e139f71963c883629db863401f414",
+      "pixel_sha256_rgba": "27d5e64340a8d79438ccc6d3826bb34090e61e14dcdec4792d800ccab3a5a1b1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "character_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "character_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_character_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_crafting_button",
+      "title_zh": "Crafting Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_crafting_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "dcab09f58fd813028c848b17d6da6760f6e3560456cab4c14833e260c34af430",
+      "pixel_sha256_rgba": "76eb74d6ca4a1319b97f760f58600b8427d75b585bd1a4c24e8b1dcbd8422bca",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "crafting_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "crafting_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_crafting_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_hp_potion_button",
+      "title_zh": "Hp Potion Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_hp_potion_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b61706ec3334b9423695529bec644c7252c5bc87acb97f28831080e8dde2d41e",
+      "pixel_sha256_rgba": "02eb3b18cd1542e6aa6e59cb2936b3ae175b96bd2d4edaab1412d7ac2a0b31b6",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "hp_potion_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_hp_potion_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_interact_button",
+      "title_zh": "Interact Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_interact_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c1a67228d8e41ec626988c443ee0be006f95307eb23952bf021eb9315adff21d",
+      "pixel_sha256_rgba": "c48e7ea2296305034a9fa4ecada96ad822ffc15ff3ba730a7df3b8f8cfbd44bd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "interact_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "interact_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_interact_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_inventory_button",
+      "title_zh": "Inventory Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_inventory_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a5cd7779310f81fc3051e2b26c03004bd55e8a5898258f9d4c0cc6296b18ccad",
+      "pixel_sha256_rgba": "339d10267f348ba7741733e46fca9a6b2423c0d734f0eb8c62b4666690595d44",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "inventory_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "inventory_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_inventory_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_joystick_base",
+      "title_zh": "Joystick Base",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_joystick_base.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f882809c7bff70e6d22dd23de2d34d15daa27370fb9fd279f01ebdb78682f074",
+      "pixel_sha256_rgba": "d28a57abb8e0be63313c51970846dfcb8385780ee4f1b62921987a2afc47687b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "joystick_base"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "joystick_base"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_joystick_base.webp"
+    },
+    {
+      "asset_id": "ui_mobile_joystick_knob",
+      "title_zh": "Joystick Knob",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_joystick_knob.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b1ea9c45fc056ee41e159cec1dc5cf15b7101897ae8b9ae53d6a1b3cc6d18c99",
+      "pixel_sha256_rgba": "1ecd22e8d8b99e324e06b1d0d050ddf3bd0f94dbcebab348dc87c52bfbafa71e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "joystick_knob"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "joystick_knob"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_joystick_knob.webp"
+    },
+    {
+      "asset_id": "ui_mobile_mp_potion_button",
+      "title_zh": "Mp Potion Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_mp_potion_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "963fb31209db57cba9d864c7d272abd50add727fe9b67df2d88f67e9a2034f49",
+      "pixel_sha256_rgba": "9ebd5df47fa186d9366e4889c4bb127621bc5eb091eb4aecefc14a87b5d9edb0",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "mp_potion_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mp_potion_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_mp_potion_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_shop_button",
+      "title_zh": "Shop Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_shop_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2419a6c2977751edd63bb7a2b53baab862d0117c6d3493eb9382df38a7abe55e",
+      "pixel_sha256_rgba": "b41421780ba3e796773896d843ef87c8211ef1ba06696feb740e480f9b3f79eb",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "shop_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shop_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_shop_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_skill_button",
+      "title_zh": "Skill Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_skill_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3330e315c6d08e87cb60f17769e26869d99f94250ad2db9314c494f4dbe01958",
+      "pixel_sha256_rgba": "70f7c8666c00258b7e2bcdb70d36bd0a73c740a8ac1e00b26ceb98ccd3b7ee06",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "skill_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skill_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_skill_button.webp"
+    },
+    {
+      "asset_id": "ui_mobile_skills_button",
+      "title_zh": "Skills Button",
+      "kind": "ui_component",
+      "category": "ui_mobile_controls",
+      "category_zh": "移动端控件",
+      "path": "ui/mobile/controls/ui_mobile_skills_button.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 160,
+      "height": 160,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e6b31865c421133d946b7ef810286706fc86ef6edae794c2e4c9567e9bbbb41d",
+      "pixel_sha256_rgba": "46ed2cb7443358e85b99368dcddae619fa6bac22c25da71e13f8cb76eb5ae5ee",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "mobile",
+        "mobile",
+        "skills_button"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "skills_button"
+      },
+      "interactive": true,
+      "recommended_touch_target": [
+        80,
+        80
+      ],
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        64,
+        64
+      ],
+      "preview_path": "previews/ui_mobile_controls/ui_mobile_skills_button.webp"
+    },
+    {
+      "asset_id": "ui_hud_base_status_frame",
+      "title_zh": "Base Status Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_base_status_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 196,
+      "height": 42,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7132acd18e423ae43a551dc9be11dd55f168ca7546469a29c51bd2dcf3f5d1a3",
+      "pixel_sha256_rgba": "018256f8630c0040030517ca500e43e1852211227bf9e487e33add1cb36c7339",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "base_status_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "base_status_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        196,
+        42
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_base_status_frame.webp"
+    },
+    {
+      "asset_id": "ui_hud_base_status_frame_transparent",
+      "title_zh": "Base Status Frame Transparent",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_base_status_frame_transparent.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 196,
+      "height": 42,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9bfd5f986ad77426ed0dd41472cac7c30d980a35c30cc10610ce7e867270f701",
+      "pixel_sha256_rgba": "8d46de5fe80d52c8b01c6c821851b00630bbcc319b9e764041b9086c70e48382",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "base_status_frame_transparent"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "base_status_frame_transparent"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        196,
+        42
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_base_status_frame_transparent.webp"
+    },
+    {
+      "asset_id": "ui_hud_crystal_status_panel",
+      "title_zh": "Crystal Status Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_crystal_status_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 218,
+      "height": 54,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "86e11d686959810390b3fbfa208a8abc2ef48f72dd76786459812cee65c1d095",
+      "pixel_sha256_rgba": "d45cdf1f7ec35e4faff64f0684c8935dcc6f0b6e73937811cdea880b7f4541b5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "crystal_status_panel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "crystal_status_panel"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        6,
+        16,
+        6
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        218,
+        54
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_crystal_status_panel.webp"
+    },
+    {
+      "asset_id": "ui_hud_hero_status_panel",
+      "title_zh": "Hero Status Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_hero_status_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 248,
+      "height": 152,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5eeacddf869e3a1e320da08b1d64bb9cd99d3279f43581e07a1df6a6427a8fd7",
+      "pixel_sha256_rgba": "f3352b86194db531e0bacfc198b55258f166d6dbd376b46135a6fe8c0c4e9a4c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "hero_status_panel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hero_status_panel"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        248,
+        152
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_hero_status_panel.webp"
+    },
+    {
+      "asset_id": "ui_hud_objective_panel",
+      "title_zh": "Objective Panel",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_objective_panel.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 360,
+      "height": 132,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "8eff6bcb2821deaaf0a6c7233119ee7806f6d394aa6e5c0dd44c4c9db5204755",
+      "pixel_sha256_rgba": "8364c2d4afd60da62d3ebf397dc0bda05fe9de604226afdce9069f3ca88dfedc",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "objective_panel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "objective_panel"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        12,
+        16,
+        12
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        360,
+        132
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_objective_panel.webp"
+    },
+    {
+      "asset_id": "ui_hud_party_row_frame",
+      "title_zh": "Party Row Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_party_row_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 196,
+      "height": 44,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "131d6afa95929f739950c623f3ad80807ce6d54f8fc67e2091ad119ecd34238f",
+      "pixel_sha256_rgba": "0a48feb45fbbfbfada9ae69fd1f4afdd64abbbc745a4b46fbcc72c39c2c6a77c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "party_row_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "party_row_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        5,
+        16,
+        5
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        196,
+        44
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_party_row_frame.webp"
+    },
+    {
+      "asset_id": "ui_hud_resource_bar_frame",
+      "title_zh": "Resource Bar Frame",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_resource_bar_frame.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 210,
+      "height": 20,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "799000ba0cec06f9e574022db44f60c13b3938ba64aa1810e7744be2ec12a2e2",
+      "pixel_sha256_rgba": "3f87a9e559781148d8ea75df55486556e45b4d2aaf610df48afaf3a8a98a4f34",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "resource_bar_frame"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "resource_bar_frame"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        2,
+        16,
+        2
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        210,
+        20
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_resource_bar_frame.webp"
+    },
+    {
+      "asset_id": "ui_hud_resource_bar_frame_fixed",
+      "title_zh": "Resource Bar Frame Fixed",
+      "kind": "ui_component",
+      "category": "ui_hud_status",
+      "category_zh": "HUD 状态组件",
+      "path": "ui/hud/status/ui_hud_resource_bar_frame_fixed.png",
+      "description_zh": "无文字、可跨项目适配的 RPG UI 组件。",
+      "format": "PNG",
+      "width": 210,
+      "height": 20,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1e7f50bd8929e3b71885f174d3c08a27120db45b3d9fe655311c73ddbe5de82f",
+      "pixel_sha256_rgba": "c2e40ee4cf43476b44ff3ca9b0007b70daf4ae72d5c16a7181560895abf5187e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "hud",
+        "hud",
+        "resource_bar_frame_fixed"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "resource_bar_frame_fixed"
+      },
+      "interactive": false,
+      "content_safe_margin": [
+        16,
+        2,
+        16,
+        2
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
+      "recommended_visible_size": [
+        210,
+        20
+      ],
+      "preview_path": "previews/ui_hud_status/ui_hud_resource_bar_frame_fixed.webp"
+    }
+  ]
+}

@@ -89,6 +89,7 @@ class ResourcePackPipelineTests(unittest.TestCase):
                 "content_safe_margin": [8, 8, 8, 8],
                 "recommended_visible_size": [160, 80],
                 "recommended_touch_target": [160, 80],
+                "interactive": True,
                 "provenance": {"kind": "project_generated", "backend": "test"},
             },
         ]

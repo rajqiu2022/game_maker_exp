@@ -118,6 +118,14 @@ def validate_pack(repository_root: Path, pack_id: str) -> list[str]:
             stretch = entry.get("stretch_mode")
             if not isinstance(margins, list) or len(margins) != 4 or stretch not in {"none", "scale", "tile", "nine_patch"}:
                 _fail(errors, f"invalid UI layout metadata: {entry_id}")
+            interactive = entry.get("interactive")
+            touch = entry.get("recommended_touch_target")
+            if not isinstance(interactive, bool):
+                _fail(errors, f"missing UI interactive contract: {entry_id}")
+            elif interactive and (not isinstance(touch, list) or len(touch) != 2 or min(touch) <= 0):
+                _fail(errors, f"invalid UI touch target: {entry_id}")
+            elif interactive and "mobile" in entry.get("platforms", []) and min(touch) < 72:
+                _fail(errors, f"mobile UI touch target below 72x72: {entry_id}")
     for digest, duplicate_ids in hashes.items():
         if len(duplicate_ids) > 1:
             _fail(errors, f"duplicate physical content {digest[:12]}: {', '.join(duplicate_ids)}")
