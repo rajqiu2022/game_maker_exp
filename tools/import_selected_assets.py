@@ -11,7 +11,21 @@ from pathlib import Path
 from PIL import Image
 
 
-FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
+FORBIDDEN_PARTS = {
+    "source",
+    "reference",
+    "references",
+    "raw",
+    "private",
+    "cache",
+    "candidate",
+    "candidates",
+    "build",
+    "exports",
+    ".godot",
+    "__pycache__",
+}
+FORBIDDEN_SOURCE_NAME_TOKENS = {"source", "reference", "raw", "private", "candidate", "candidates"}
 
 
 def safe_relative(value: str) -> Path:
@@ -69,6 +83,9 @@ def compose_2x2_no_clobber(sources: list[Path], destination: Path) -> str:
 def _validated_source(value: str) -> Path:
     relative = safe_relative(value)
     if FORBIDDEN_PARTS.intersection(part.casefold() for part in relative.parts):
+        raise ValueError(f"forbidden source path: {value}")
+    filename_tokens = set(relative.stem.casefold().replace("-", "_").split("_"))
+    if FORBIDDEN_SOURCE_NAME_TOKENS.intersection(filename_tokens):
         raise ValueError(f"forbidden source path: {value}")
     if relative.suffix.casefold() != ".png":
         raise ValueError(f"only runtime PNG sources are accepted: {value}")

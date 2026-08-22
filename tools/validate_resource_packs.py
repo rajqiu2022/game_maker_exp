@@ -21,7 +21,20 @@ except ModuleNotFoundError:  # Direct script execution adds tools/ rather than t
 
 
 ROOT = Path(__file__).resolve().parents[1]
-FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
+FORBIDDEN_PARTS = {
+    "source",
+    "reference",
+    "references",
+    "raw",
+    "private",
+    "cache",
+    "candidate",
+    "candidates",
+    "build",
+    "exports",
+    ".godot",
+    "__pycache__",
+}
 FORBIDDEN_SUFFIXES = {".import", ".pyc", ".pck", ".apk", ".exe"}
 SENSITIVE_PATTERNS = (
     re.compile(r"[A-Za-z]:\\(?:Users|Code)\\", re.IGNORECASE),

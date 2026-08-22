@@ -13,7 +13,20 @@ BASE = "origin/codex/shared-art-resource-catalog"
 LEGACY_PACK = "resource-packs/ink-wuxia-icons-vfx-v1"
 NEW_PACKS = ("fantasy-rpg-icons-vfx-v1", "rpg-ui-kit-v1")
 FORBIDDEN_SUFFIXES = {".import", ".pyc", ".pck", ".apk", ".exe", ".zip"}
-FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__", "private"}
+FORBIDDEN_PARTS = {
+    "source",
+    "reference",
+    "references",
+    "raw",
+    "private",
+    "cache",
+    "candidate",
+    "candidates",
+    "build",
+    "exports",
+    ".godot",
+    "__pycache__",
+}
 MACHINE_PATH = re.compile(r"[A-Za-z]:[/\\\\](?:Users|code)[/\\\\]", re.IGNORECASE)
 
 
@@ -84,6 +97,14 @@ class ExistingContentPreservedContracts(unittest.TestCase):
         text = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
         for phrase in ("no-clobber", "LICENSE-ASSETS.md", "禁止静默覆盖", "`.import`"):
             self.assertIn(phrase, text)
+
+    def test_ci_fetches_the_preservation_test_baseline(self) -> None:
+        workflow = (ROOT / ".github" / "workflows" / "validate.yml").read_text(encoding="utf-8")
+        self.assertIn("fetch-depth: 0", workflow)
+        self.assertIn(
+            "codex/shared-art-resource-catalog:refs/remotes/origin/codex/shared-art-resource-catalog",
+            workflow,
+        )
 
 
 if __name__ == "__main__":

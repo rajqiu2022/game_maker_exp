@@ -18,7 +18,20 @@ ID_RE = re.compile(r"^[a-z0-9_]+$")
 PACK_RE = re.compile(r"^[a-z0-9][a-z0-9_-]+$")
 KINDS = {"skill_icon", "item_icon", "vfx_single", "vfx_sheet", "ui_component"}
 STRETCH_MODES = {"none", "scale", "tile", "nine_patch"}
-FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
+FORBIDDEN_PARTS = {
+    "source",
+    "reference",
+    "references",
+    "raw",
+    "private",
+    "cache",
+    "candidate",
+    "candidates",
+    "build",
+    "exports",
+    ".godot",
+    "__pycache__",
+}
 PASSTHROUGH_FIELDS = (
     "interactive",
     "recommended_display_size",

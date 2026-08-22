@@ -12,7 +12,7 @@
 
 ## Global constraints
 
-- Read source assets from `D:/code/rpg_map` but never modify that working tree.
+- Read source assets from a separate source-project working tree, but never modify that working tree.
 - Do not publish `.import`, `source/`, build output, audio, fonts, character/monster/map art, absolute paths, secrets, or rejected assets.
 - Do not change any file under `resource-packs/ink-wuxia-icons-vfx-v1/`.
 - Every destination write must be no-clobber: missing is allowed, identical is idempotent, different content is an error.
@@ -73,7 +73,10 @@ Expected: import failure because `tools.import_selected_assets` does not exist.
 Implement:
 
 ```python
-FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
+FORBIDDEN_PARTS = {
+    "source", "reference", "references", "raw", "private", "cache",
+    "candidate", "candidates", "build", "exports", ".godot", "__pycache__",
+}
 
 def safe_relative(value: str) -> Path: ...
 def copy_no_clobber(source: Path, destination: Path) -> str: ...
@@ -84,7 +87,7 @@ def import_selection(source_root: Path, repository_root: Path, selection_path: P
 CLI:
 
 ```powershell
-python tools/import_selected_assets.py --source-root D:/code/rpg_map --selection specs/resource-packs/example.json
+python tools/import_selected_assets.py --source-root /path/to/source-project --selection specs/resource-packs/example.json
 ```
 
 The summary must report `created`, `identical`, and `rejected`; no overwrite flag is provided.
@@ -216,7 +219,7 @@ Tests must require:
 - every JSON template parses and has integer `schema_version`;
 - README links resolve;
 - every guide includes problem, boundaries, failure modes, automated checks, manual checks, and minimum/formal acceptance;
-- public guides contain no `D:/`, user profile, internal branch, token, or project-only resource ID;
+- public guides contain no machine-specific absolute path, user profile, internal branch, token, or project-only resource ID;
 - the RPG case study records concrete lessons without presenting project values as universal rules.
 
 **Step 2: Run and verify RED**
@@ -303,12 +306,12 @@ vfx/marks/vfx_hunter_mark_4frame_v1.png
 vfx/assassin/vfx_shadow_arc_single.png
 ```
 
-Map the four phase files in row-major order for each staged VFX. Do not store `D:/code/rpg_map` in the spec.
+Map the four phase files in row-major order for each staged VFX. Do not store a machine-specific source-project path in the spec.
 
 **Step 4: Import and generate the pack**
 
 ```powershell
-python tools/import_selected_assets.py --source-root D:/code/rpg_map --selection specs/resource-packs/fantasy-rpg-icons-vfx-v1.json
+python tools/import_selected_assets.py --source-root /path/to/source-project --selection specs/resource-packs/fantasy-rpg-icons-vfx-v1.json
 python tools/build_resource_pack.py --pack fantasy-rpg-icons-vfx-v1
 ```
 
@@ -381,7 +384,7 @@ ui/hud/status/
 Run:
 
 ```powershell
-python tools/import_selected_assets.py --source-root D:/code/rpg_map --selection specs/resource-packs/rpg-ui-kit-v1.json
+python tools/import_selected_assets.py --source-root /path/to/source-project --selection specs/resource-packs/rpg-ui-kit-v1.json
 python tools/build_resource_pack.py --pack rpg-ui-kit-v1
 ```
 
@@ -560,4 +563,3 @@ Provide:
 - reusable mappings;
 - excluded-resource reasons;
 - confirmation that `rpg_map` and the existing wuxia pack were not modified.
-

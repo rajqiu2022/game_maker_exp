@@ -102,6 +102,47 @@ class SafeResourceImportTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "forbidden source path"):
                 import_selection(source_root, repository_root, selection)
 
+    def test_import_rejects_unpublished_source_and_private_paths(self) -> None:
+        forbidden = [
+            "game/art/reference/icon.png",
+            "game/art/references/icon.png",
+            "game/art/raw/icon.png",
+            "game/art/private/icon.png",
+            "game/art/cache/icon.png",
+            "game/art/candidates/icon.png",
+            "game/art/icons/icon_source.png",
+            "game/art/icons/icon_reference.png",
+        ]
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            source_root = root / "source"
+            repository_root = root / "repository"
+            selection = root / "selection.json"
+            for index, source_path in enumerate(forbidden):
+                with self.subTest(source_path=source_path):
+                    self.make_png(source_root / source_path, (10 + index, 20, 30, 255))
+                    selection.write_text(
+                        json.dumps(
+                            {
+                                "schema_version": 1,
+                                "pack_id": "demo",
+                                "entries": [
+                                    {
+                                        "asset_id": f"icon_test_{index}",
+                                        "kind": "skill_icon",
+                                        "source": source_path,
+                                        "destination": f"icons/skills/icon_test_{index}.png",
+                                        "operation": "copy",
+                                    }
+                                ],
+                            }
+                        ),
+                        encoding="utf-8",
+                    )
+
+                    with self.assertRaisesRegex(ValueError, "forbidden source path"):
+                        import_selection(source_root, repository_root, selection)
+
     def test_compose_2x2_requires_four_equal_rgba_frames(self) -> None:
         with tempfile.TemporaryDirectory() as raw:
             root = Path(raw)
@@ -150,4 +191,3 @@ class SafeResourceImportTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
