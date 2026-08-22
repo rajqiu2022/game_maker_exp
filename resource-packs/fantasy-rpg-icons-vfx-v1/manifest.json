@@ -1,0 +1,3297 @@
+{
+  "schema_version": 1,
+  "pack_id": "fantasy-rpg-icons-vfx-v1",
+  "version": "1.0.0",
+  "generated_at": "2026-08-22",
+  "sharing_scope": "repository_owner_authorized_game_projects",
+  "entries": [
+    {
+      "asset_id": "icon_arcane_barrier",
+      "title_zh": "Arcane Barrier",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_arcane_barrier.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fb38c9cba0c872e38e8bf6a8ae73c89693a34c053ef759190871cd4ed522c4d2",
+      "pixel_sha256_rgba": "4586ac58421e0a33348352f38492889a1701cb5b5819efa54e2e32c759c82f50",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_arcane",
+        "arcane_barrier"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_barrier"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_arcane_missile",
+      "title_zh": "Arcane Missile",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_arcane_missile.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f5081bd508aa413133bd659f13b7a155d665d0f4bc77091911ee3d8d6f6b2c1e",
+      "pixel_sha256_rgba": "a7aa7c4ed933fa5181f95f885d04b39d3109fbe545ff0006f94e787357cba2a3",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_arcane",
+        "arcane_missile"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_missile"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_arrow_storm",
+      "title_zh": "Arrow Storm",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_arrow_storm.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5702284a46a30f1a6216d27c3e7d07f2ff29b3421422847ecf9326f9dce4ca25",
+      "pixel_sha256_rgba": "a09661d92295ce1ca4cf68e7831a17d2ff823309463f3ea03a041885c60f08b5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_archery",
+        "arrow_storm"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arrow_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_avatar_wrath",
+      "title_zh": "Avatar Wrath",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_avatar_wrath.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eb0b77760f6c5dcc3535db2be7fae7456b9b532cc6991962487bdcbb424f4624",
+      "pixel_sha256_rgba": "cc9cd2b67dfaf3ec9452b586d055de8e02ebbbdef470212b73f0b80f460b699b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "avatar_wrath"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "avatar_wrath"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_battle_mastery",
+      "title_zh": "Battle Mastery",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_battle_mastery.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "8b2dc4604244e9ad57ff65261a1637d2486d723d6af93c31fcac09bd6c1a5ba7",
+      "pixel_sha256_rgba": "ab931840105183bf8a7f58cf3c8cda0cf81db85509813b1c77aeef5a58c93412",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "battle_mastery"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "battle_mastery"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_berserk_shout",
+      "title_zh": "Berserk Shout",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_berserk_shout.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eb5aef56090167da6fee8b67889f6552b62b6fd4a2cbada01bfe4a3a7027c011",
+      "pixel_sha256_rgba": "69deefc2d428733d6443031ae99dca061f938e674550c1c387bc648f3f1ae9ea",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "berserk_shout"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "berserk_shout"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_cleave",
+      "title_zh": "Cleave",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_cleave.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9668990957af0329f091e3eb553c4b792eb62aaa0dd9f6030d5a4d0a673de62a",
+      "pixel_sha256_rgba": "8d8c03566d1a4f124bb51ac7873979a1c608bb291e69362231bca4cbed196dc4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "cleave"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "cleave"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_eagle_eye",
+      "title_zh": "Eagle Eye",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_eagle_eye.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9fe6b335129beb76522795c0208c1b429da5322986b2deeed5138c025aa53c02",
+      "pixel_sha256_rgba": "1ddb7d009af75c917bb13d51a6f9e7acc9e3ec12265573fc96ce64bb1390c61e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_archery",
+        "eagle_eye"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "eagle_eye"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_fire_slash",
+      "title_zh": "Fire Slash",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_fire_slash.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ea7320455cf5575f1be84e09b9d9013bf5565a33c603c2a55fca19176feaabe7",
+      "pixel_sha256_rgba": "4d9936f083de23f09566d131865cff5469036ad049bee6b1f3c1b014940d7ae1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "fire_slash"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_slash"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_flame_orb",
+      "title_zh": "Flame Orb",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_flame_orb.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a861fa69ffd9b4e87fbfbc9d5e1d7918450e121a6046260d9771cc541b335732",
+      "pixel_sha256_rgba": "bf6916fa319ad55d85570e855812a6bedbcbc152e65921b009a66282ab7e2fa5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "flame_orb"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "flame_orb"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_frost_nova",
+      "title_zh": "Frost Nova",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_frost_nova.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "50ec94d72935e5bbbf68ab861ba9fed11340d1b5a55723cfaad842fd791de832",
+      "pixel_sha256_rgba": "6949d84b8f77e236955d001542fd078bf144b3889e734c32098ee30c684de846",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "frost_nova"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "frost_nova"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_ground_slam",
+      "title_zh": "Ground Slam",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_ground_slam.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9b2c084f63b9573ffdb6d516d511802826bdd375d53bd9694f43f9b5cc4d9a20",
+      "pixel_sha256_rgba": "f6f09635107051cc68c0bc34163d5283045c01300f576c938d901df722a1ca95",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "ground_slam"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_slam"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_iron_will",
+      "title_zh": "Iron Will",
+      "kind": "skill_icon",
+      "category": "skill_defense",
+      "category_zh": "防御技能图标",
+      "path": "icons/skills/defense/icon_iron_will.png",
+      "description_zh": "可跨项目复用的防御技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5f75d5153bef73858a2dc8e0391e9aacfdf56031d69a643b10fada0487003af0",
+      "pixel_sha256_rgba": "8018084875db70e4b8245dc4fa95e4a6d076e5ca977b946ab5aaeda767683edb",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_defense",
+        "iron_will"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "iron_will"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_lightning_chain",
+      "title_zh": "Lightning Chain",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_lightning_chain.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ed03189db3a7837429f6f381290c1747a27b1924e8b7a74ab8e58737a977331d",
+      "pixel_sha256_rgba": "4ea57f1075b97d26059d50abe6db4623b617438e1791739b9a70ea97960e32ba",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "lightning_chain"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "lightning_chain"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_mana_mastery",
+      "title_zh": "Mana Mastery",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_mana_mastery.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "eeb464715c876b24089779b338b2b0a854df2f6f0563431596a8ac8d142cc644",
+      "pixel_sha256_rgba": "860cc8dc59ce77f8573993e623625b970c338e2aa71f1c0b4fcc20c7804c15e1",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_arcane",
+        "mana_mastery"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mana_mastery"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_meteor_storm",
+      "title_zh": "Meteor Storm",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_meteor_storm.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "523fff547d28e997131ebd667128604a0875648fcdccfbcdfaba5cd0dc681640",
+      "pixel_sha256_rgba": "c0a4b816bad1381719bdf65b2cb52dc9ba27edba5dd5aa3cbdc8e96f25d9606f",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "meteor_storm"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meteor_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_multishot",
+      "title_zh": "Multishot",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_multishot.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3786b078efffbadc1e3a73663d54672a9149d3fd30dc248623c109abfcdefc76",
+      "pixel_sha256_rgba": "b47d5870be48f560ccabdfd65a47becdc4a6c24494ca88d662e8e9c105ecbeef",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_archery",
+        "multishot"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "multishot"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_piercing_arrow",
+      "title_zh": "Piercing Arrow",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_piercing_arrow.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "61cdc143e6da2b8b98564270b74c86fc9f0a4710b61413b8444ef2ce1a7115ff",
+      "pixel_sha256_rgba": "5e7a6396688947288bdab42bc2a9cc5d6dd26f8891ae8d152dc09dbf4c3e8c5a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_archery",
+        "piercing_arrow"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "piercing_arrow"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_power_strike",
+      "title_zh": "Power Strike",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_power_strike.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f8b8ab65216af6670f2ef7e4ebc584e00bbffa9889968f758495a8e3a7ba9bfa",
+      "pixel_sha256_rgba": "96b32955e6cede9d9fb5ee72b288c867e28cd713827c17fa4d5dd5410b979b06",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "power_strike"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "power_strike"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_shield_bash",
+      "title_zh": "Shield Bash",
+      "kind": "skill_icon",
+      "category": "skill_defense",
+      "category_zh": "防御技能图标",
+      "path": "icons/skills/defense/icon_shield_bash.png",
+      "description_zh": "可跨项目复用的防御技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e37a6861cd5cfdbe078e99ca81148a4142f6fff96c78644f23efa7a72c9969fa",
+      "pixel_sha256_rgba": "3d5236ae3469cb8d70a609d405104af7708de5d76b1a24bf316ca2ec02fe764f",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_defense",
+        "shield_bash"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shield_bash"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_thunder_clap",
+      "title_zh": "Thunder Clap",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_thunder_clap.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "80c4ab5c2c76894a58447b23091bcaaef013d25333d9f3f13cedb20eb79abffd",
+      "pixel_sha256_rgba": "333dccef5ad0169b2fd088cdb0f5926c2c7bd4d3cbd34216cf7a52c237300579",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_elemental",
+        "thunder_clap"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "thunder_clap"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_time_freeze",
+      "title_zh": "Time Freeze",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_time_freeze.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c392f7024dbb61de9e12e09a9f7ff012a08368649c4566d47e3adfe611b2e676",
+      "pixel_sha256_rgba": "41774f657f156d974ac07ec3256fadb821a00a0e956524ee68b86b027180b76b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_arcane",
+        "time_freeze"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "time_freeze"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_whirlwind",
+      "title_zh": "Whirlwind",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_whirlwind.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c5727aa52ba99234686248ac1aadc356d8fa89451e9560e6255dfef91b3c543d",
+      "pixel_sha256_rgba": "8ee04d1ede306b1c3d5bbac0bd53914e53e7754149a0535c158e15bb753b6f1c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "skill_martial",
+        "whirlwind"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "whirlwind"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_fire",
+      "title_zh": "Amulet Fire",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_fire.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c1ee04f33534390ba6cf8699d1e555adeb8455f3eb06e004f06638810893604f",
+      "pixel_sha256_rgba": "3d99a57aca7c65d18c5f1d581365f9edfb16ca1d54943ca698f5705c9b0a68fd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "amulet_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_steel",
+      "title_zh": "Amulet Steel",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_steel.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d550458a962da705ba979d034bfbe3539cbd41e1c3effab45e299adc8d72d250",
+      "pixel_sha256_rgba": "554513dc97df4331effcf859e4a5710d8556509e85ad4b163a0ea2088608fbe0",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "amulet_steel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_titan",
+      "title_zh": "Amulet Titan",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_titan.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "571c6ddb345349f2225047969edd2b5eae5bb23b08537fe412522ad27cce65b1",
+      "pixel_sha256_rgba": "449e2d4fc15658c3e512d6471312e81b11a32e28bd62a965a9628e222400608f",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "amulet_titan"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_titan"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_fire",
+      "title_zh": "Armor Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "cffe8f60b1f46926e052a3a0022651d80396fbab2b38de48bfc246f1d0cb1d1c",
+      "pixel_sha256_rgba": "df150468fc15760e46b21dac30c92651b92afc9e3adb5b404368e8d0cc41266e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "armor_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_guardian",
+      "title_zh": "Armor Guardian",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_guardian.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "58c90ae1524c38ff302dc3972e63dc2dc39db4e9bf65923f86fd09400982e801",
+      "pixel_sha256_rgba": "df33ffe5c37f818041a781d64d7205a83ba2a2fe3858de301027e28b08ea229c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "armor_guardian"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_guardian"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_leather",
+      "title_zh": "Armor Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e44c04ca6f3d98df11afeaec32de65d5979d9ec2bc77bf2e1df2a7efa9d921ee",
+      "pixel_sha256_rgba": "bf21f3f7d53620b5147af97fdfd3136190277c10ff7670018f5ff8b7044421e0",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "armor_leather"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_plate",
+      "title_zh": "Armor Plate",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_plate.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a25b1ef12a2ab36a4459e78acf690f0494f55a334352baf216feb00169bca7f5",
+      "pixel_sha256_rgba": "ed16f9cfbea5af67a40fc3f478a986eb2b3b6688758ab079702ebb1ca526d8db",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "armor_plate"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_plate"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_storm_blade",
+      "title_zh": "Storm Blade",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_storm_blade.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7385a53e3f1e151a904b90b4b2407a538ddeed8c38367036dd15699796932395",
+      "pixel_sha256_rgba": "e3239b0a259cf90a47d382fa0a4246bca492d8856fa55db1d55d769934e90335",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "blade_storm"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blade_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_vampiric_blade",
+      "title_zh": "Vampiric Blade",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_vampiric_blade.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "b6a9d38b4148a1f8751326bb48870e65570ee7ad91c1e9fb855ed4645ad6b8c1",
+      "pixel_sha256_rgba": "a713cb6f5611649798a707f97c904fa1076e53b01721603ff42ea02374a4f516",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "blade_vampiric"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blade_vampiric"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_fire",
+      "title_zh": "Boots Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3e2463abdbf9144e31f9645b81084060aea884271a358af74ee9e447a30b61c9",
+      "pixel_sha256_rgba": "393c9ff660e87a4ae134ba9aee73578fcf317c167cb77b693a50d80ced6455be",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "boots_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_leather",
+      "title_zh": "Boots Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6a0985ba75bddca6f2dfc8e2d7570b00d56b8bd73395aaf7a40c1bf87f177edf",
+      "pixel_sha256_rgba": "4b0479679c659cc45e31bada1b21885b1f17247a6e773a0eb3e0410741737a8e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "boots_leather"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_steel",
+      "title_zh": "Boots Steel",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_steel.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f08a351d138052dc1bcedf8aa0b63f9c1fe6b11250eb4afe4d602c155c05f628",
+      "pixel_sha256_rgba": "66fd9d62f871315b2b9b1fec886b18df1064635a9bbf0100f38e1956bb68df91",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "boots_steel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_windfire",
+      "title_zh": "Boots Windfire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_windfire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f46ee8dece12813d6aa1531293beed68a3aee801fabcb95dac4c618c5d939e8b",
+      "pixel_sha256_rgba": "33cf9c5e473b5465f0a87be9248d423c6535fb6ce34308bdf894ee0ceb4528fe",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "boots_windfire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_windfire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_bow_basic",
+      "title_zh": "Bow Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_bow_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "db03f42e8e53c6cb496d69c252035f4c2a80bee6adef33b4278c3434c3b84224",
+      "pixel_sha256_rgba": "eb053af4f649308c99eade1c249272d14c057d4774f9c2117e2d12dd8035f541",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "bow_basic"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "bow_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_fire_essence",
+      "title_zh": "Fire Essence",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_fire_essence.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e212bd5d0dd40a4147ac84392d1fe113094694a6b51b1f0203f01b4ba5d5929c",
+      "pixel_sha256_rgba": "d985a13c3d1b64dec9166992f1871348c0a199b4bb84194cf2c9458610c834e5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_materials",
+        "fire_essence"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_essence"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_coin",
+      "title_zh": "Coin",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_coin.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9f78324c8a824822163b129d7ff0727b199f95da98f9d598b86ea405e559342a",
+      "pixel_sha256_rgba": "429cfa0824192b6449c0f3796f593151f8561a1ed458e065b77e167d39de361c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_materials",
+        "gold"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "gold"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_fire",
+      "title_zh": "Helm Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "26ec58fb1683a9e439135d2aa20fad9ddc9445b4f2ef46b0b53b782f172adb0a",
+      "pixel_sha256_rgba": "37a2bc6cc32eb36e40b2dade3e46ecb33b90042b83ca98163e5012e3eb1db037",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "helm_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_leather",
+      "title_zh": "Helm Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "5a92663cbdd413b61952f46e03ea44ca24eaeca3762b5a6d57f4ec2755a0d5fd",
+      "pixel_sha256_rgba": "68f0b8c8919969d5ce4b77a665506819edcff524e2eeb53c74fc465857cf9a1a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "helm_leather"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_steel",
+      "title_zh": "Helm Steel",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_steel.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2a7c458227a925ad77b41c7893bbadf0a1fb6a9a9ec95728d7fa877a42b635d9",
+      "pixel_sha256_rgba": "8fa1e36a773f486d3c7e7d61b61639ea00f4c67ef5238b5f357194f18650d829",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_armor",
+        "helm_steel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_health_potion_small",
+      "title_zh": "Health Potion Small",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_health_potion_small.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a1e18252ba2a6217f1d1123673760f544faeefca808f9038e790ad3dc581f175",
+      "pixel_sha256_rgba": "99a12c977b22c48c46e4198fa883c0f663fd15261b4aec622d9f36d3d0d6821f",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_consumables",
+        "hp_potion"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_health_potion_large",
+      "title_zh": "Health Potion Large",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_health_potion_large.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "489565fbc59d242796e06eae7bad30e6489950eb10e50ecae352958b3b7e8b1b",
+      "pixel_sha256_rgba": "d3a2f179e5ca02c8ed294611217198c6d5991f23bf7033434c2977b57376d87b",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_consumables",
+        "hp_potion_large"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion_large"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_iron_ore",
+      "title_zh": "Iron Ore",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_iron_ore.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "639fcd8619b41104fca13316d2e5466f80e84eda7b94b0deb502febecec7812b",
+      "pixel_sha256_rgba": "96ccfab82c01b991d6d8421819b2f01a7d4e51ebfc3560fcac4831a7f0526590",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_materials",
+        "iron_ore"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "iron_ore"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_leather_bundle",
+      "title_zh": "Leather Bundle",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_leather_bundle.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "727aff9fa8e99807296e84df90bff21203c19a20a939bc3e70d54641fb2bb362",
+      "pixel_sha256_rgba": "6a6bb77e229d09c43e9ed6b77be9ebad90f33a1d3d754b73ef6c17c6710425dd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_materials",
+        "leather"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_mana_potion",
+      "title_zh": "Mana Potion",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_mana_potion.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3d27d9b601a44a3ee33fbe5e0946f16ed46b73d49989a274aaef76d116c20533",
+      "pixel_sha256_rgba": "000fcd01e9dd7ee0b09ed0f0edceaf8654c7fa6a1db4202ffe09eb8a1204d8a5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_consumables",
+        "mp_potion"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mp_potion"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_war_ring",
+      "title_zh": "War Ring",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_war_ring.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6a7736dbfdade353ea42e9f244c8a9e89bcedb0a84c6e237e62552bfea173711",
+      "pixel_sha256_rgba": "af3e8560c73b888e48131a25c3cfd23427a175aa0fa6678f569868dc19ffba85",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "ring_battlelord"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_battlelord"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_defense",
+      "title_zh": "Ring Defense",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_defense.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "043414308c51f9c6645c4581f21998a68cb0c305e2addd1ba0b51fd88df68950",
+      "pixel_sha256_rgba": "639dde36ba83d439a95ab66914a3093e90dcfbc2af3866ca71e06b270d16def7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "ring_defense"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_defense"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_fire",
+      "title_zh": "Ring Fire",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_fire.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "37c92850e87ebe6f74754b9d4f9e463d1cb627dc6c2b4cd169b164e5697607fe",
+      "pixel_sha256_rgba": "8c864c253478f811404182640a4d4129f73a64fc02bb99051c3eae46b5724640",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "ring_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_power",
+      "title_zh": "Ring Power",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_power.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ad4c8be77ddb7b39d0835bd1b56bd241a4c12b7026972297c1843be96d96ffad",
+      "pixel_sha256_rgba": "d57fa214854661e615f7164eb776b7aa3a9762393f7575698939754ec1aac22d",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "ring_power"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_power"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_steel",
+      "title_zh": "Ring Steel",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_steel.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3eb2608c9f9eda7c026701becc1afa70397b9e9ce7574c6dce167ed0122e45a8",
+      "pixel_sha256_rgba": "d044836b1643ce6547f0f32d6fa045c5dd93668358f4095d7fec3e6f7aaf58ca",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_accessories",
+        "ring_steel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_staff_arcane",
+      "title_zh": "Staff Arcane",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_staff_arcane.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "85d8fd280b031e3cad889fafe983c98d0dc55992843d5256037e6f4cf83de06a",
+      "pixel_sha256_rgba": "0274133890cd21e35a9af44fbf85c1c75a7d6735ceb48859ef05e10e3df86bf2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "staff_arcane"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_arcane"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_master_staff",
+      "title_zh": "Master Staff",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_master_staff.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fdf1622a6c0649a71debf2eff4b197171e81eddc92a358271f2299352dfba853",
+      "pixel_sha256_rgba": "f5d4b009ae575e14fc8001f00e3ddef8f05cec8497e2f446b01a2889fad0b692",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "staff_archmage"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_archmage"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_staff_basic",
+      "title_zh": "Staff Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_staff_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "cf6d60961477da56c87293376bdbc8afbc5541e5d185783d6a170a22046b055d",
+      "pixel_sha256_rgba": "d7afd222a085370910d9a49e72eef99bfa506d0cc2a68a910b27df9a2e490b09",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "staff_basic"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_steel_ingot",
+      "title_zh": "Steel Ingot",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_steel_ingot.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9cca6238351bf90f6a20f98d46bacdeee9aa2e4a4b17985597e05b1d7f541745",
+      "pixel_sha256_rgba": "c0d7b32ea9d439c1280af4452a5ef9bb5697348e768110d86f39b87a17de9551",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_materials",
+        "steel_ingot"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "steel_ingot"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_basic",
+      "title_zh": "Sword Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "156d00fe6b77f8943273d7d8e4f32a3e7b969557791286ec445b816f84db8d43",
+      "pixel_sha256_rgba": "eb49dfc7f336818c43f45dee8ae32f03dd75be67d70ab6f680c5899744448c88",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "sword_basic"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_fire",
+      "title_zh": "Sword Fire",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_fire.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6769bce6f548cc47bb86378a082af96586c388a71146fdcebf99b020f9d14f56",
+      "pixel_sha256_rgba": "61a2c3d8983642c29ae6c6f919b598b797ed04a5525710caf0ace52bc3c90c84",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "sword_fire"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_steel",
+      "title_zh": "Sword Steel",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_steel.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "6fefbfa383dd50befd412510943cf3188c4508dbf051fbb100c7ee81e3a8416b",
+      "pixel_sha256_rgba": "b5352307f33200c5b24fc829b82c085ddbb4381b2b278647de3b49ec72007c97",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "item_weapons",
+        "sword_steel"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "vfx_arcane_missile_single",
+      "title_zh": "Arcane Missile Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_arcane_missile_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ff144fc9babc49570c82e3168bc32c8a225d192bc690acc08dfa3ed76a85649e",
+      "pixel_sha256_rgba": "d005320afc50bcf67a80add498279672ae16ec8743dc5b186fcf0746feb98135",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_projectile",
+        "arcane_missile"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_missile"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_projectile/vfx_arcane_missile_single.webp"
+    },
+    {
+      "asset_id": "vfx_archer_arrow_single",
+      "title_zh": "Archer Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_archer_arrow_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "81b99f96ade3621734ebc30cc9594f16e8f5fc462520959e177944bf8b5d2fce",
+      "pixel_sha256_rgba": "144b7ef423129b11de5eaa853e1473d54dcf9a44c95daf2572ce271bf6078384",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_projectile",
+        "archer_arrow"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "archer_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_projectile/vfx_archer_arrow_single.webp"
+    },
+    {
+      "asset_id": "vfx_arrow_storm_single",
+      "title_zh": "Arrow Storm Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_arrow_storm_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "73e0fe60d8899b6cd6e914d0a6e8351f352c7a3186b02d9670eea11a16e859de",
+      "pixel_sha256_rgba": "e2b512ed77689c988aec9f869ccafd52378fea20d6e5ed66bc29ca8c6bb21b84",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_archery",
+        "arrow_storm"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arrow_storm"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_archery/vfx_arrow_storm_single.webp"
+    },
+    {
+      "asset_id": "vfx_avatar_wrath_single",
+      "title_zh": "Avatar Wrath Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_avatar_wrath_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "33efcfddc8da46006826e32164b04517f105daa02991f194e04ffdb44a4ed9fe",
+      "pixel_sha256_rgba": "69476fc85729032ead5716a09a872aa9e6a0e436a6b5c28c3978da6aa1adb79c",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "avatar_wrath"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "avatar_wrath"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_avatar_wrath_single.webp"
+    },
+    {
+      "asset_id": "vfx_berserk_shout_single",
+      "title_zh": "Berserk Shout Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_berserk_shout_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a1759129487c92f80366464c19d45055d05cd687b69bfd8ff0b67f3f5d592e92",
+      "pixel_sha256_rgba": "2ea108763bf3d61dfdcd7a2979d6b8891cf20570085f2929500ba08762ed6f99",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "berserk_shout"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "berserk_shout"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_berserk_shout_single.webp"
+    },
+    {
+      "asset_id": "vfx_blink_cut_single",
+      "title_zh": "Blink Cut Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_blink_cut_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "3bb1e2a663fc00848eb785549c184fb16f86e37bf3383aed9572774b8f60139e",
+      "pixel_sha256_rgba": "dab31aa46f93aa6670689745900cab8d00a21bc322938253d74afd6a4b2337bd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "blink_cut"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blink_cut"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_blink_cut_single.webp"
+    },
+    {
+      "asset_id": "vfx_boss_slam_single",
+      "title_zh": "Boss Slam Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_boss_slam_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9381bf7a58d114f3cb948fa6d8a292735b9bc458bbd4424751957a0a097feb0b",
+      "pixel_sha256_rgba": "bbdec430450e7d8aa83c6d51de565053411977e1969c3cbbf009af060f08eb74",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_impact",
+        "boss_slam"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boss_slam"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_impact/vfx_boss_slam_single.webp"
+    },
+    {
+      "asset_id": "vfx_enemy_arrow_single",
+      "title_zh": "Enemy Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_enemy_arrow_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "c11fa845b99ae99654a09160a65fef2966ab34f091cbbfb1eda27340669ecec7",
+      "pixel_sha256_rgba": "f6312d89b51855ac3b4cc987ed4df23465956bd452754e2133b8c01a0f8b7c27",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_projectile",
+        "enemy_arrow"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "enemy_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_projectile/vfx_enemy_arrow_single.webp"
+    },
+    {
+      "asset_id": "vfx_fire_slash_single",
+      "title_zh": "Fire Slash Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_fire_slash_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1534325b5604dfea9f61f492389c65f9f610d42f20f5b50e0d3a97cce1d5165b",
+      "pixel_sha256_rgba": "1403161dc2aa6ffdd3402ce67fd0314b943b2269ae469f867c67ad7a8e8f3627",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_elemental",
+        "fire_slash"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_slash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_elemental/vfx_fire_slash_single.webp"
+    },
+    {
+      "asset_id": "vfx_flame_orb_single",
+      "title_zh": "Flame Orb Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_flame_orb_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "e1948dfbe018493b55ab3fba66975f6e595dff5470e253e30df6812b85158bc4",
+      "pixel_sha256_rgba": "419d0082bf0ad1ef558e8b4855c272d7fad89b07c00a5f009a98cb1baa5c974e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_elemental",
+        "flame_orb"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "flame_orb"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_elemental/vfx_flame_orb_single.webp"
+    },
+    {
+      "asset_id": "vfx_frost_nova_single",
+      "title_zh": "Frost Nova Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_frost_nova_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ab3953ac010ff47011dd0f9a533e40376f6f62b8f805d5273d5ae94494bc2a8e",
+      "pixel_sha256_rgba": "e2d243fc486f8f14bcefa75a573cca3dfc31835ea672de4bb7915b18b6deb71a",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_elemental",
+        "frost_nova"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "frost_nova"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_elemental/vfx_frost_nova_single.webp"
+    },
+    {
+      "asset_id": "vfx_ground_impact_single",
+      "title_zh": "Ground Impact Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_ground_impact_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "45704ebe32843fbb9eb504763f6f76832d96671b6f4e1520a9d183a017ca60cd",
+      "pixel_sha256_rgba": "af00190d561299ebfb3a46e0c46f3092f179fa244e629a5d984b6aeb6392e1a2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_impact",
+        "ground_impact"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_impact"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_impact/vfx_ground_impact_single.webp"
+    },
+    {
+      "asset_id": "vfx_ground_slam_single",
+      "title_zh": "Ground Slam Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_ground_slam_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ffdf7755c49e058ac47ffadd8db46a5cb6af8675a434164c6c26cbf3040186a0",
+      "pixel_sha256_rgba": "73a8cbc21b7433c07a321c1049eb9e56e20118bcf8a4892d3cbe7cff55e91b05",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_impact",
+        "ground_slam"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_slam"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_impact/vfx_ground_slam_single.webp"
+    },
+    {
+      "asset_id": "vfx_hit_spark_single",
+      "title_zh": "Hit Spark Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_hit_spark_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "53d25a182b7df53a85b164a2b5f7c9a591fa82b7dfbdafd89b3ebb4af5bca0fa",
+      "pixel_sha256_rgba": "f1ab7a6e486f2a847f5776a6842c1951c6b5052cdea6efbc6b3efcdaf72a3d46",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_impact",
+        "hit_spark"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hit_spark"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_impact/vfx_hit_spark_single.webp"
+    },
+    {
+      "asset_id": "vfx_lightning_chain_single",
+      "title_zh": "Lightning Chain Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_lightning_chain_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "a268e13ee4891e13ea19c43d94991b37135922f9219ab578599447178b65a102",
+      "pixel_sha256_rgba": "987b624232b152348a98c3c25d95349491da7ffa3fa05f115b1720cf83b2e599",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_elemental",
+        "lightning_chain"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "lightning_chain"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_elemental/vfx_lightning_chain_single.webp"
+    },
+    {
+      "asset_id": "vfx_meteor_storm_single",
+      "title_zh": "Meteor Storm Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_meteor_storm_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "fdfa39f0845fdc5b182faf7134de15f0597fc08bdfe000b0566d97e7b3def7ca",
+      "pixel_sha256_rgba": "91f3ab4705b8ca34169ff79201de52faa1d8982473f0938e1b047f64a1289590",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_elemental",
+        "meteor_storm"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meteor_storm"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_elemental/vfx_meteor_storm_single.webp"
+    },
+    {
+      "asset_id": "vfx_multishot_single",
+      "title_zh": "Multishot Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_multishot_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "ffd2eca621c7ec304a1ead7e6e1ee1e1f854ab00ad506f07d501ca0ae4d0ed9c",
+      "pixel_sha256_rgba": "2426ac55f252bc8575e6e81dd9a66fcbce42667dbcb98758fba8463b64aaa2d8",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_archery",
+        "multishot"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "multishot"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_archery/vfx_multishot_single.webp"
+    },
+    {
+      "asset_id": "vfx_nightfall_execution_single",
+      "title_zh": "Nightfall Execution Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_nightfall_execution_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2ce5d5960ac065d397bb73e99a654bf700521d8b7158242d31db03d0e9f60e5c",
+      "pixel_sha256_rgba": "7199e1293137ca8b4e393e0a6b87a5c4cbeefc00876be91964cbd82cf88db7b8",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "nightfall_execution"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "nightfall_execution"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_nightfall_execution_single.webp"
+    },
+    {
+      "asset_id": "vfx_piercing_arrow_single",
+      "title_zh": "Piercing Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_piercing_arrow_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "cb2c64c527f2cda92e3cbedd1d66d5f34aef4f5a4b394a01c5bb4cc499d0561d",
+      "pixel_sha256_rgba": "d6b873b13fe32f7ae7b189922a15375604101ba584bf64e3b9ba2c2de360bddf",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_archery",
+        "piercing_arrow"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "piercing_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_archery/vfx_piercing_arrow_single.webp"
+    },
+    {
+      "asset_id": "vfx_poison_blades_single",
+      "title_zh": "Poison Blades Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_poison_blades_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "19e9a9f99b53db09f72ff50a0f137281789b9dcdf01b14c58f00b5b618a48f51",
+      "pixel_sha256_rgba": "6b0030b30a51b3f56cb3d0ce337ce2a54a9b34de95a00bd73f78a7ed15ba4164",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "poison_blades"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "poison_blades"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_poison_blades_single.webp"
+    },
+    {
+      "asset_id": "vfx_shadow_strike_single",
+      "title_zh": "Shadow Strike Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_shadow_strike_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "1ab876df7b7aa23276a9c6f2a8743956c1c3ae9039ee0731022a15d6c8c77649",
+      "pixel_sha256_rgba": "38c5fec9d2a099294859f9220128a0cd992e944a89567e730b50267135a0988e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "shadow_strike"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_strike"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_shadow_strike_single.webp"
+    },
+    {
+      "asset_id": "vfx_shield_bash_single",
+      "title_zh": "Shield Bash Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_shield_bash_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "73c2bd534955208b5e1dae097a5ec1e1e606cfdefe23d6cfed4ed0c7f303c280",
+      "pixel_sha256_rgba": "e18ffcf40caa41b653ca41bd7e511306e5b02bf7f66f848b39d3df0671dde2ee",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_impact",
+        "shield_bash"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shield_bash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_impact/vfx_shield_bash_single.webp"
+    },
+    {
+      "asset_id": "vfx_time_freeze_single",
+      "title_zh": "Time Freeze Single",
+      "kind": "vfx_single",
+      "category": "vfx_arcane",
+      "category_zh": "奥术特效",
+      "path": "vfx/single/arcane/vfx_time_freeze_single.png",
+      "description_zh": "可跨项目复用的奥术特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "50ee996337ce3abae1ee2dedc935bd827a033a9a7d02e2574285453df16a8f39",
+      "pixel_sha256_rgba": "04a1ad6db2a0be14641e89f278874961e9245c58f9fc26268e364038765872d5",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_arcane",
+        "time_freeze"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "time_freeze"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_arcane/vfx_time_freeze_single.webp"
+    },
+    {
+      "asset_id": "vfx_whirlwind_single",
+      "title_zh": "Whirlwind Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_whirlwind_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "7330b949baacf3fb5b4493a0f442774a119ebc8b00854d77326381881a394af3",
+      "pixel_sha256_rgba": "0ebebadc15df34739e2dfe4aff7332de33bf5535cd38cc6d7b09ebeca66eba63",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_martial",
+        "whirlwind"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "whirlwind"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_martial/vfx_whirlwind_single.webp"
+    },
+    {
+      "asset_id": "vfx_celestial_rain_4frame_v1",
+      "title_zh": "Celestial Rain 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_celestial_rain_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "755161e23ff2c43443b6ac3156f074d2ee30fe3d8b972b8fb577df919ebb8a32",
+      "pixel_sha256_rgba": "dba1f6b4bd477e4a47d41b971612ad211e5e1089366ff6f15280bedb1d1dbe51",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_sequence",
+        "celestial_rain_v2"
+      ],
+      "layout": "2x2",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "celestial_rain_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "preview_path": "previews/vfx_sequence/vfx_celestial_rain_4frame_v1.webp"
+    },
+    {
+      "asset_id": "vfx_hunter_mark_4frame_v1",
+      "title_zh": "Hunter Mark 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_hunter_mark_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "2f1191471d8eb94429215ddfed88e24a64b42d9e782244be4bd4a6bd46b786d8",
+      "pixel_sha256_rgba": "d919401f38de92eb136215bd084dedc56402fef7b6b0bd274d284ee034e2f1d7",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_sequence",
+        "hunter_mark_v2"
+      ],
+      "layout": "2x2",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hunter_mark_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "preview_path": "previews/vfx_sequence/vfx_hunter_mark_4frame_v1.webp"
+    },
+    {
+      "asset_id": "vfx_thunder_clap_4frame_v1",
+      "title_zh": "Thunder Clap 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_thunder_clap_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "937c69e6ac2b213703d2dbdc2091df1d3902458412c18ed20f14ec58c0eec3ca",
+      "pixel_sha256_rgba": "7066a2af8c31c80dee7040fc8e536c9784bff0913bab5a30299a15af5fd4bc83",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_sequence",
+        "thunder_clap_v2"
+      ],
+      "layout": "2x2",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "thunder_clap_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "preview_path": "previews/vfx_sequence/vfx_thunder_clap_4frame_v1.webp"
+    },
+    {
+      "asset_id": "vfx_volley_burst_4frame_v1",
+      "title_zh": "Volley Burst 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_volley_burst_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "738f9ed7ad3f34632bd36dcf1c130d36bf383a0705295d09680bb4f78aa942ea",
+      "pixel_sha256_rgba": "8f42e9281ed3d7cb910cb5d985086ef191270cdae8f27b080d0bbc36d08154a2",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_sequence",
+        "volley_burst_v2"
+      ],
+      "layout": "2x2",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "volley_burst_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "preview_path": "previews/vfx_sequence/vfx_volley_burst_4frame_v1.webp"
+    },
+    {
+      "asset_id": "vfx_wind_step_4frame_v1",
+      "title_zh": "Wind Step 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_wind_step_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "format": "PNG",
+      "width": 768,
+      "height": 768,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "58d9d846f6d4311a33ec561e6b8977d951f4d52141f3e84b511aa82df953a7d1",
+      "pixel_sha256_rgba": "8fab0099445fec4bdcab086a3c6a091c9aa67fdb4a5de41eb010f5454519eebc",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_sequence",
+        "wind_step_v2"
+      ],
+      "layout": "2x2",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "wind_step_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "frame_count": 4,
+      "frame_order": [
+        "top_left",
+        "top_right",
+        "bottom_left",
+        "bottom_right"
+      ],
+      "frame_width": 384,
+      "frame_height": 384,
+      "preview_path": "previews/vfx_sequence/vfx_wind_step_4frame_v1.webp"
+    },
+    {
+      "asset_id": "vfx_blood_blade_ring_single",
+      "title_zh": "Blood Blade Ring Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_blood_blade_ring_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "9b1adcbc504d0eae3bb9680e0b2a125a5ae6381143c8fdb54110c8f32bef9fde",
+      "pixel_sha256_rgba": "942f81355784476f8691a0fae25caa24b975417b94078b6503513930d8e8ab85",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "blood_blade_ring"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blood_blade_ring"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_blood_blade_ring_single.webp"
+    },
+    {
+      "asset_id": "vfx_cleave_fan_single",
+      "title_zh": "Cleave Fan Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_cleave_fan_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "d58a299c9e4594214a5163393b29edd0d59fcffddfc4a68de87a2247babfad1b",
+      "pixel_sha256_rgba": "ccefc10f1348502fc877bdef9d4420b24c6054a5ce6fa1ce5e884d0248bc04fd",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "cleave_fan"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "cleave_fan"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_cleave_fan_single.webp"
+    },
+    {
+      "asset_id": "vfx_poison_slash_single",
+      "title_zh": "Poison Slash Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_poison_slash_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0c0bf28a2e706b8d3f11fb8c007ea7963cc8643a84385fa69d7e5a853170f7f7",
+      "pixel_sha256_rgba": "3efd52a703506de147d2b510c1ea02ecdd86390acb9546365957000441258cce",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "poison_slash"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "poison_slash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_poison_slash_single.webp"
+    },
+    {
+      "asset_id": "vfx_shadow_afterimage_single",
+      "title_zh": "Shadow Afterimage Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_afterimage_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "f34b7f9387c85bf5afd453e3a6b2d936e4c0baf7fb377f4eabebb993e971f898",
+      "pixel_sha256_rgba": "15f97e3108dfce395df7e089307e48f766c2c2efc58a594eb30970e4fbdd834e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "shadow_afterimage"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_afterimage"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_shadow_afterimage_single.webp"
+    },
+    {
+      "asset_id": "vfx_shadow_arc_single",
+      "title_zh": "Shadow Arc Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_arc_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "0b25f9c84d4049547dafe794bf9f686783cfd189b8d38310ec1241dbd95e46f9",
+      "pixel_sha256_rgba": "41139ea0a1fbcd9cbbb2f89a0aaac3acf3c59d10fc44355fbf553ebaa7bba0e4",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "shadow_arc"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_arc"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_shadow_arc_single.webp"
+    },
+    {
+      "asset_id": "vfx_shadow_hit_single",
+      "title_zh": "Shadow Hit Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_hit_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "788ccd8d1244cf4ebafa5fb4fb25eafca520dc97ff6fc4618ba0f99abc8955f3",
+      "pixel_sha256_rgba": "a3853bafd2cba18c09b9969c3f136352eda6dae22a763aae8cd3eeee6700793e",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "shadow_hit"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_hit"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_shadow_hit_single.webp"
+    },
+    {
+      "asset_id": "vfx_void_blade_curtain_single",
+      "title_zh": "Void Blade Curtain Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_void_blade_curtain_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "color_mode": "RGBA",
+      "has_alpha": true,
+      "sha256": "bfca82828053fe71df4a9aa0e03616be15f1748aeb1bb759a54c7cb5171c87a2",
+      "pixel_sha256_rgba": "c86bdf9b28836000e31c40f1ac7038b404b844df96f77d27d430cc441133f020",
+      "status": "validated_runtime",
+      "version": "1.0.0",
+      "rights": "see LICENSE-ASSETS.md",
+      "license_status": "NOASSERTION_owner_project_reuse_only",
+      "tags": [
+        "vfx_assassin",
+        "void_blade_curtain"
+      ],
+      "layout": "single",
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "void_blade_curtain"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "recommended_frame_ms": 95,
+      "blend_mode": "alpha_additive",
+      "preview_path": "previews/vfx_assassin/vfx_void_blade_curtain_single.webp"
+    }
+  ]
+}

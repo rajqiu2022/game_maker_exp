@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "pack_id": "fantasy-rpg-icons-vfx-v1",
+  "entries": [
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/arcane_barrier.png",
+      "destination": "icons/skills/arcane/icon_arcane_barrier.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/arcane_missile.png",
+      "destination": "icons/skills/arcane/icon_arcane_missile.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/arrow_storm.png",
+      "destination": "icons/skills/archery/icon_arrow_storm.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/avatar_wrath.png",
+      "destination": "icons/skills/martial/icon_avatar_wrath.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/battle_mastery.png",
+      "destination": "icons/skills/martial/icon_battle_mastery.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/berserk_shout.png",
+      "destination": "icons/skills/martial/icon_berserk_shout.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/cleave.png",
+      "destination": "icons/skills/martial/icon_cleave.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/eagle_eye.png",
+      "destination": "icons/skills/archery/icon_eagle_eye.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/fire_slash.png",
+      "destination": "icons/skills/elemental/icon_fire_slash.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/flame_orb.png",
+      "destination": "icons/skills/elemental/icon_flame_orb.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/frost_nova.png",
+      "destination": "icons/skills/elemental/icon_frost_nova.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/ground_slam.png",
+      "destination": "icons/skills/martial/icon_ground_slam.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/iron_will.png",
+      "destination": "icons/skills/defense/icon_iron_will.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/lightning_chain.png",
+      "destination": "icons/skills/elemental/icon_lightning_chain.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/mana_mastery.png",
+      "destination": "icons/skills/arcane/icon_mana_mastery.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/meteor_storm.png",
+      "destination": "icons/skills/elemental/icon_meteor_storm.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/multishot.png",
+      "destination": "icons/skills/archery/icon_multishot.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/piercing_arrow.png",
+      "destination": "icons/skills/archery/icon_piercing_arrow.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/power_strike.png",
+      "destination": "icons/skills/martial/icon_power_strike.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/shield_bash.png",
+      "destination": "icons/skills/defense/icon_shield_bash.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/thunder_clap.png",
+      "destination": "icons/skills/elemental/icon_thunder_clap.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/time_freeze.png",
+      "destination": "icons/skills/arcane/icon_time_freeze.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/ui/icons/skills/whirlwind.png",
+      "destination": "icons/skills/martial/icon_whirlwind.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/amulet_fire.png",
+      "destination": "icons/items/accessories/item_amulet_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/amulet_steel.png",
+      "destination": "icons/items/accessories/item_amulet_steel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/amulet_titan.png",
+      "destination": "icons/items/accessories/item_amulet_titan.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/armor_fire.png",
+      "destination": "icons/items/armor/item_armor_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/armor_guardian.png",
+      "destination": "icons/items/armor/item_armor_guardian.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/armor_leather.png",
+      "destination": "icons/items/armor/item_armor_leather.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/armor_plate.png",
+      "destination": "icons/items/armor/item_armor_plate.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/blade_storm.png",
+      "destination": "icons/items/weapons/item_storm_blade.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/blade_vampiric.png",
+      "destination": "icons/items/weapons/item_vampiric_blade.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/boots_fire.png",
+      "destination": "icons/items/armor/item_boots_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/boots_leather.png",
+      "destination": "icons/items/armor/item_boots_leather.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/boots_steel.png",
+      "destination": "icons/items/armor/item_boots_steel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/boots_windfire.png",
+      "destination": "icons/items/armor/item_boots_windfire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/bow_basic.png",
+      "destination": "icons/items/weapons/item_bow_basic.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/fire_essence.png",
+      "destination": "icons/items/materials/item_fire_essence.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/gold.png",
+      "destination": "icons/items/materials/item_coin.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/helm_fire.png",
+      "destination": "icons/items/armor/item_helm_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/helm_leather.png",
+      "destination": "icons/items/armor/item_helm_leather.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/helm_steel.png",
+      "destination": "icons/items/armor/item_helm_steel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/hp_potion.png",
+      "destination": "icons/items/consumables/item_health_potion_small.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/hp_potion_large.png",
+      "destination": "icons/items/consumables/item_health_potion_large.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/iron_ore.png",
+      "destination": "icons/items/materials/item_iron_ore.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/leather.png",
+      "destination": "icons/items/materials/item_leather_bundle.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/mp_potion.png",
+      "destination": "icons/items/consumables/item_mana_potion.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/ring_battlelord.png",
+      "destination": "icons/items/accessories/item_war_ring.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/ring_defense.png",
+      "destination": "icons/items/accessories/item_ring_defense.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/ring_fire.png",
+      "destination": "icons/items/accessories/item_ring_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/ring_power.png",
+      "destination": "icons/items/accessories/item_ring_power.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/ring_steel.png",
+      "destination": "icons/items/accessories/item_ring_steel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/staff_arcane.png",
+      "destination": "icons/items/weapons/item_staff_arcane.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/staff_archmage.png",
+      "destination": "icons/items/weapons/item_master_staff.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/staff_basic.png",
+      "destination": "icons/items/weapons/item_staff_basic.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/steel_ingot.png",
+      "destination": "icons/items/materials/item_steel_ingot.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/sword_basic.png",
+      "destination": "icons/items/weapons/item_sword_basic.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/sword_fire.png",
+      "destination": "icons/items/weapons/item_sword_fire.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/items/sword_steel.png",
+      "destination": "icons/items/weapons/item_sword_steel.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/arcane_missile.png",
+      "destination": "vfx/single/projectile/vfx_arcane_missile_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/archer_arrow.png",
+      "destination": "vfx/single/projectile/vfx_archer_arrow_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/arrow_storm.png",
+      "destination": "vfx/single/archery/vfx_arrow_storm_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/avatar_wrath.png",
+      "destination": "vfx/single/martial/vfx_avatar_wrath_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/berserk_shout.png",
+      "destination": "vfx/single/martial/vfx_berserk_shout_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/blink_cut.png",
+      "destination": "vfx/single/martial/vfx_blink_cut_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/boss_slam.png",
+      "destination": "vfx/single/impact/vfx_boss_slam_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/enemy_arrow.png",
+      "destination": "vfx/single/projectile/vfx_enemy_arrow_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/fire_slash.png",
+      "destination": "vfx/single/elemental/vfx_fire_slash_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/flame_orb.png",
+      "destination": "vfx/single/elemental/vfx_flame_orb_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/frost_nova.png",
+      "destination": "vfx/single/elemental/vfx_frost_nova_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/ground_impact.png",
+      "destination": "vfx/single/impact/vfx_ground_impact_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/ground_slam.png",
+      "destination": "vfx/single/impact/vfx_ground_slam_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/hit_spark.png",
+      "destination": "vfx/single/impact/vfx_hit_spark_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/lightning_chain.png",
+      "destination": "vfx/single/elemental/vfx_lightning_chain_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/meteor_storm.png",
+      "destination": "vfx/single/elemental/vfx_meteor_storm_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/multishot.png",
+      "destination": "vfx/single/archery/vfx_multishot_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/nightfall_execution.png",
+      "destination": "vfx/single/martial/vfx_nightfall_execution_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/piercing_arrow.png",
+      "destination": "vfx/single/archery/vfx_piercing_arrow_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/poison_blades.png",
+      "destination": "vfx/single/martial/vfx_poison_blades_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/shadow_strike.png",
+      "destination": "vfx/single/martial/vfx_shadow_strike_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/shield_bash.png",
+      "destination": "vfx/single/impact/vfx_shield_bash_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/time_freeze.png",
+      "destination": "vfx/single/arcane/vfx_time_freeze_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/whirlwind.png",
+      "destination": "vfx/single/martial/vfx_whirlwind_single.png"
+    },
+    {
+      "operation": "compose_2x2",
+      "sources": [
+        "game/art/vfx/celestial_rain_v2_phase_1.png",
+        "game/art/vfx/celestial_rain_v2_phase_2.png",
+        "game/art/vfx/celestial_rain_v2_phase_3.png",
+        "game/art/vfx/celestial_rain_v2_phase_4.png"
+      ],
+      "destination": "vfx/sequences/vfx_celestial_rain_4frame_v1.png"
+    },
+    {
+      "operation": "compose_2x2",
+      "sources": [
+        "game/art/vfx/hunter_mark_v2_phase_1.png",
+        "game/art/vfx/hunter_mark_v2_phase_2.png",
+        "game/art/vfx/hunter_mark_v2_phase_3.png",
+        "game/art/vfx/hunter_mark_v2_phase_4.png"
+      ],
+      "destination": "vfx/sequences/vfx_hunter_mark_4frame_v1.png"
+    },
+    {
+      "operation": "compose_2x2",
+      "sources": [
+        "game/art/vfx/thunder_clap_v2_phase_1.png",
+        "game/art/vfx/thunder_clap_v2_phase_2.png",
+        "game/art/vfx/thunder_clap_v2_phase_3.png",
+        "game/art/vfx/thunder_clap_v2_phase_4.png"
+      ],
+      "destination": "vfx/sequences/vfx_thunder_clap_4frame_v1.png"
+    },
+    {
+      "operation": "compose_2x2",
+      "sources": [
+        "game/art/vfx/volley_burst_v2_phase_1.png",
+        "game/art/vfx/volley_burst_v2_phase_2.png",
+        "game/art/vfx/volley_burst_v2_phase_3.png",
+        "game/art/vfx/volley_burst_v2_phase_4.png"
+      ],
+      "destination": "vfx/sequences/vfx_volley_burst_4frame_v1.png"
+    },
+    {
+      "operation": "compose_2x2",
+      "sources": [
+        "game/art/vfx/wind_step_v2_phase_1.png",
+        "game/art/vfx/wind_step_v2_phase_2.png",
+        "game/art/vfx/wind_step_v2_phase_3.png",
+        "game/art/vfx/wind_step_v2_phase_4.png"
+      ],
+      "destination": "vfx/sequences/vfx_wind_step_4frame_v1.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/blood_blade_ring.png",
+      "destination": "vfx/assassin/vfx_blood_blade_ring_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/cleave_fan.png",
+      "destination": "vfx/assassin/vfx_cleave_fan_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/poison_slash.png",
+      "destination": "vfx/assassin/vfx_poison_slash_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/shadow_afterimage.png",
+      "destination": "vfx/assassin/vfx_shadow_afterimage_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/shadow_arc.png",
+      "destination": "vfx/assassin/vfx_shadow_arc_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/shadow_hit.png",
+      "destination": "vfx/assassin/vfx_shadow_hit_single.png"
+    },
+    {
+      "operation": "copy",
+      "source": "game/art/vfx/assassin_v3/void_blade_curtain.png",
+      "destination": "vfx/assassin/vfx_void_blade_curtain_single.png"
+    }
+  ]
+}

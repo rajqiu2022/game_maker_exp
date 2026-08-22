@@ -1,0 +1,2097 @@
+{
+  "schema_version": 1,
+  "pack_id": "fantasy-rpg-icons-vfx-v1",
+  "version": "1.0.0",
+  "title_zh": "幻想 RPG 图标与战斗特效 v1",
+  "generated_at": "2026-08-22",
+  "sharing_scope": "repository_owner_authorized_game_projects",
+  "categories": {
+    "skill_arcane": "奥术技能图标",
+    "skill_archery": "射击技能图标",
+    "skill_defense": "防御技能图标",
+    "skill_elemental": "元素技能图标",
+    "skill_martial": "武技技能图标",
+    "item_accessories": "饰品图标",
+    "item_armor": "防具图标",
+    "item_consumables": "消耗品图标",
+    "item_materials": "材料图标",
+    "item_weapons": "武器图标",
+    "vfx_arcane": "奥术特效",
+    "vfx_archery": "射击特效",
+    "vfx_assassin": "暗影刀光特效",
+    "vfx_elemental": "元素特效",
+    "vfx_impact": "命中特效",
+    "vfx_martial": "武技特效",
+    "vfx_projectile": "弹道特效",
+    "vfx_sequence": "四阶段特效"
+  },
+  "entries": [
+    {
+      "asset_id": "icon_arcane_barrier",
+      "title_zh": "Arcane Barrier",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_arcane_barrier.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "tags": [
+        "skill_arcane",
+        "arcane_barrier"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_barrier"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_arcane_missile",
+      "title_zh": "Arcane Missile",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_arcane_missile.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "tags": [
+        "skill_arcane",
+        "arcane_missile"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_missile"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_arrow_storm",
+      "title_zh": "Arrow Storm",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_arrow_storm.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "tags": [
+        "skill_archery",
+        "arrow_storm"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arrow_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_avatar_wrath",
+      "title_zh": "Avatar Wrath",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_avatar_wrath.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "avatar_wrath"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "avatar_wrath"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_battle_mastery",
+      "title_zh": "Battle Mastery",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_battle_mastery.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "battle_mastery"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "battle_mastery"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_berserk_shout",
+      "title_zh": "Berserk Shout",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_berserk_shout.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "berserk_shout"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "berserk_shout"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_cleave",
+      "title_zh": "Cleave",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_cleave.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "cleave"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "cleave"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_eagle_eye",
+      "title_zh": "Eagle Eye",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_eagle_eye.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "tags": [
+        "skill_archery",
+        "eagle_eye"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "eagle_eye"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_fire_slash",
+      "title_zh": "Fire Slash",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_fire_slash.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "fire_slash"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_slash"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_flame_orb",
+      "title_zh": "Flame Orb",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_flame_orb.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "flame_orb"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "flame_orb"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_frost_nova",
+      "title_zh": "Frost Nova",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_frost_nova.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "frost_nova"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "frost_nova"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_ground_slam",
+      "title_zh": "Ground Slam",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_ground_slam.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "ground_slam"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_slam"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_iron_will",
+      "title_zh": "Iron Will",
+      "kind": "skill_icon",
+      "category": "skill_defense",
+      "category_zh": "防御技能图标",
+      "path": "icons/skills/defense/icon_iron_will.png",
+      "description_zh": "可跨项目复用的防御技能图标。",
+      "tags": [
+        "skill_defense",
+        "iron_will"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "iron_will"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_lightning_chain",
+      "title_zh": "Lightning Chain",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_lightning_chain.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "lightning_chain"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "lightning_chain"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_mana_mastery",
+      "title_zh": "Mana Mastery",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_mana_mastery.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "tags": [
+        "skill_arcane",
+        "mana_mastery"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mana_mastery"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_meteor_storm",
+      "title_zh": "Meteor Storm",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_meteor_storm.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "meteor_storm"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meteor_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_multishot",
+      "title_zh": "Multishot",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_multishot.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "tags": [
+        "skill_archery",
+        "multishot"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "multishot"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_piercing_arrow",
+      "title_zh": "Piercing Arrow",
+      "kind": "skill_icon",
+      "category": "skill_archery",
+      "category_zh": "射击技能图标",
+      "path": "icons/skills/archery/icon_piercing_arrow.png",
+      "description_zh": "可跨项目复用的射击技能图标。",
+      "tags": [
+        "skill_archery",
+        "piercing_arrow"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "piercing_arrow"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_power_strike",
+      "title_zh": "Power Strike",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_power_strike.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "power_strike"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "power_strike"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_shield_bash",
+      "title_zh": "Shield Bash",
+      "kind": "skill_icon",
+      "category": "skill_defense",
+      "category_zh": "防御技能图标",
+      "path": "icons/skills/defense/icon_shield_bash.png",
+      "description_zh": "可跨项目复用的防御技能图标。",
+      "tags": [
+        "skill_defense",
+        "shield_bash"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shield_bash"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_thunder_clap",
+      "title_zh": "Thunder Clap",
+      "kind": "skill_icon",
+      "category": "skill_elemental",
+      "category_zh": "元素技能图标",
+      "path": "icons/skills/elemental/icon_thunder_clap.png",
+      "description_zh": "可跨项目复用的元素技能图标。",
+      "tags": [
+        "skill_elemental",
+        "thunder_clap"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "thunder_clap"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_time_freeze",
+      "title_zh": "Time Freeze",
+      "kind": "skill_icon",
+      "category": "skill_arcane",
+      "category_zh": "奥术技能图标",
+      "path": "icons/skills/arcane/icon_time_freeze.png",
+      "description_zh": "可跨项目复用的奥术技能图标。",
+      "tags": [
+        "skill_arcane",
+        "time_freeze"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "time_freeze"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "icon_whirlwind",
+      "title_zh": "Whirlwind",
+      "kind": "skill_icon",
+      "category": "skill_martial",
+      "category_zh": "武技技能图标",
+      "path": "icons/skills/martial/icon_whirlwind.png",
+      "description_zh": "可跨项目复用的武技技能图标。",
+      "tags": [
+        "skill_martial",
+        "whirlwind"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "whirlwind"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_fire",
+      "title_zh": "Amulet Fire",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_fire.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "amulet_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_steel",
+      "title_zh": "Amulet Steel",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_steel.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "amulet_steel"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_amulet_titan",
+      "title_zh": "Amulet Titan",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_amulet_titan.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "amulet_titan"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "amulet_titan"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_fire",
+      "title_zh": "Armor Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "armor_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_guardian",
+      "title_zh": "Armor Guardian",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_guardian.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "armor_guardian"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_guardian"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_leather",
+      "title_zh": "Armor Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "armor_leather"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_armor_plate",
+      "title_zh": "Armor Plate",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_armor_plate.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "armor_plate"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "armor_plate"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_storm_blade",
+      "title_zh": "Storm Blade",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_storm_blade.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "blade_storm"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blade_storm"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_vampiric_blade",
+      "title_zh": "Vampiric Blade",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_vampiric_blade.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "blade_vampiric"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blade_vampiric"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_fire",
+      "title_zh": "Boots Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "boots_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_leather",
+      "title_zh": "Boots Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "boots_leather"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_steel",
+      "title_zh": "Boots Steel",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_steel.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "boots_steel"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_boots_windfire",
+      "title_zh": "Boots Windfire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_boots_windfire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "boots_windfire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boots_windfire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_bow_basic",
+      "title_zh": "Bow Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_bow_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "bow_basic"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "bow_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_fire_essence",
+      "title_zh": "Fire Essence",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_fire_essence.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "tags": [
+        "item_materials",
+        "fire_essence"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_essence"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_coin",
+      "title_zh": "Coin",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_coin.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "tags": [
+        "item_materials",
+        "gold"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "gold"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_fire",
+      "title_zh": "Helm Fire",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_fire.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "helm_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_leather",
+      "title_zh": "Helm Leather",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_leather.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "helm_leather"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_helm_steel",
+      "title_zh": "Helm Steel",
+      "kind": "item_icon",
+      "category": "item_armor",
+      "category_zh": "防具图标",
+      "path": "icons/items/armor/item_helm_steel.png",
+      "description_zh": "可跨项目复用的防具图标。",
+      "tags": [
+        "item_armor",
+        "helm_steel"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "helm_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_health_potion_small",
+      "title_zh": "Health Potion Small",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_health_potion_small.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "tags": [
+        "item_consumables",
+        "hp_potion"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_health_potion_large",
+      "title_zh": "Health Potion Large",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_health_potion_large.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "tags": [
+        "item_consumables",
+        "hp_potion_large"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hp_potion_large"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_iron_ore",
+      "title_zh": "Iron Ore",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_iron_ore.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "tags": [
+        "item_materials",
+        "iron_ore"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "iron_ore"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_leather_bundle",
+      "title_zh": "Leather Bundle",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_leather_bundle.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "tags": [
+        "item_materials",
+        "leather"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "leather"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_mana_potion",
+      "title_zh": "Mana Potion",
+      "kind": "item_icon",
+      "category": "item_consumables",
+      "category_zh": "消耗品图标",
+      "path": "icons/items/consumables/item_mana_potion.png",
+      "description_zh": "可跨项目复用的消耗品图标。",
+      "tags": [
+        "item_consumables",
+        "mp_potion"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "mp_potion"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_war_ring",
+      "title_zh": "War Ring",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_war_ring.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "ring_battlelord"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_battlelord"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_defense",
+      "title_zh": "Ring Defense",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_defense.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "ring_defense"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_defense"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_fire",
+      "title_zh": "Ring Fire",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_fire.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "ring_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_power",
+      "title_zh": "Ring Power",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_power.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "ring_power"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_power"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_ring_steel",
+      "title_zh": "Ring Steel",
+      "kind": "item_icon",
+      "category": "item_accessories",
+      "category_zh": "饰品图标",
+      "path": "icons/items/accessories/item_ring_steel.png",
+      "description_zh": "可跨项目复用的饰品图标。",
+      "tags": [
+        "item_accessories",
+        "ring_steel"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ring_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_staff_arcane",
+      "title_zh": "Staff Arcane",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_staff_arcane.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "staff_arcane"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_arcane"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_master_staff",
+      "title_zh": "Master Staff",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_master_staff.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "staff_archmage"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_archmage"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_staff_basic",
+      "title_zh": "Staff Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_staff_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "staff_basic"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "staff_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_steel_ingot",
+      "title_zh": "Steel Ingot",
+      "kind": "item_icon",
+      "category": "item_materials",
+      "category_zh": "材料图标",
+      "path": "icons/items/materials/item_steel_ingot.png",
+      "description_zh": "可跨项目复用的材料图标。",
+      "tags": [
+        "item_materials",
+        "steel_ingot"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "steel_ingot"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_basic",
+      "title_zh": "Sword Basic",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_basic.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "sword_basic"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_basic"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_fire",
+      "title_zh": "Sword Fire",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_fire.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "sword_fire"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_fire"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "item_sword_steel",
+      "title_zh": "Sword Steel",
+      "kind": "item_icon",
+      "category": "item_weapons",
+      "category_zh": "武器图标",
+      "path": "icons/items/weapons/item_sword_steel.png",
+      "description_zh": "可跨项目复用的武器图标。",
+      "tags": [
+        "item_weapons",
+        "sword_steel"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "sword_steel"
+      },
+      "recommended_display_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset_id": "vfx_arcane_missile_single",
+      "title_zh": "Arcane Missile Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_arcane_missile_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "tags": [
+        "vfx_projectile",
+        "arcane_missile"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arcane_missile"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_archer_arrow_single",
+      "title_zh": "Archer Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_archer_arrow_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "tags": [
+        "vfx_projectile",
+        "archer_arrow"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "archer_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_arrow_storm_single",
+      "title_zh": "Arrow Storm Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_arrow_storm_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "tags": [
+        "vfx_archery",
+        "arrow_storm"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "arrow_storm"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_avatar_wrath_single",
+      "title_zh": "Avatar Wrath Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_avatar_wrath_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "avatar_wrath"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "avatar_wrath"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_berserk_shout_single",
+      "title_zh": "Berserk Shout Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_berserk_shout_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "berserk_shout"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "berserk_shout"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_blink_cut_single",
+      "title_zh": "Blink Cut Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_blink_cut_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "blink_cut"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blink_cut"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_boss_slam_single",
+      "title_zh": "Boss Slam Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_boss_slam_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "tags": [
+        "vfx_impact",
+        "boss_slam"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "boss_slam"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_enemy_arrow_single",
+      "title_zh": "Enemy Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_projectile",
+      "category_zh": "弹道特效",
+      "path": "vfx/single/projectile/vfx_enemy_arrow_single.png",
+      "description_zh": "可跨项目复用的弹道特效。",
+      "tags": [
+        "vfx_projectile",
+        "enemy_arrow"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "enemy_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_fire_slash_single",
+      "title_zh": "Fire Slash Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_fire_slash_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "tags": [
+        "vfx_elemental",
+        "fire_slash"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "fire_slash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_flame_orb_single",
+      "title_zh": "Flame Orb Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_flame_orb_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "tags": [
+        "vfx_elemental",
+        "flame_orb"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "flame_orb"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_frost_nova_single",
+      "title_zh": "Frost Nova Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_frost_nova_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "tags": [
+        "vfx_elemental",
+        "frost_nova"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "frost_nova"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_ground_impact_single",
+      "title_zh": "Ground Impact Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_ground_impact_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "tags": [
+        "vfx_impact",
+        "ground_impact"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_impact"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_ground_slam_single",
+      "title_zh": "Ground Slam Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_ground_slam_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "tags": [
+        "vfx_impact",
+        "ground_slam"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "ground_slam"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_hit_spark_single",
+      "title_zh": "Hit Spark Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_hit_spark_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "tags": [
+        "vfx_impact",
+        "hit_spark"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hit_spark"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_lightning_chain_single",
+      "title_zh": "Lightning Chain Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_lightning_chain_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "tags": [
+        "vfx_elemental",
+        "lightning_chain"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "lightning_chain"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_meteor_storm_single",
+      "title_zh": "Meteor Storm Single",
+      "kind": "vfx_single",
+      "category": "vfx_elemental",
+      "category_zh": "元素特效",
+      "path": "vfx/single/elemental/vfx_meteor_storm_single.png",
+      "description_zh": "可跨项目复用的元素特效。",
+      "tags": [
+        "vfx_elemental",
+        "meteor_storm"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "meteor_storm"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_multishot_single",
+      "title_zh": "Multishot Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_multishot_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "tags": [
+        "vfx_archery",
+        "multishot"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "multishot"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_nightfall_execution_single",
+      "title_zh": "Nightfall Execution Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_nightfall_execution_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "nightfall_execution"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "nightfall_execution"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_piercing_arrow_single",
+      "title_zh": "Piercing Arrow Single",
+      "kind": "vfx_single",
+      "category": "vfx_archery",
+      "category_zh": "射击特效",
+      "path": "vfx/single/archery/vfx_piercing_arrow_single.png",
+      "description_zh": "可跨项目复用的射击特效。",
+      "tags": [
+        "vfx_archery",
+        "piercing_arrow"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "piercing_arrow"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_poison_blades_single",
+      "title_zh": "Poison Blades Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_poison_blades_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "poison_blades"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "poison_blades"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_shadow_strike_single",
+      "title_zh": "Shadow Strike Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_shadow_strike_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "shadow_strike"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_strike"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_shield_bash_single",
+      "title_zh": "Shield Bash Single",
+      "kind": "vfx_single",
+      "category": "vfx_impact",
+      "category_zh": "命中特效",
+      "path": "vfx/single/impact/vfx_shield_bash_single.png",
+      "description_zh": "可跨项目复用的命中特效。",
+      "tags": [
+        "vfx_impact",
+        "shield_bash"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shield_bash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_time_freeze_single",
+      "title_zh": "Time Freeze Single",
+      "kind": "vfx_single",
+      "category": "vfx_arcane",
+      "category_zh": "奥术特效",
+      "path": "vfx/single/arcane/vfx_time_freeze_single.png",
+      "description_zh": "可跨项目复用的奥术特效。",
+      "tags": [
+        "vfx_arcane",
+        "time_freeze"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "time_freeze"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_whirlwind_single",
+      "title_zh": "Whirlwind Single",
+      "kind": "vfx_single",
+      "category": "vfx_martial",
+      "category_zh": "武技特效",
+      "path": "vfx/single/martial/vfx_whirlwind_single.png",
+      "description_zh": "可跨项目复用的武技特效。",
+      "tags": [
+        "vfx_martial",
+        "whirlwind"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "whirlwind"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_celestial_rain_4frame_v1",
+      "title_zh": "Celestial Rain 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_celestial_rain_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "tags": [
+        "vfx_sequence",
+        "celestial_rain_v2"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "celestial_rain_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_hunter_mark_4frame_v1",
+      "title_zh": "Hunter Mark 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_hunter_mark_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "tags": [
+        "vfx_sequence",
+        "hunter_mark_v2"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "hunter_mark_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_thunder_clap_4frame_v1",
+      "title_zh": "Thunder Clap 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_thunder_clap_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "tags": [
+        "vfx_sequence",
+        "thunder_clap_v2"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "thunder_clap_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_volley_burst_4frame_v1",
+      "title_zh": "Volley Burst 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_volley_burst_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "tags": [
+        "vfx_sequence",
+        "volley_burst_v2"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "volley_burst_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_wind_step_4frame_v1",
+      "title_zh": "Wind Step 4Frame V1",
+      "kind": "vfx_sheet",
+      "category": "vfx_sequence",
+      "category_zh": "四阶段特效",
+      "path": "vfx/sequences/vfx_wind_step_4frame_v1.png",
+      "description_zh": "可跨项目复用的四阶段特效。",
+      "tags": [
+        "vfx_sequence",
+        "wind_step_v2"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "wind_step_v2"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_blood_blade_ring_single",
+      "title_zh": "Blood Blade Ring Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_blood_blade_ring_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "blood_blade_ring"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "blood_blade_ring"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_cleave_fan_single",
+      "title_zh": "Cleave Fan Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_cleave_fan_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "cleave_fan"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "cleave_fan"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_poison_slash_single",
+      "title_zh": "Poison Slash Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_poison_slash_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "poison_slash"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "poison_slash"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_shadow_afterimage_single",
+      "title_zh": "Shadow Afterimage Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_afterimage_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "shadow_afterimage"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_afterimage"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_shadow_arc_single",
+      "title_zh": "Shadow Arc Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_arc_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "shadow_arc"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_arc"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_shadow_hit_single",
+      "title_zh": "Shadow Hit Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_shadow_hit_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "shadow_hit"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "shadow_hit"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    },
+    {
+      "asset_id": "vfx_void_blade_curtain_single",
+      "title_zh": "Void Blade Curtain Single",
+      "kind": "vfx_single",
+      "category": "vfx_assassin",
+      "category_zh": "暗影刀光特效",
+      "path": "vfx/assassin/vfx_void_blade_curtain_single.png",
+      "description_zh": "可跨项目复用的暗影刀光特效。",
+      "tags": [
+        "vfx_assassin",
+        "void_blade_curtain"
+      ],
+      "provenance": {
+        "kind": "owner_confirmed_ai_runtime",
+        "source_key": "void_blade_curtain"
+      },
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95
+    }
+  ]
+}
