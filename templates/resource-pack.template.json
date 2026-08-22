@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pack_id": "example-resource-pack-v1",
+  "version": "1.0.0",
+  "title": "Example Resource Pack",
+  "license_file": "LICENSE-ASSETS.md",
+  "provenance": {
+    "method": "owner_confirmed_or_ai_generated",
+    "reviewed_by": "repository_owner",
+    "rights_scope": "replace_with_explicit_scope"
+  },
+  "import_policy": {
+    "allow_overwrite": false,
+    "source_allowlist_only": true,
+    "forbidden_parts": [".import", "build", "source", "reference"]
+  },
+  "entries": [
+    {
+      "id": "example_semantic_icon",
+      "category": "skill_icon",
+      "path": "icons/skills/icon_example.png",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "alpha_required": true,
+      "safe_area_ratio": 0.82,
+      "source_key": "example_source_key"
+    }
+  ],
+  "generated_outputs": ["manifest.json", "CATALOG.md", "SHA256SUMS", "previews"]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "protocol_version": "example_protocol_v1",
+  "message": {
+    "kind": "request|result|snapshot|delta|presentation",
+    "message_id": "example_message_id",
+    "request_id": "example_request_id",
+    "actor_id": "example_player_id",
+    "object_id": "example_object_id",
+    "revision": 1,
+    "server_tick": 1,
+    "payload": {}
+  },
+  "rules": {
+    "authority": "host_or_server",
+    "deduplicate_requests_by": "request_id",
+    "deduplicate_presentation_by": "message_id",
+    "reject_delta_older_than_revision": true,
+    "local_ui_is_network_state": false
+  },
+  "reconnect": {
+    "heartbeat_timeout_seconds": 8,
+    "full_snapshot_before_deltas": true,
+    "unsupported_behavior": "show_disconnect_and_return_safely"
+  }
+}

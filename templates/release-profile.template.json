@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "release_id": "example_release",
+  "product_version": "0.1.0",
+  "protocol_version": "example_protocol_v1",
+  "content_version": "example_content_v1",
+  "platforms": {
+    "desktop": {
+      "preset_id": "example_desktop_preset",
+      "architectures": ["x86_64"],
+      "artifact": "dist/example-desktop.zip"
+    },
+    "mobile": {
+      "preset_id": "example_mobile_preset",
+      "architectures": ["arm64"],
+      "artifact": "dist/example-mobile.apk",
+      "permissions": ["network"]
+    }
+  },
+  "playable_entries": [
+    {
+      "entry_id": "example_map",
+      "root": "game/maps/example_map/map.json",
+      "closure_manifest": "build/release/example_map-closure.json",
+      "compatibility_scope": "current_entry_only"
+    }
+  ],
+  "required_audits": ["resource_closure", "case_sensitive_paths", "package_contents", "device_smoke"]
+}

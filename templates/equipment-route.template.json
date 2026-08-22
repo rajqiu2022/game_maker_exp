@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "route_id": "example_class_weapon_route",
+  "class_tags": ["example_melee_class"],
+  "universal_tags": ["all_classes"],
+  "nodes": [
+    {
+      "item_id": "example_starter_weapon",
+      "tier": "starter",
+      "level_window": [1, 2],
+      "sources": ["starter_reward", "normal_drop"],
+      "requires_items": [],
+      "requires_materials": {"example_common_material": 2},
+      "requires_challenge_material": false,
+      "recommendation_reason": "first_reliable_upgrade",
+      "next": ["example_transition_weapon"]
+    },
+    {
+      "item_id": "example_transition_weapon",
+      "tier": "transition",
+      "level_window": [2, 5],
+      "sources": ["crafting", "shop"],
+      "requires_items": ["example_starter_weapon"],
+      "requires_materials": {"example_common_material": 5},
+      "requires_challenge_material": false,
+      "recommendation_reason": "bridge_to_core_build",
+      "next": ["example_core_weapon"]
+    }
+  ],
+  "pickup_policy": {
+    "incompatible_class": "leave_on_ground_with_persistent_tip",
+    "unknown_item": "reject_and_log_without_deleting_drop",
+    "inventory_mutation_authority": "host_or_server"
+  }
+}

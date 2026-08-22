@@ -14,6 +14,12 @@
 | 制作角色或怪物动画 | [角色与怪物精灵管线](docs/character-monster-sprites.md) | [动画清单模板](templates/sprite-animation-manifest.template.json)、[精灵发布检查表](checklists/sprite-release.md) |
 | 同时支持 PC 和手机 | [跨平台 UI 与触控](docs/ui-cross-platform.md) | [UI 布局模板](templates/ui-layout-profile.template.json)、[手机 UI 检查表](checklists/ui-mobile-release.md) |
 | 使用 AI 生成美术资源 | [AI 美术生产管线](docs/art-production.md) | [美术资产清单模板](templates/art-asset-manifest.template.json)、[美术发布检查表](checklists/art-release.md) |
+| 打通远程玩家状态与交互 | [多人联机权威状态](docs/multiplayer-authority.md) | [网络状态信封模板](templates/network-state-envelope.template.json)、[多人联机检查表](checklists/multiplayer-release.md) |
+| 解决刷怪、寻路和高攻速卡顿 | [游戏运行时性能预算](docs/runtime-performance.md) | [性能预算模板](templates/performance-budget.template.json)、[性能检查表](checklists/performance-release.md) |
+| 设计职业装备和前期成长 | [装备成长与推荐路线](docs/equipment-progression.md) | [装备路线模板](templates/equipment-route.template.json)、[装备成长检查表](checklists/equipment-progression.md) |
+| 导出桌面与移动正式包 | [跨平台构建与发布闭包](docs/cross-platform-release.md) | [发布配置模板](templates/release-profile.template.json)、[跨平台发布检查表](checklists/cross-platform-release.md) |
+| 丰富技能、拾取和 UI 音效 | [游戏音效反馈系统](docs/audio-feedback.md) | [音频表现模板](templates/audio-presentation.template.json)、[音效检查表](checklists/audio-release.md) |
+| 建立跨项目资源共享 | [可复用资源包治理](docs/resource-pack-governance.md) | [资源包模板](templates/resource-pack.template.json)、[资源包目录](resource-packs/README.md) |
 | 复用已整理的图标与招式特效 | [可复用美术资源包](resource-packs/README.md) | [水墨武侠图标与招式特效 v1](resource-packs/ink-wuxia-icons-vfx-v1/README.md) |
 | 建立自动化验收 | [质量门禁](docs/quality-gates.md) | `python tools/validate_repository.py` |
 | 把经验接入新项目 | [采用指南](docs/adoption-guide.md) | [贡献规范](CONTRIBUTING.md) |

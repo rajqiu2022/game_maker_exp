@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "profile_id": "example_low_tier_mobile",
+  "device_class": "replace_with_measured_target",
+  "scenario": "example_peak_spawn_combat",
+  "frame_budget": {
+    "target_fps": 60,
+    "p95_frame_ms_max": 18.0,
+    "p99_frame_ms_max": 28.0,
+    "long_frame_ms": 40.0,
+    "long_frames_per_minute_max": 3
+  },
+  "work_limits": {
+    "spawn_per_frame_max": 4,
+    "active_entities_max": 60,
+    "path_requests_per_frame_max": 3,
+    "particles_visible_max": 500,
+    "audio_voices_max": 24,
+    "network_snapshot_bytes_max": 32768
+  },
+  "memory": {
+    "resident_mb_max": 900,
+    "texture_mb_max": 400,
+    "growth_mb_over_test_max": 20
+  },
+  "evidence": {
+    "warmup_seconds": 30,
+    "sample_seconds": 180,
+    "required_markers": ["spawn_start", "first_path", "combat_peak"]
+  }
+}

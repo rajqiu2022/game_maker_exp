@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "profile_id": "example_melee_skill_audio",
+  "events": {
+    "cast": {
+      "candidates": ["audio/skills/example_cast_01.ogg", "audio/skills/example_cast_02.ogg"],
+      "fallback_event": "generic_cast",
+      "bus": "combat",
+      "priority": 60,
+      "volume_db": -2.0,
+      "pitch_range": [0.96, 1.04],
+      "spatial": true,
+      "concurrency_group": "player_cast",
+      "max_voices": 3,
+      "cooldown_ms": 80,
+      "overflow": "drop_oldest"
+    },
+    "hit": {
+      "candidates": ["audio/skills/example_hit_01.ogg"],
+      "fallback_event": "generic_hit",
+      "bus": "combat",
+      "priority": 50,
+      "volume_db": -3.0,
+      "pitch_range": [0.94, 1.06],
+      "spatial": true,
+      "concurrency_group": "melee_hits",
+      "max_voices": 5,
+      "cooldown_ms": 45,
+      "overflow": "drop_quietest"
+    }
+  },
+  "network": {
+    "deduplicate_by": "event_id",
+    "predicted_phase": "cast",
+    "confirmed_phases": ["release", "hit"]
+  }
+}

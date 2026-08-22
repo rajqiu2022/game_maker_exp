@@ -83,6 +83,21 @@ godot --headless --path game tests/runtime_smoke.tscn
 
 - 状态优先级、方向切换、命中帧和死亡结束状态。
 
+### 装备成长
+
+- 全职业路线从起步到终局可达，过渡层级不被挑战材料锁死。
+- 不兼容拾取不会删除地面物品，权威库存请求可去重。
+
+### 音频
+
+- 语义事件、文件、总线与回退引用存在。
+- 高频并发组有声道上限，远程表现事件可去重。
+
+### 跨平台发布
+
+- 每个可玩入口生成资源闭包，最终包内容与闭包一致。
+- 联机兼容只比较当前入口、协议和必需依赖。
+
 ## 六、人工视觉验收
 
 自动测试通过后，按固定场景和观察问题评审：
@@ -120,6 +135,8 @@ godot --headless --path game tests/runtime_smoke.tscn
 - 地图版本只校验当前联机地图及其依赖。
 
 主机迁移和重连成本较高时可以明确标记为非目标，但断线检测和用户提示仍应存在。
+
+详细契约分别见[多人联机权威状态](multiplayer-authority.md)、[运行时性能预算](runtime-performance.md)、[装备成长与推荐路线](equipment-progression.md)、[跨平台构建与发布闭包](cross-platform-release.md)、[游戏音效反馈系统](audio-feedback.md)和[可复用资源包治理](resource-pack-governance.md)。
 
 ## 九、基线失败管理
 
