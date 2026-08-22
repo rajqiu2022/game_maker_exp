@@ -69,6 +69,13 @@ resource-packs/ 经所有者批准、独立声明授权的跨项目运行时美�
 ## 当前案例
 
 - [俯视角 RPG 地图制作经验](case-studies/rpg-map-production-lessons.md)：从地图生成、建筑遮挡、技能表现、动态怪物到 PC/手机联机 UI 的集中复盘。
+- [RPG 地图项目资源采用建议](adoption/rpg-map-resource-fit.md)：把共享资源语义映射到刺客、战士、辅助、材料和跨平台 UI，不自动修改游戏运行时。
+
+## 当前资源包
+
+- [水墨武侠图标与招式特效 v1](resource-packs/ink-wuxia-icons-vfx-v1/README.md)
+- [幻想 RPG 图标与战斗特效 v1](resource-packs/fantasy-rpg-icons-vfx-v1/README.md)
+- [跨平台 RPG UI Kit v1](resource-packs/rpg-ui-kit-v1/README.md)
 
 ## 维护方式
 

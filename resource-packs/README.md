@@ -5,6 +5,8 @@
 | 资源包 | 内容 | 目录 |
 |---|---|---|
 | 水墨武侠图标与招式特效 v1 | 36 个语义图标、47 套四阶段透明特效及 47 个动态预览 | [查看资源包](ink-wuxia-icons-vfx-v1/README.md) |
+| 幻想 RPG 图标与战斗特效 v1 | 23 个技能图标、36 个物品图标、31 个单段 VFX、5 个四阶段 VFX | [查看资源包](fantasy-rpg-icons-vfx-v1/README.md) |
+| 跨平台 RPG UI Kit v1 | 42 个核心组件、12 个移动控件、8 个 HUD 组件 | [查看资源包](rpg-ui-kit-v1/README.md) |
 
 资源包与 `docs/`、`templates/`、`tools/` 的许可可能不同。采用前必须阅读包内的 `LICENSE-ASSETS.md` 和 `manifest.json`，不能仅依据仓库根 MIT 推断美术资源授权。
 
