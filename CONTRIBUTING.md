@@ -87,6 +87,14 @@ case-studies/<project-or-genre>-<topic>.md
 
 美术资源包属于必须“单独标注”的内容：放入 `resource-packs/<pack-id>/`，提供 `README.md`、`manifest.json`、`LICENSE-ASSETS.md` 与哈希清单。项目专属名称改为通用语义 ID；raw、参考图、人物/剧情资产、`.import` 和本机元数据不得进入。单文件超过 50 MiB 时不直接提交到 Git，改用 Release 或经评审的 LFS 策略。
 
+### 非破坏式资源发布
+
+- 资源导入必须采用 **no-clobber**：目标不存在才创建；摘要相同可幂等跳过；内容不同必须失败，禁止静默覆盖。
+- 每个资源包独立维护 `LICENSE-ASSETS.md`，根 MIT License 不自动覆盖 PNG、WebP 等美术二进制。
+- 选择清单只能列出获批准的运行时文件，禁止纳入 `_source`、参考图、`.import`、构建包、缓存、机器绝对路径和敏感信息。
+- `manifest.json`、`CATALOG.md`、`SHA256SUMS` 和预览必须由工具确定性生成；CI 重建后应保持工作树无差异。
+- 新包使用独立目录和语义版本，不得为迁就新项目而改写既有包；升级应提供采用映射、冲突报告和回退说明。
+
 ## 评审清单
 
 - 内容是否能被另一个游戏项目理解？

@@ -35,24 +35,24 @@
         "source_key": "button_compact_disabled"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        112,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         14,
         5,
         14,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         112,
         40
+      ],
+      "recommended_touch_target": [
+        112,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_compact_disabled.webp"
     },
@@ -86,24 +86,24 @@
         "source_key": "button_compact_hover"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        112,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         14,
         5,
         14,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         112,
         40
+      ],
+      "recommended_touch_target": [
+        112,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_compact_hover.webp"
     },
@@ -137,24 +137,24 @@
         "source_key": "button_compact_normal"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        112,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         14,
         5,
         14,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         112,
         40
+      ],
+      "recommended_touch_target": [
+        112,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_compact_normal.webp"
     },
@@ -188,24 +188,24 @@
         "source_key": "button_compact_pressed"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        112,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         14,
         5,
         14,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         112,
         40
+      ],
+      "recommended_touch_target": [
+        112,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_compact_pressed.webp"
     },
@@ -239,24 +239,24 @@
         "source_key": "button_compact_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        112,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         14,
         5,
         14,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         112,
         40
+      ],
+      "recommended_touch_target": [
+        112,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_compact_selected.webp"
     },
@@ -290,24 +290,24 @@
         "source_key": "button_primary_disabled"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        192,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         192,
         48
+      ],
+      "recommended_touch_target": [
+        192,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_primary_disabled.webp"
     },
@@ -341,24 +341,24 @@
         "source_key": "button_primary_hover"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        192,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         192,
         48
+      ],
+      "recommended_touch_target": [
+        192,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_primary_hover.webp"
     },
@@ -392,24 +392,24 @@
         "source_key": "button_primary_normal"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        192,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         192,
         48
+      ],
+      "recommended_touch_target": [
+        192,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_primary_normal.webp"
     },
@@ -443,24 +443,24 @@
         "source_key": "button_primary_pressed"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        192,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         192,
         48
+      ],
+      "recommended_touch_target": [
+        192,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_primary_pressed.webp"
     },
@@ -494,24 +494,24 @@
         "source_key": "button_primary_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        192,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         192,
         48
+      ],
+      "recommended_touch_target": [
+        192,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_primary_selected.webp"
     },
@@ -545,24 +545,24 @@
         "source_key": "button_secondary_disabled"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        160,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         160,
         48
+      ],
+      "recommended_touch_target": [
+        160,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_secondary_disabled.webp"
     },
@@ -596,24 +596,24 @@
         "source_key": "button_secondary_hover"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        160,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         160,
         48
+      ],
+      "recommended_touch_target": [
+        160,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_secondary_hover.webp"
     },
@@ -647,24 +647,24 @@
         "source_key": "button_secondary_normal"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        160,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         160,
         48
+      ],
+      "recommended_touch_target": [
+        160,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_secondary_normal.webp"
     },
@@ -698,24 +698,24 @@
         "source_key": "button_secondary_pressed"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        160,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         160,
         48
+      ],
+      "recommended_touch_target": [
+        160,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_secondary_pressed.webp"
     },
@@ -749,24 +749,24 @@
         "source_key": "button_secondary_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        160,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         160,
         48
+      ],
+      "recommended_touch_target": [
+        160,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_secondary_selected.webp"
     },
@@ -800,24 +800,24 @@
         "source_key": "button_small"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        82,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         10,
         3,
         10,
         3
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         82,
         28
+      ],
+      "recommended_touch_target": [
+        82,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_button_small.webp"
     },
@@ -851,24 +851,24 @@
         "source_key": "checkbox_disabled"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         18,
         18
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_checkbox_disabled.webp"
     },
@@ -902,24 +902,24 @@
         "source_key": "checkbox_hover"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         18,
         18
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_checkbox_hover.webp"
     },
@@ -953,24 +953,24 @@
         "source_key": "checkbox_off"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         18,
         18
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_checkbox_off.webp"
     },
@@ -1004,24 +1004,24 @@
         "source_key": "checkbox_on"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         18,
         18
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_checkbox_on.webp"
     },
@@ -1055,24 +1055,24 @@
         "source_key": "close_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         30,
         30
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_close_button.webp"
     },
@@ -1106,17 +1106,17 @@
         "source_key": "dialog_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         8,
         16,
         8
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         64
@@ -1153,24 +1153,24 @@
         "source_key": "dialogue_choice"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        320,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         42
+      ],
+      "recommended_touch_target": [
+        320,
+        72
       ],
       "preview_path": "previews/ui_core_controls/ui_dialogue_choice.webp"
     },
@@ -1204,22 +1204,22 @@
         "source_key": "hero_card_frame"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        250,
-        246
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
+        250,
+        246
+      ],
+      "recommended_touch_target": [
         250,
         246
       ],
@@ -1255,22 +1255,22 @@
         "source_key": "hero_card_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        250,
-        246
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
+        250,
+        246
+      ],
+      "recommended_touch_target": [
         250,
         246
       ],
@@ -1306,17 +1306,17 @@
         "source_key": "hotkey_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         62,
         62
@@ -1353,17 +1353,17 @@
         "source_key": "list_row"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         42
@@ -1400,22 +1400,22 @@
         "source_key": "map_card_frame"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        344,
-        230
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
+        344,
+        230
+      ],
+      "recommended_touch_target": [
         344,
         230
       ],
@@ -1451,22 +1451,22 @@
         "source_key": "map_card_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        344,
-        230
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
+        344,
+        230
+      ],
+      "recommended_touch_target": [
         344,
         230
       ],
@@ -1502,17 +1502,17 @@
         "source_key": "meter_fill_health"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         260,
         12
@@ -1549,17 +1549,17 @@
         "source_key": "meter_fill_mana"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         260,
         12
@@ -1596,17 +1596,17 @@
         "source_key": "meter_fill_xp"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         260,
         12
@@ -1643,17 +1643,17 @@
         "source_key": "meter_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         260,
         12
@@ -1690,17 +1690,17 @@
         "source_key": "panel_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         12,
         12,
         12,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         96,
         96
@@ -1737,17 +1737,17 @@
         "source_key": "panel_header"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         12,
         4,
         12,
         4
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         96,
         32
@@ -1784,17 +1784,17 @@
         "source_key": "panel_inset"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         9,
         9,
         9,
         9
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         72,
         72
@@ -1831,17 +1831,17 @@
         "source_key": "quest_tracker"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         112
@@ -1878,17 +1878,17 @@
         "source_key": "reward_row"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         50
@@ -1925,24 +1925,24 @@
         "source_key": "select_frame"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        210,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         210,
         40
+      ],
+      "recommended_touch_target": [
+        210,
+        72
       ],
       "preview_path": "previews/ui_core_slots/ui_select_frame.webp"
     },
@@ -1976,24 +1976,24 @@
         "source_key": "skill_slot"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         46,
         46
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_slots/ui_skill_slot.webp"
     },
@@ -2027,24 +2027,24 @@
         "source_key": "skill_slot_selected"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        72,
-        72
+      "platforms": [
+        "desktop",
+        "mobile"
       ],
+      "stretch_mode": "scale",
       "content_safe_margin": [
         0,
         0,
         0,
         0
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "scale",
       "recommended_visible_size": [
         46,
         46
+      ],
+      "recommended_touch_target": [
+        72,
+        72
       ],
       "preview_path": "previews/ui_core_slots/ui_skill_slot_selected.webp"
     },
@@ -2078,17 +2078,17 @@
         "source_key": "title_bar"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         320,
         40
@@ -2125,23 +2125,23 @@
         "source_key": "attack_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_attack_button.webp"
     },
@@ -2175,23 +2175,23 @@
         "source_key": "character_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_character_button.webp"
     },
@@ -2225,23 +2225,23 @@
         "source_key": "crafting_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_crafting_button.webp"
     },
@@ -2275,23 +2275,23 @@
         "source_key": "hp_potion_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_hp_potion_button.webp"
     },
@@ -2325,23 +2325,23 @@
         "source_key": "interact_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_interact_button.webp"
     },
@@ -2375,23 +2375,23 @@
         "source_key": "inventory_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_inventory_button.webp"
     },
@@ -2425,23 +2425,23 @@
         "source_key": "joystick_base"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_joystick_base.webp"
     },
@@ -2475,23 +2475,23 @@
         "source_key": "joystick_knob"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_joystick_knob.webp"
     },
@@ -2525,23 +2525,23 @@
         "source_key": "mp_potion_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_mp_potion_button.webp"
     },
@@ -2575,23 +2575,23 @@
         "source_key": "shop_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_shop_button.webp"
     },
@@ -2625,23 +2625,23 @@
         "source_key": "skill_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_skill_button.webp"
     },
@@ -2675,23 +2675,23 @@
         "source_key": "skills_button"
       },
       "interactive": true,
-      "recommended_touch_target": [
-        80,
-        80
+      "platforms": [
+        "mobile"
       ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         64,
         64
+      ],
+      "recommended_touch_target": [
+        80,
+        80
       ],
       "preview_path": "previews/ui_mobile_controls/ui_mobile_skills_button.webp"
     },
@@ -2725,17 +2725,17 @@
         "source_key": "base_status_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         196,
         42
@@ -2772,17 +2772,17 @@
         "source_key": "base_status_frame_transparent"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         196,
         42
@@ -2819,17 +2819,17 @@
         "source_key": "crystal_status_panel"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         6,
         16,
         6
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         218,
         54
@@ -2866,17 +2866,17 @@
         "source_key": "hero_status_panel"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         248,
         152
@@ -2913,17 +2913,17 @@
         "source_key": "objective_panel"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         12,
         16,
         12
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         360,
         132
@@ -2960,17 +2960,17 @@
         "source_key": "party_row_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         5,
         16,
         5
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         196,
         44
@@ -3007,17 +3007,17 @@
         "source_key": "resource_bar_frame"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         2,
         16,
         2
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         210,
         20
@@ -3054,17 +3054,17 @@
         "source_key": "resource_bar_frame_fixed"
       },
       "interactive": false,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "stretch_mode": "nine_patch",
       "content_safe_margin": [
         16,
         2,
         16,
         2
       ],
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "stretch_mode": "nine_patch",
       "recommended_visible_size": [
         210,
         20

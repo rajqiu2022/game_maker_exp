@@ -1984,8 +1984,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_projectile/vfx_arcane_missile_single.webp"
     },
     {
@@ -2020,8 +2020,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_projectile/vfx_archer_arrow_single.webp"
     },
     {
@@ -2056,8 +2056,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_archery/vfx_arrow_storm_single.webp"
     },
     {
@@ -2092,8 +2092,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_avatar_wrath_single.webp"
     },
     {
@@ -2128,8 +2128,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_berserk_shout_single.webp"
     },
     {
@@ -2164,8 +2164,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_blink_cut_single.webp"
     },
     {
@@ -2200,8 +2200,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_impact/vfx_boss_slam_single.webp"
     },
     {
@@ -2236,8 +2236,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_projectile/vfx_enemy_arrow_single.webp"
     },
     {
@@ -2272,8 +2272,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_elemental/vfx_fire_slash_single.webp"
     },
     {
@@ -2308,8 +2308,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_elemental/vfx_flame_orb_single.webp"
     },
     {
@@ -2344,8 +2344,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_elemental/vfx_frost_nova_single.webp"
     },
     {
@@ -2380,8 +2380,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_impact/vfx_ground_impact_single.webp"
     },
     {
@@ -2416,8 +2416,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_impact/vfx_ground_slam_single.webp"
     },
     {
@@ -2452,8 +2452,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_impact/vfx_hit_spark_single.webp"
     },
     {
@@ -2488,8 +2488,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_elemental/vfx_lightning_chain_single.webp"
     },
     {
@@ -2524,8 +2524,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_elemental/vfx_meteor_storm_single.webp"
     },
     {
@@ -2560,8 +2560,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_archery/vfx_multishot_single.webp"
     },
     {
@@ -2596,8 +2596,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_nightfall_execution_single.webp"
     },
     {
@@ -2632,8 +2632,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_archery/vfx_piercing_arrow_single.webp"
     },
     {
@@ -2668,8 +2668,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_poison_blades_single.webp"
     },
     {
@@ -2704,8 +2704,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_shadow_strike_single.webp"
     },
     {
@@ -2740,8 +2740,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_impact/vfx_shield_bash_single.webp"
     },
     {
@@ -2776,8 +2776,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_arcane/vfx_time_freeze_single.webp"
     },
     {
@@ -2812,8 +2812,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_martial/vfx_whirlwind_single.webp"
     },
     {
@@ -2848,8 +2848,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "frame_count": 4,
       "frame_order": [
         "top_left",
@@ -2893,8 +2893,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "frame_count": 4,
       "frame_order": [
         "top_left",
@@ -2938,8 +2938,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "frame_count": 4,
       "frame_order": [
         "top_left",
@@ -2983,8 +2983,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "frame_count": 4,
       "frame_order": [
         "top_left",
@@ -3028,8 +3028,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "frame_count": 4,
       "frame_order": [
         "top_left",
@@ -3073,8 +3073,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_blood_blade_ring_single.webp"
     },
     {
@@ -3109,8 +3109,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_cleave_fan_single.webp"
     },
     {
@@ -3145,8 +3145,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_poison_slash_single.webp"
     },
     {
@@ -3181,8 +3181,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_shadow_afterimage_single.webp"
     },
     {
@@ -3217,8 +3217,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_shadow_arc_single.webp"
     },
     {
@@ -3253,8 +3253,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_shadow_hit_single.webp"
     },
     {
@@ -3289,8 +3289,8 @@
         0.5,
         0.5
       ],
-      "recommended_frame_ms": 95,
       "blend_mode": "alpha_additive",
+      "recommended_frame_ms": 95,
       "preview_path": "previews/vfx_assassin/vfx_void_blade_curtain_single.webp"
     }
   ]

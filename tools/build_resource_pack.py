@@ -19,7 +19,7 @@ PACK_RE = re.compile(r"^[a-z0-9][a-z0-9_-]+$")
 KINDS = {"skill_icon", "item_icon", "vfx_single", "vfx_sheet", "ui_component"}
 STRETCH_MODES = {"none", "scale", "tile", "nine_patch"}
 FORBIDDEN_PARTS = {"source", "build", "exports", ".godot", "__pycache__"}
-PASSTHROUGH_FIELDS = {
+PASSTHROUGH_FIELDS = (
     "interactive",
     "recommended_display_size",
     "anchor",
@@ -30,7 +30,7 @@ PASSTHROUGH_FIELDS = {
     "content_safe_margin",
     "recommended_visible_size",
     "recommended_touch_target",
-}
+)
 
 
 def sha256(path: Path) -> str:
