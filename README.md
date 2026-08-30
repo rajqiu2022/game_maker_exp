@@ -12,6 +12,7 @@
 | 建筑遮挡角色，需要自动半透明 | [交互建筑与半透明遮挡](docs/building-occlusion.md) | [建筑遮挡模板](templates/building-occlusion.template.json)、[建筑检查表](checklists/building-interaction.md) |
 | 制作技能图标、动作、特效和音效 | [可配置技能表现系统](docs/skill-presentation.md) | [技能数值模板](templates/skill-definition.template.json)、[技能表现模板](templates/skill-presentation.template.json) |
 | 制作角色或怪物动画 | [角色与怪物精灵管线](docs/character-monster-sprites.md) | [动画清单模板](templates/sprite-animation-manifest.template.json)、[精灵发布检查表](checklists/sprite-release.md) |
+| 制作背包、任务、武学、商店或战斗 HUD | [数据驱动游戏 UI 生产手册](docs/ui-production-playbook.md) | [UI 界面契约模板](templates/ui-screen-contract.template.json)、[UI 界面发布检查表](checklists/ui-screen-release.md) |
 | 同时支持 PC 和手机 | [跨平台 UI 与触控](docs/ui-cross-platform.md) | [UI 布局模板](templates/ui-layout-profile.template.json)、[手机 UI 检查表](checklists/ui-mobile-release.md) |
 | 使用 AI 生成美术资源 | [AI 美术生产管线](docs/art-production.md) | [美术资产清单模板](templates/art-asset-manifest.template.json)、[美术发布检查表](checklists/art-release.md) |
 | 建立自动化验收 | [质量门禁](docs/quality-gates.md) | `python tools/validate_repository.py` |
@@ -61,6 +62,7 @@ tools/         本仓库内容校验工具
 ## 当前案例
 
 - [俯视角 RPG 地图制作经验](case-studies/rpg-map-production-lessons.md)：从地图生成、建筑遮挡、技能表现、动态怪物到 PC/手机联机 UI 的集中复盘。
+- [武侠 RPG UI 生产经验](case-studies/wuxia-rpg-ui-production-lessons.md)：从整屏概念图误用、头像与 Tooltip、品质状态和装备交互，到截图闭环的完整迁移案例。
 
 ## 维护方式
 

@@ -24,6 +24,7 @@ REQUIRED_PATHS = (
     "docs/skill-presentation.md",
     "docs/character-monster-sprites.md",
     "docs/ui-cross-platform.md",
+    "docs/ui-production-playbook.md",
     "docs/art-production.md",
     "docs/quality-gates.md",
     "templates/art-asset-manifest.template.json",
@@ -33,6 +34,7 @@ REQUIRED_PATHS = (
     "templates/skill-presentation.template.json",
     "templates/sprite-animation-manifest.template.json",
     "templates/ui-layout-profile.template.json",
+    "templates/ui-screen-contract.template.json",
 )
 
 
@@ -240,6 +242,109 @@ def validate_ui_template(errors: list[str], data: dict[str, Any]) -> None:
             )
 
 
+def validate_ui_screen_contract(errors: list[str], data: dict[str, Any]) -> None:
+    require_keys(
+        errors,
+        data,
+        {
+            "screen_id",
+            "purpose",
+            "reference_resolution",
+            "safe_content_rect",
+            "semantic_state",
+            "layout",
+            "visual_tokens",
+            "assets",
+            "interaction",
+            "tooltip",
+            "feedback",
+            "capture_matrix",
+            "acceptance",
+        },
+        "UI screen contract",
+    )
+    semantic_state = data.get("semantic_state", {})
+    if not isinstance(semantic_state, dict):
+        errors.append("UI screen semantic_state must be an object")
+        semantic_state = {}
+    states = semantic_state.get("states", [])
+    required_states = {"empty", "normal", "selected", "equipped", "disabled", "loading", "error"}
+    if not isinstance(states, list) or not required_states.issubset(states):
+        errors.append("UI screen contract must cover empty/normal/selected/equipped/disabled/loading/error")
+    resolution = data.get("reference_resolution", [])
+    if not (
+        isinstance(resolution, list)
+        and len(resolution) == 2
+        and all(isinstance(value, int) and value > 0 for value in resolution)
+    ):
+        errors.append("UI screen reference_resolution must contain two positive integers")
+    safe_rect = data.get("safe_content_rect", [])
+    if not (
+        isinstance(safe_rect, list)
+        and len(safe_rect) == 4
+        and all(isinstance(value, int) and value >= 0 for value in safe_rect)
+    ):
+        errors.append("UI screen safe_content_rect must be [x, y, width, height]")
+    elif safe_rect[2] <= 0 or safe_rect[3] <= 0:
+        errors.append("UI screen safe_content_rect width and height must be positive")
+    elif (
+        isinstance(resolution, list)
+        and len(resolution) == 2
+        and safe_rect[2] > 0
+        and safe_rect[3] > 0
+        and (safe_rect[0] + safe_rect[2] > resolution[0] or safe_rect[1] + safe_rect[3] > resolution[1])
+    ):
+        errors.append("UI screen safe_content_rect must stay inside reference_resolution")
+    layout = data.get("layout", {})
+    if not isinstance(layout, dict):
+        errors.append("UI screen layout must be an object")
+        layout = {}
+    layers = layout.get("layers", {})
+    if not isinstance(layers, dict) or not {"world", "hud", "system_panel", "modal"}.issubset(layers):
+        errors.append("UI screen layout must declare world/hud/system_panel/modal layers")
+    elif not (layers["world"] < layers["hud"] < layers["system_panel"] < layers["modal"]):
+        errors.append("UI screen layers must increase from world to modal")
+    assets = data.get("assets", {})
+    if not isinstance(assets, dict):
+        errors.append("UI screen assets must be an object")
+        assets = {}
+    button_states = set(assets.get("button_states", []))
+    if not {"normal", "pressed", "disabled"}.issubset(button_states):
+        errors.append("UI screen assets must declare normal/pressed/disabled button states")
+    interaction = data.get("interaction", {})
+    if not isinstance(interaction, dict):
+        errors.append("UI screen interaction must be an object")
+        interaction = {}
+    if interaction.get("pointer") and "hover" not in button_states:
+        errors.append("UI screen pointer profiles must declare a hover button state")
+    keyboard = interaction.get("keyboard", {})
+    if keyboard and not isinstance(keyboard, dict):
+        errors.append("UI screen keyboard interaction must be an object")
+    elif isinstance(keyboard, dict) and keyboard.get("focus_navigation") and "focus" not in button_states:
+        errors.append("UI screen keyboard focus navigation must declare a focus button state")
+    tooltip = data.get("tooltip", {})
+    if not isinstance(tooltip, dict):
+        errors.append("UI screen tooltip must be an object")
+        tooltip = {}
+    minimum_width = tooltip.get("minimum_width")
+    maximum_width = tooltip.get("maximum_width")
+    if not (
+        isinstance(minimum_width, int)
+        and isinstance(maximum_width, int)
+        and minimum_width > 0
+        and maximum_width >= minimum_width
+    ):
+        errors.append("UI screen tooltip widths must be positive and maximum_width >= minimum_width")
+    if tooltip.get("empty_returns_null") is not True:
+        errors.append("UI screen tooltip must return null for empty content")
+    for field_name in ("visual_tokens", "feedback", "acceptance"):
+        if not isinstance(data.get(field_name), dict):
+            errors.append(f"UI screen {field_name} must be an object")
+    captures = data.get("capture_matrix", [])
+    if not isinstance(captures, list) or len(captures) < 6:
+        errors.append("UI screen capture_matrix must cover at least six review states")
+
+
 def validate_art_template(errors: list[str], data: dict[str, Any]) -> None:
     require_keys(
         errors,
@@ -259,6 +364,7 @@ def validate_template_contracts(
         presentation_data = templates["skill-presentation.template.json"]
         sprite_data = templates["sprite-animation-manifest.template.json"]
         ui_data = templates["ui-layout-profile.template.json"]
+        ui_screen_data = templates["ui-screen-contract.template.json"]
         art_data = templates["art-asset-manifest.template.json"]
     except KeyError:
         return
@@ -267,6 +373,7 @@ def validate_template_contracts(
     validate_sprite_template(errors, sprite_data)
     validate_skill_templates(errors, definition_data, presentation_data, sprite_data)
     validate_ui_template(errors, ui_data)
+    validate_ui_screen_contract(errors, ui_screen_data)
     validate_art_template(errors, art_data)
 
 

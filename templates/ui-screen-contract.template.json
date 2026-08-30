@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "_comment": "Project-neutral contract for one data-driven game UI screen. Replace example IDs and values during adoption.",
+  "screen_id": "inventory.main",
+  "purpose": "Inspect items, compare details, and execute one authorized item action.",
+  "reference_resolution": [1920, 1080],
+  "safe_content_rect": [24, 24, 1872, 1032],
+  "semantic_state": {
+    "source": "inventory_view_model",
+    "selection_key": "item_instance_id",
+    "states": ["empty", "normal", "selected", "equipped", "disabled", "loading", "error"],
+    "commands": {
+      "primary": "inventory.execute_primary",
+      "secondary": "inventory.execute_secondary",
+      "close": "panel.close"
+    },
+    "validation": "Commands revalidate ownership, target character, quantity, and current state."
+  },
+  "layout": {
+    "layers": {"world": 0, "hud": 40, "system_panel": 80, "modal": 120},
+    "regions": {
+      "filter_tabs": {"anchor": "top_left", "min_size": [560, 64]},
+      "item_grid": {"anchor": "left", "min_size": [760, 720], "scroll": true},
+      "detail_panel": {"anchor": "right", "min_size": [620, 720], "scroll": true},
+      "action_row": {"anchor": "bottom_right", "min_size": [620, 80]}
+    },
+    "responsive_profiles": ["desktop_16_9", "desktop_narrow", "mobile_landscape"]
+  },
+  "visual_tokens": {
+    "font_roles": ["display", "section", "body", "caption", "tooltip"],
+    "color_roles": ["panel", "border", "body", "muted", "selection", "disabled", "danger", "success"],
+    "quality_palette": {
+      "common": "#c0c8d0",
+      "uncommon": "#1eff00",
+      "rare": "#4d8fff",
+      "epic": "#b56cff",
+      "legendary": "#ff9b38"
+    }
+  },
+  "assets": {
+    "concept_reference": "art/ui/inventory/concept/reference.png",
+    "runtime_panel": "art/ui/inventory/panel_runtime.png",
+    "repeatable_slot": "art/ui/shared/item_slot.png",
+    "button_states": ["normal", "hover", "pressed", "disabled", "focus"],
+    "baked_text_allowed": false,
+    "provenance_required": true
+  },
+  "interaction": {
+    "pointer": {"primary": "select_or_execute_primary", "secondary": "execute_secondary"},
+    "keyboard": {"confirm": "execute_primary", "cancel": "close", "focus_navigation": true},
+    "touch": {"minimum_target_dp": [48, 48], "long_press_secondary": true},
+    "block_world_input_while_open": true,
+    "single_primary_panel": true
+  },
+  "tooltip": {
+    "mode": "structured_panel",
+    "minimum_width": 400,
+    "maximum_width": 560,
+    "clamp_to_viewport": true,
+    "empty_returns_null": true,
+    "sections": ["name", "ordinary_stats", "special_effects", "source", "operation_hint"]
+  },
+  "feedback": {
+    "result_source": "command_result",
+    "success": ["state_refresh", "toast", "sound"],
+    "failure": ["reason_text", "no_success_animation", "no_resource_consumption"],
+    "show_actual_deltas": true
+  },
+  "capture_matrix": [
+    "empty",
+    "normal",
+    "long_text",
+    "many_items",
+    "selected_equipped",
+    "disabled_reason",
+    "tooltip_corner",
+    "confirmation_modal",
+    "missing_art_fallback"
+  ],
+  "acceptance": {
+    "automated": ["json_parse", "asset_exists", "button_state_dimensions", "semantic_state_matrix", "input_isolation"],
+    "screenshots": ["desktop_1920x1080", "desktop_narrow", "mobile_landscape"],
+    "manual": ["readability", "state_discoverability", "visual_consistency", "pointer_keyboard_touch_flow"]
+  }
+}
