@@ -8,6 +8,8 @@
 
 资源包与 `docs/`、`templates/`、`tools/` 的许可可能不同。采用前必须阅读包内的 `LICENSE-ASSETS.md` 和 `manifest.json`，不能仅依据仓库根 MIT 推断美术资源授权。
 
+从现有包选择少量图标或特效时，可按 ID 导出运行图、帧序、校验值和授权文件。[操作示例](../docs/runtime-art-reuse.md)
+
 ## 准入条件
 
 - 只发布无文字、无水印、无角色身份和无剧情内容的稳定运行时资源。
