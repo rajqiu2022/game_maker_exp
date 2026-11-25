@@ -9,6 +9,7 @@
 | 你正在做什么 | 先读 | 直接使用 |
 |---|---|---|
 | 新建或重做地图 | [地图场景生成管线](docs/map-scene-pipeline.md) | [地图规格模板](templates/map-authoring-spec.template.json)、[地图发布检查表](checklists/map-release.md) |
+| 布置城镇、渡口与桥市 | [聚落、河道与出入口制作手册](docs/map-production.md) | [封渡、过桥、进店的实测案例](case-studies/wuxia-settlements-and-waterways.md) |
 | 建筑遮挡角色，需要自动半透明 | [交互建筑与半透明遮挡](docs/building-occlusion.md) | [建筑遮挡模板](templates/building-occlusion.template.json)、[建筑检查表](checklists/building-interaction.md) |
 | 制作技能图标、动作、特效和音效 | [可配置技能表现系统](docs/skill-presentation.md) | [技能数值模板](templates/skill-definition.template.json)、[技能表现模板](templates/skill-presentation.template.json) |
 | 制作角色或怪物动画 | [角色与怪物精灵管线](docs/character-monster-sprites.md) | [动画清单模板](templates/sprite-animation-manifest.template.json)、[精灵发布检查表](checklists/sprite-release.md) |
